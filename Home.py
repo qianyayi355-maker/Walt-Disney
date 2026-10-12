@@ -17,5 +17,4 @@ st.markdown("""
 👈 **请在左侧侧边栏点击进入 `app` 页面查看完整功能！**
 """)
 
-# 可选：添加跳转按钮直接引导至子页面
-st.page_link("pages/app.py", label="👉 点击直接进入 World Cities 地图分析", icon="🗺️")
+
