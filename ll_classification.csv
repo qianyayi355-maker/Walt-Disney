@@ -1,0 +1,52 @@
+park_id,ride_id,ride_name,ll_class
+6,1184,A Pirate's Adventure ~ Treasures of the Seven Seas,exclude
+6,248,Astro Orbiter,none
+6,130,Big Thunder Mountain Railroad,multi_pass
+6,131,Buzz Lightyear’s Space Ranger Spin,multi_pass
+6,1214,Country Bear Musical Jamboree,none
+6,132,Dumbo the Flying Elephant,multi_pass
+6,128,Enchanted Tales with Belle,multi_pass
+6,140,Haunted Mansion,multi_pass
+6,133,"""it's a small world""",multi_pass
+6,134,Jungle Cruise,multi_pass
+6,1187,Liberty Square Riverboat,none
+6,135,Mad Tea Party,multi_pass
+6,149,Meet Anna and Elsa at Princess Fairytale Hall,exclude
+6,147,Meet Ariel at Her Grotto,exclude
+6,6700,Meet Cinderella and a Visiting Princess at Princess Fairytale Hall,exclude
+6,150,Meet Cinderella and Rapunzel at Princess Fairytale Hall,exclude
+6,144,Meet Daring Disney Pals as Circus Stars at Pete's Silly Sideshow,exclude
+6,145,Meet Dashing Disney Pals as Circus Stars at Pete's Silly Sideshow,exclude
+6,17526,Meet Festive Disney Pals at Mickey’s Not-So-Scary Halloween Party,exclude
+6,14928,Meet Jack Skellington and Sally at Mickey's Not-So-Scary Halloween Party,exclude
+6,146,Meet Mickey at Town Square Theater,exclude
+6,14927,Meet Mickey Mouse and Minnie Mouse at Mickey's Not-So-Scary Halloween Party,exclude
+6,6699,Meet Princess Tiana and a Visiting Princess at Princess Fairytale Hall,exclude
+6,15395,Meet Santa Jack and Sally at Town Square Theater at Mickey's Very Merry Christmas Party,exclude
+6,148,Meet Tinker Bell at Town Square Theater,exclude
+6,171,Mickey's PhilharMagic,multi_pass
+6,125,"Monsters, Inc. Laugh Floor",multi_pass
+6,136,Peter Pan's Flight,multi_pass
+6,137,Pirates of the Caribbean,multi_pass
+6,161,Prince Charming Regal Carrousel,none
+6,129,Seven Dwarfs Mine Train,single_pass
+6,1180,Sorcerers of the Magic Kingdom,exclude
+6,138,Space Mountain,multi_pass
+6,139,Splash Mountain,exclude
+6,124,Stitch's Great Escape!,none
+6,355,Swiss Family Treehouse,none
+6,126,The Barnstormer,multi_pass
+6,356,The Hall of Presidents,none
+6,141,The Magic Carpets of Aladdin,multi_pass
+6,142,The Many Adventures of Winnie the Pooh,multi_pass
+6,13630,Tiana's Bayou Adventure,exclude
+6,465,Tom Sawyer Island,none
+6,143,Tomorrowland Speedway,multi_pass
+6,1190,Tomorrowland Transit Authority PeopleMover,none
+6,11527,TRON Lightcycle / Run,single_pass
+6,127,Under the Sea - Journey of The Little Mermaid,multi_pass
+6,1181,Walt Disney World Railroad - Fantasyland,none
+6,1179,Walt Disney World Railroad - Frontierland,none
+6,1189,"Walt Disney World Railroad - Main Street, U.S.A.",none
+6,457,Walt Disney's Carousel of Progress,none
+6,334,Walt Disney's Enchanted Tiki Room,none

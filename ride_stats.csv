@@ -1,0 +1,2023 @@
+park_id,park_name,year,ride_id,ride_name,is_archived,metric,minutes
+5,Epcot,all_time,10916,Guardians of the Galaxy: Cosmic Rewind,0,ride_avg_wait,63
+5,Epcot,all_time,160,Test Track,0,ride_avg_wait,57
+5,Epcot,all_time,10914,Remy's Ratatouille Adventure,0,ride_avg_wait,56
+5,Epcot,all_time,2679,Frozen Ever After,0,ride_avg_wait,52
+5,Epcot,all_time,6701,Meet Anna and Elsa at Royal Sommerhus,0,ride_avg_wait,34
+5,Epcot,all_time,151,Soarin' Across America,1,ride_avg_wait,32
+5,Epcot,all_time,13627,Meet Beloved Disney Pals at Mickey & Friends,0,ride_avg_wait,24
+5,Epcot,all_time,272,Meet Disney Pals at the Epcot Character Spot,1,ride_avg_wait,24
+5,Epcot,all_time,158,Mission: SPACE,0,ride_avg_wait,19
+5,Epcot,all_time,16467,Soarin' Across America,0,ride_avg_wait,18
+5,Epcot,all_time,159,Spaceship Earth,0,ride_avg_wait,14
+5,Epcot,all_time,152,Turtle Talk With Crush,0,ride_avg_wait,14
+5,Epcot,all_time,829,Canada Far and Wide in Circle-Vision 360,0,ride_avg_wait,13
+5,Epcot,all_time,7323,Awesome Planet,0,ride_avg_wait,12
+5,Epcot,all_time,155,Journey Into Imagination With Figment,0,ride_avg_wait,12
+5,Epcot,all_time,156,Living with the Land,0,ride_avg_wait,11
+5,Epcot,all_time,153,The Seas with Nemo & Friends,0,ride_avg_wait,11
+5,Epcot,all_time,466,Gran Fiesta Tour Starring The Three Caballeros,0,ride_avg_wait,10
+5,Epcot,all_time,2495,Disney and Pixar Short Film Festival,0,ride_avg_wait,8
+5,Epcot,all_time,162,Ellen's Energy Adventure,1,ride_avg_wait,8
+5,Epcot,all_time,468,The Circle of Life,1,ride_avg_wait,8
+5,Epcot,all_time,12387,"Journey of Water, Inspired by Moana",0,ride_avg_wait,6
+5,Epcot,all_time,154,Captain EO,1,ride_avg_wait,5
+5,Epcot,all_time,160,Test Track,0,ride_max_wait,87
+5,Epcot,all_time,10916,Guardians of the Galaxy: Cosmic Rewind,0,ride_max_wait,83
+5,Epcot,all_time,10914,Remy's Ratatouille Adventure,0,ride_max_wait,80
+5,Epcot,all_time,2679,Frozen Ever After,0,ride_max_wait,75
+5,Epcot,all_time,6701,Meet Anna and Elsa at Royal Sommerhus,0,ride_max_wait,59
+5,Epcot,all_time,151,Soarin' Across America,1,ride_max_wait,58
+5,Epcot,all_time,272,Meet Disney Pals at the Epcot Character Spot,1,ride_max_wait,49
+5,Epcot,all_time,13627,Meet Beloved Disney Pals at Mickey & Friends,0,ride_max_wait,42
+5,Epcot,all_time,158,Mission: SPACE,0,ride_max_wait,41
+5,Epcot,all_time,16467,Soarin' Across America,0,ride_max_wait,33
+5,Epcot,all_time,159,Spaceship Earth,0,ride_max_wait,31
+5,Epcot,all_time,155,Journey Into Imagination With Figment,0,ride_max_wait,26
+5,Epcot,all_time,156,Living with the Land,0,ride_max_wait,26
+5,Epcot,all_time,153,The Seas with Nemo & Friends,0,ride_max_wait,26
+5,Epcot,all_time,152,Turtle Talk With Crush,0,ride_max_wait,20
+5,Epcot,all_time,466,Gran Fiesta Tour Starring The Three Caballeros,0,ride_max_wait,16
+5,Epcot,all_time,7323,Awesome Planet,0,ride_max_wait,14
+5,Epcot,all_time,829,Canada Far and Wide in Circle-Vision 360,0,ride_max_wait,14
+5,Epcot,all_time,2495,Disney and Pixar Short Film Festival,0,ride_max_wait,13
+5,Epcot,all_time,468,The Circle of Life,1,ride_max_wait,9
+5,Epcot,all_time,162,Ellen's Energy Adventure,1,ride_max_wait,8
+5,Epcot,all_time,12387,"Journey of Water, Inspired by Moana",0,ride_max_wait,6
+5,Epcot,all_time,154,Captain EO,1,ride_max_wait,5
+5,Epcot,2015,160,Test Track,0,ride_avg_wait,62
+5,Epcot,2015,151,Soarin' Across America,1,ride_avg_wait,60
+5,Epcot,2015,272,Meet Disney Pals at the Epcot Character Spot,1,ride_avg_wait,24
+5,Epcot,2015,158,Mission: SPACE,0,ride_avg_wait,23
+5,Epcot,2015,159,Spaceship Earth,0,ride_avg_wait,17
+5,Epcot,2015,156,Living with the Land,0,ride_avg_wait,15
+5,Epcot,2015,155,Journey Into Imagination With Figment,0,ride_avg_wait,13
+5,Epcot,2015,152,Turtle Talk With Crush,0,ride_avg_wait,13
+5,Epcot,2015,153,The Seas with Nemo & Friends,0,ride_avg_wait,12
+5,Epcot,2015,162,Ellen's Energy Adventure,1,ride_avg_wait,10
+5,Epcot,2015,466,Gran Fiesta Tour Starring The Three Caballeros,0,ride_avg_wait,6
+5,Epcot,2015,822,"""Tomorrowland"" Sneak Preview",1,ride_avg_wait,5
+5,Epcot,2015,154,Captain EO,1,ride_avg_wait,5
+5,Epcot,2015,2495,Disney and Pixar Short Film Festival,0,ride_avg_wait,5
+5,Epcot,2015,468,The Circle of Life,1,ride_avg_wait,5
+5,Epcot,2015,736,The Sum of All Thrills,1,ride_avg_wait,5
+5,Epcot,2015,160,Test Track,0,ride_max_wait,124
+5,Epcot,2015,151,Soarin' Across America,1,ride_max_wait,103
+5,Epcot,2015,158,Mission: SPACE,0,ride_max_wait,102
+5,Epcot,2015,272,Meet Disney Pals at the Epcot Character Spot,1,ride_max_wait,54
+5,Epcot,2015,156,Living with the Land,0,ride_max_wait,40
+5,Epcot,2015,159,Spaceship Earth,0,ride_max_wait,38
+5,Epcot,2015,155,Journey Into Imagination With Figment,0,ride_max_wait,28
+5,Epcot,2015,153,The Seas with Nemo & Friends,0,ride_max_wait,28
+5,Epcot,2015,152,Turtle Talk With Crush,0,ride_max_wait,19
+5,Epcot,2015,162,Ellen's Energy Adventure,1,ride_max_wait,10
+5,Epcot,2015,466,Gran Fiesta Tour Starring The Three Caballeros,0,ride_max_wait,6
+5,Epcot,2015,822,"""Tomorrowland"" Sneak Preview",1,ride_max_wait,5
+5,Epcot,2015,154,Captain EO,1,ride_max_wait,5
+5,Epcot,2015,2495,Disney and Pixar Short Film Festival,0,ride_max_wait,5
+5,Epcot,2015,468,The Circle of Life,1,ride_max_wait,5
+5,Epcot,2015,736,The Sum of All Thrills,1,ride_max_wait,5
+5,Epcot,2016,2679,Frozen Ever After,0,ride_avg_wait,84
+5,Epcot,2016,160,Test Track,0,ride_avg_wait,61
+5,Epcot,2016,151,Soarin' Across America,1,ride_avg_wait,51
+5,Epcot,2016,158,Mission: SPACE,0,ride_avg_wait,23
+5,Epcot,2016,272,Meet Disney Pals at the Epcot Character Spot,1,ride_avg_wait,22
+5,Epcot,2016,829,Canada Far and Wide in Circle-Vision 360,0,ride_avg_wait,20
+5,Epcot,2016,159,Spaceship Earth,0,ride_avg_wait,17
+5,Epcot,2016,156,Living with the Land,0,ride_avg_wait,15
+5,Epcot,2016,153,The Seas with Nemo & Friends,0,ride_avg_wait,14
+5,Epcot,2016,152,Turtle Talk With Crush,0,ride_avg_wait,14
+5,Epcot,2016,155,Journey Into Imagination With Figment,0,ride_avg_wait,13
+5,Epcot,2016,468,The Circle of Life,1,ride_avg_wait,10
+5,Epcot,2016,2495,Disney and Pixar Short Film Festival,0,ride_avg_wait,7
+5,Epcot,2016,162,Ellen's Energy Adventure,1,ride_avg_wait,7
+5,Epcot,2016,466,Gran Fiesta Tour Starring The Three Caballeros,0,ride_avg_wait,7
+5,Epcot,2016,736,The Sum of All Thrills,1,ride_avg_wait,5
+5,Epcot,2016,2679,Frozen Ever After,0,ride_max_wait,123
+5,Epcot,2016,160,Test Track,0,ride_max_wait,118
+5,Epcot,2016,151,Soarin' Across America,1,ride_max_wait,102
+5,Epcot,2016,158,Mission: SPACE,0,ride_max_wait,85
+5,Epcot,2016,272,Meet Disney Pals at the Epcot Character Spot,1,ride_max_wait,53
+5,Epcot,2016,159,Spaceship Earth,0,ride_max_wait,41
+5,Epcot,2016,156,Living with the Land,0,ride_max_wait,39
+5,Epcot,2016,153,The Seas with Nemo & Friends,0,ride_max_wait,35
+5,Epcot,2016,155,Journey Into Imagination With Figment,0,ride_max_wait,26
+5,Epcot,2016,152,Turtle Talk With Crush,0,ride_max_wait,22
+5,Epcot,2016,829,Canada Far and Wide in Circle-Vision 360,0,ride_max_wait,20
+5,Epcot,2016,468,The Circle of Life,1,ride_max_wait,10
+5,Epcot,2016,2495,Disney and Pixar Short Film Festival,0,ride_max_wait,8
+5,Epcot,2016,466,Gran Fiesta Tour Starring The Three Caballeros,0,ride_max_wait,8
+5,Epcot,2016,162,Ellen's Energy Adventure,1,ride_max_wait,7
+5,Epcot,2016,736,The Sum of All Thrills,1,ride_max_wait,5
+5,Epcot,2017,2679,Frozen Ever After,0,ride_avg_wait,72
+5,Epcot,2017,160,Test Track,0,ride_avg_wait,69
+5,Epcot,2017,151,Soarin' Across America,1,ride_avg_wait,48
+5,Epcot,2017,158,Mission: SPACE,0,ride_avg_wait,22
+5,Epcot,2017,159,Spaceship Earth,0,ride_avg_wait,21
+5,Epcot,2017,156,Living with the Land,0,ride_avg_wait,18
+5,Epcot,2017,155,Journey Into Imagination With Figment,0,ride_avg_wait,15
+5,Epcot,2017,152,Turtle Talk With Crush,0,ride_avg_wait,15
+5,Epcot,2017,153,The Seas with Nemo & Friends,0,ride_avg_wait,14
+5,Epcot,2017,2495,Disney and Pixar Short Film Festival,0,ride_avg_wait,10
+5,Epcot,2017,466,Gran Fiesta Tour Starring The Three Caballeros,0,ride_avg_wait,9
+5,Epcot,2017,468,The Circle of Life,1,ride_avg_wait,9
+5,Epcot,2017,162,Ellen's Energy Adventure,1,ride_avg_wait,6
+5,Epcot,2017,160,Test Track,0,ride_max_wait,118
+5,Epcot,2017,2679,Frozen Ever After,0,ride_max_wait,107
+5,Epcot,2017,151,Soarin' Across America,1,ride_max_wait,94
+5,Epcot,2017,159,Spaceship Earth,0,ride_max_wait,66
+5,Epcot,2017,158,Mission: SPACE,0,ride_max_wait,53
+5,Epcot,2017,156,Living with the Land,0,ride_max_wait,46
+5,Epcot,2017,153,The Seas with Nemo & Friends,0,ride_max_wait,39
+5,Epcot,2017,155,Journey Into Imagination With Figment,0,ride_max_wait,31
+5,Epcot,2017,152,Turtle Talk With Crush,0,ride_max_wait,25
+5,Epcot,2017,2495,Disney and Pixar Short Film Festival,0,ride_max_wait,17
+5,Epcot,2017,466,Gran Fiesta Tour Starring The Three Caballeros,0,ride_max_wait,12
+5,Epcot,2017,468,The Circle of Life,1,ride_max_wait,9
+5,Epcot,2017,162,Ellen's Energy Adventure,1,ride_max_wait,6
+5,Epcot,2018,160,Test Track,0,ride_avg_wait,74
+5,Epcot,2018,2679,Frozen Ever After,0,ride_avg_wait,53
+5,Epcot,2018,151,Soarin' Across America,1,ride_avg_wait,42
+5,Epcot,2018,158,Mission: SPACE,0,ride_avg_wait,22
+5,Epcot,2018,159,Spaceship Earth,0,ride_avg_wait,22
+5,Epcot,2018,156,Living with the Land,0,ride_avg_wait,19
+5,Epcot,2018,155,Journey Into Imagination With Figment,0,ride_avg_wait,16
+5,Epcot,2018,153,The Seas with Nemo & Friends,0,ride_avg_wait,15
+5,Epcot,2018,152,Turtle Talk With Crush,0,ride_avg_wait,12
+5,Epcot,2018,466,Gran Fiesta Tour Starring The Three Caballeros,0,ride_avg_wait,10
+5,Epcot,2018,2495,Disney and Pixar Short Film Festival,0,ride_avg_wait,8
+5,Epcot,2018,160,Test Track,0,ride_max_wait,130
+5,Epcot,2018,2679,Frozen Ever After,0,ride_max_wait,86
+5,Epcot,2018,151,Soarin' Across America,1,ride_max_wait,81
+5,Epcot,2018,159,Spaceship Earth,0,ride_max_wait,54
+5,Epcot,2018,158,Mission: SPACE,0,ride_max_wait,52
+5,Epcot,2018,156,Living with the Land,0,ride_max_wait,44
+5,Epcot,2018,153,The Seas with Nemo & Friends,0,ride_max_wait,40
+5,Epcot,2018,155,Journey Into Imagination With Figment,0,ride_max_wait,36
+5,Epcot,2018,152,Turtle Talk With Crush,0,ride_max_wait,30
+5,Epcot,2018,466,Gran Fiesta Tour Starring The Three Caballeros,0,ride_max_wait,14
+5,Epcot,2018,2495,Disney and Pixar Short Film Festival,0,ride_max_wait,8
+5,Epcot,2019,160,Test Track,0,ride_avg_wait,65
+5,Epcot,2019,2679,Frozen Ever After,0,ride_avg_wait,52
+5,Epcot,2019,151,Soarin' Across America,1,ride_avg_wait,40
+5,Epcot,2019,272,Meet Disney Pals at the Epcot Character Spot,1,ride_avg_wait,29
+5,Epcot,2019,6701,Meet Anna and Elsa at Royal Sommerhus,0,ride_avg_wait,25
+5,Epcot,2019,158,Mission: SPACE,0,ride_avg_wait,25
+5,Epcot,2019,159,Spaceship Earth,0,ride_avg_wait,20
+5,Epcot,2019,156,Living with the Land,0,ride_avg_wait,16
+5,Epcot,2019,153,The Seas with Nemo & Friends,0,ride_avg_wait,16
+5,Epcot,2019,829,Canada Far and Wide in Circle-Vision 360,0,ride_avg_wait,15
+5,Epcot,2019,155,Journey Into Imagination With Figment,0,ride_avg_wait,13
+5,Epcot,2019,152,Turtle Talk With Crush,0,ride_avg_wait,11
+5,Epcot,2019,466,Gran Fiesta Tour Starring The Three Caballeros,0,ride_avg_wait,10
+5,Epcot,2019,160,Test Track,0,ride_max_wait,103
+5,Epcot,2019,151,Soarin' Across America,1,ride_max_wait,82
+5,Epcot,2019,2679,Frozen Ever After,0,ride_max_wait,76
+5,Epcot,2019,158,Mission: SPACE,0,ride_max_wait,55
+5,Epcot,2019,159,Spaceship Earth,0,ride_max_wait,52
+5,Epcot,2019,6701,Meet Anna and Elsa at Royal Sommerhus,0,ride_max_wait,49
+5,Epcot,2019,272,Meet Disney Pals at the Epcot Character Spot,1,ride_max_wait,44
+5,Epcot,2019,153,The Seas with Nemo & Friends,0,ride_max_wait,41
+5,Epcot,2019,156,Living with the Land,0,ride_max_wait,38
+5,Epcot,2019,155,Journey Into Imagination With Figment,0,ride_max_wait,32
+5,Epcot,2019,152,Turtle Talk With Crush,0,ride_max_wait,28
+5,Epcot,2019,829,Canada Far and Wide in Circle-Vision 360,0,ride_max_wait,15
+5,Epcot,2019,466,Gran Fiesta Tour Starring The Three Caballeros,0,ride_max_wait,15
+5,Epcot,2020,2679,Frozen Ever After,0,ride_avg_wait,57
+5,Epcot,2020,160,Test Track,0,ride_avg_wait,53
+5,Epcot,2020,6701,Meet Anna and Elsa at Royal Sommerhus,0,ride_avg_wait,33
+5,Epcot,2020,151,Soarin' Across America,1,ride_avg_wait,33
+5,Epcot,2020,272,Meet Disney Pals at the Epcot Character Spot,1,ride_avg_wait,30
+5,Epcot,2020,158,Mission: SPACE,0,ride_avg_wait,24
+5,Epcot,2020,159,Spaceship Earth,0,ride_avg_wait,17
+5,Epcot,2020,7323,Awesome Planet,0,ride_avg_wait,15
+5,Epcot,2020,155,Journey Into Imagination With Figment,0,ride_avg_wait,13
+5,Epcot,2020,156,Living with the Land,0,ride_avg_wait,13
+5,Epcot,2020,152,Turtle Talk With Crush,0,ride_avg_wait,12
+5,Epcot,2020,466,Gran Fiesta Tour Starring The Three Caballeros,0,ride_avg_wait,11
+5,Epcot,2020,153,The Seas with Nemo & Friends,0,ride_avg_wait,11
+5,Epcot,2020,2679,Frozen Ever After,0,ride_max_wait,80
+5,Epcot,2020,160,Test Track,0,ride_max_wait,79
+5,Epcot,2020,151,Soarin' Across America,1,ride_max_wait,64
+5,Epcot,2020,6701,Meet Anna and Elsa at Royal Sommerhus,0,ride_max_wait,62
+5,Epcot,2020,158,Mission: SPACE,0,ride_max_wait,51
+5,Epcot,2020,159,Spaceship Earth,0,ride_max_wait,39
+5,Epcot,2020,155,Journey Into Imagination With Figment,0,ride_max_wait,37
+5,Epcot,2020,153,The Seas with Nemo & Friends,0,ride_max_wait,33
+5,Epcot,2020,156,Living with the Land,0,ride_max_wait,32
+5,Epcot,2020,272,Meet Disney Pals at the Epcot Character Spot,1,ride_max_wait,30
+5,Epcot,2020,152,Turtle Talk With Crush,0,ride_max_wait,28
+5,Epcot,2020,7323,Awesome Planet,0,ride_max_wait,25
+5,Epcot,2020,466,Gran Fiesta Tour Starring The Three Caballeros,0,ride_max_wait,16
+5,Epcot,2021,160,Test Track,0,ride_avg_wait,52
+5,Epcot,2021,2679,Frozen Ever After,0,ride_avg_wait,48
+5,Epcot,2021,151,Soarin' Across America,1,ride_avg_wait,34
+5,Epcot,2021,158,Mission: SPACE,0,ride_avg_wait,26
+5,Epcot,2021,159,Spaceship Earth,0,ride_avg_wait,16
+5,Epcot,2021,153,The Seas with Nemo & Friends,0,ride_avg_wait,12
+5,Epcot,2021,466,Gran Fiesta Tour Starring The Three Caballeros,0,ride_avg_wait,11
+5,Epcot,2021,155,Journey Into Imagination With Figment,0,ride_avg_wait,11
+5,Epcot,2021,152,Turtle Talk With Crush,0,ride_avg_wait,11
+5,Epcot,2021,7323,Awesome Planet,0,ride_avg_wait,9
+5,Epcot,2021,156,Living with the Land,0,ride_avg_wait,9
+5,Epcot,2021,160,Test Track,0,ride_max_wait,77
+5,Epcot,2021,2679,Frozen Ever After,0,ride_max_wait,69
+5,Epcot,2021,151,Soarin' Across America,1,ride_max_wait,57
+5,Epcot,2021,158,Mission: SPACE,0,ride_max_wait,46
+5,Epcot,2021,159,Spaceship Earth,0,ride_max_wait,37
+5,Epcot,2021,153,The Seas with Nemo & Friends,0,ride_max_wait,27
+5,Epcot,2021,156,Living with the Land,0,ride_max_wait,23
+5,Epcot,2021,155,Journey Into Imagination With Figment,0,ride_max_wait,22
+5,Epcot,2021,466,Gran Fiesta Tour Starring The Three Caballeros,0,ride_max_wait,17
+5,Epcot,2021,7323,Awesome Planet,0,ride_max_wait,15
+5,Epcot,2021,152,Turtle Talk With Crush,0,ride_max_wait,12
+5,Epcot,2022,10914,Remy's Ratatouille Adventure,0,ride_avg_wait,57
+5,Epcot,2022,2679,Frozen Ever After,0,ride_avg_wait,48
+5,Epcot,2022,160,Test Track,0,ride_avg_wait,47
+5,Epcot,2022,6701,Meet Anna and Elsa at Royal Sommerhus,0,ride_avg_wait,33
+5,Epcot,2022,10916,Guardians of the Galaxy: Cosmic Rewind,0,ride_avg_wait,30
+5,Epcot,2022,151,Soarin' Across America,1,ride_avg_wait,23
+5,Epcot,2022,158,Mission: SPACE,0,ride_avg_wait,17
+5,Epcot,2022,7323,Awesome Planet,0,ride_avg_wait,15
+5,Epcot,2022,152,Turtle Talk With Crush,0,ride_avg_wait,13
+5,Epcot,2022,466,Gran Fiesta Tour Starring The Three Caballeros,0,ride_avg_wait,11
+5,Epcot,2022,155,Journey Into Imagination With Figment,0,ride_avg_wait,11
+5,Epcot,2022,10093,Guardians of the Galaxy: Cosmic Rewind,1,ride_avg_wait,10
+5,Epcot,2022,159,Spaceship Earth,0,ride_avg_wait,10
+5,Epcot,2022,156,Living with the Land,0,ride_avg_wait,9
+5,Epcot,2022,153,The Seas with Nemo & Friends,0,ride_avg_wait,8
+5,Epcot,2022,10914,Remy's Ratatouille Adventure,0,ride_max_wait,83
+5,Epcot,2022,2679,Frozen Ever After,0,ride_max_wait,68
+5,Epcot,2022,160,Test Track,0,ride_max_wait,63
+5,Epcot,2022,6701,Meet Anna and Elsa at Royal Sommerhus,0,ride_max_wait,60
+5,Epcot,2022,151,Soarin' Across America,1,ride_max_wait,39
+5,Epcot,2022,10916,Guardians of the Galaxy: Cosmic Rewind,0,ride_max_wait,30
+5,Epcot,2022,158,Mission: SPACE,0,ride_max_wait,28
+5,Epcot,2022,155,Journey Into Imagination With Figment,0,ride_max_wait,23
+5,Epcot,2022,159,Spaceship Earth,0,ride_max_wait,20
+5,Epcot,2022,7323,Awesome Planet,0,ride_max_wait,19
+5,Epcot,2022,466,Gran Fiesta Tour Starring The Three Caballeros,0,ride_max_wait,19
+5,Epcot,2022,156,Living with the Land,0,ride_max_wait,17
+5,Epcot,2022,153,The Seas with Nemo & Friends,0,ride_max_wait,17
+5,Epcot,2022,152,Turtle Talk With Crush,0,ride_max_wait,16
+5,Epcot,2022,10093,Guardians of the Galaxy: Cosmic Rewind,1,ride_max_wait,10
+5,Epcot,2023,10914,Remy's Ratatouille Adventure,0,ride_avg_wait,57
+5,Epcot,2023,2679,Frozen Ever After,0,ride_avg_wait,46
+5,Epcot,2023,160,Test Track,0,ride_avg_wait,45
+5,Epcot,2023,10916,Guardians of the Galaxy: Cosmic Rewind,0,ride_avg_wait,38
+5,Epcot,2023,6701,Meet Anna and Elsa at Royal Sommerhus,0,ride_avg_wait,33
+5,Epcot,2023,151,Soarin' Across America,1,ride_avg_wait,25
+5,Epcot,2023,152,Turtle Talk With Crush,0,ride_avg_wait,16
+5,Epcot,2023,158,Mission: SPACE,0,ride_avg_wait,15
+5,Epcot,2023,7323,Awesome Planet,0,ride_avg_wait,11
+5,Epcot,2023,155,Journey Into Imagination With Figment,0,ride_avg_wait,11
+5,Epcot,2023,2495,Disney and Pixar Short Film Festival,0,ride_avg_wait,10
+5,Epcot,2023,159,Spaceship Earth,0,ride_avg_wait,10
+5,Epcot,2023,466,Gran Fiesta Tour Starring The Three Caballeros,0,ride_avg_wait,9
+5,Epcot,2023,156,Living with the Land,0,ride_avg_wait,8
+5,Epcot,2023,153,The Seas with Nemo & Friends,0,ride_avg_wait,8
+5,Epcot,2023,10914,Remy's Ratatouille Adventure,0,ride_max_wait,83
+5,Epcot,2023,2679,Frozen Ever After,0,ride_max_wait,66
+5,Epcot,2023,160,Test Track,0,ride_max_wait,63
+5,Epcot,2023,6701,Meet Anna and Elsa at Royal Sommerhus,0,ride_max_wait,55
+5,Epcot,2023,10916,Guardians of the Galaxy: Cosmic Rewind,0,ride_max_wait,54
+5,Epcot,2023,151,Soarin' Across America,1,ride_max_wait,41
+5,Epcot,2023,158,Mission: SPACE,0,ride_max_wait,27
+5,Epcot,2023,155,Journey Into Imagination With Figment,0,ride_max_wait,23
+5,Epcot,2023,159,Spaceship Earth,0,ride_max_wait,19
+5,Epcot,2023,152,Turtle Talk With Crush,0,ride_max_wait,18
+5,Epcot,2023,466,Gran Fiesta Tour Starring The Three Caballeros,0,ride_max_wait,16
+5,Epcot,2023,156,Living with the Land,0,ride_max_wait,15
+5,Epcot,2023,153,The Seas with Nemo & Friends,0,ride_max_wait,15
+5,Epcot,2023,7323,Awesome Planet,0,ride_max_wait,11
+5,Epcot,2023,2495,Disney and Pixar Short Film Festival,0,ride_max_wait,10
+5,Epcot,2024,10914,Remy's Ratatouille Adventure,0,ride_avg_wait,56
+5,Epcot,2024,160,Test Track,0,ride_avg_wait,46
+5,Epcot,2024,2679,Frozen Ever After,0,ride_avg_wait,45
+5,Epcot,2024,6701,Meet Anna and Elsa at Royal Sommerhus,0,ride_avg_wait,35
+5,Epcot,2024,13627,Meet Beloved Disney Pals at Mickey & Friends,0,ride_avg_wait,27
+5,Epcot,2024,10916,Guardians of the Galaxy: Cosmic Rewind,0,ride_avg_wait,26
+5,Epcot,2024,151,Soarin' Across America,1,ride_avg_wait,24
+5,Epcot,2024,158,Mission: SPACE,0,ride_avg_wait,18
+5,Epcot,2024,152,Turtle Talk With Crush,0,ride_avg_wait,16
+5,Epcot,2024,155,Journey Into Imagination With Figment,0,ride_avg_wait,10
+5,Epcot,2024,159,Spaceship Earth,0,ride_avg_wait,10
+5,Epcot,2024,7323,Awesome Planet,0,ride_avg_wait,9
+5,Epcot,2024,2495,Disney and Pixar Short Film Festival,0,ride_avg_wait,9
+5,Epcot,2024,466,Gran Fiesta Tour Starring The Three Caballeros,0,ride_avg_wait,9
+5,Epcot,2024,153,The Seas with Nemo & Friends,0,ride_avg_wait,9
+5,Epcot,2024,156,Living with the Land,0,ride_avg_wait,8
+5,Epcot,2024,12387,"Journey of Water, Inspired by Moana",0,ride_avg_wait,5
+5,Epcot,2024,10914,Remy's Ratatouille Adventure,0,ride_max_wait,77
+5,Epcot,2024,160,Test Track,0,ride_max_wait,68
+5,Epcot,2024,2679,Frozen Ever After,0,ride_max_wait,62
+5,Epcot,2024,6701,Meet Anna and Elsa at Royal Sommerhus,0,ride_max_wait,58
+5,Epcot,2024,13627,Meet Beloved Disney Pals at Mickey & Friends,0,ride_max_wait,48
+5,Epcot,2024,151,Soarin' Across America,1,ride_max_wait,42
+5,Epcot,2024,10916,Guardians of the Galaxy: Cosmic Rewind,0,ride_max_wait,41
+5,Epcot,2024,158,Mission: SPACE,0,ride_max_wait,29
+5,Epcot,2024,155,Journey Into Imagination With Figment,0,ride_max_wait,23
+5,Epcot,2024,159,Spaceship Earth,0,ride_max_wait,19
+5,Epcot,2024,153,The Seas with Nemo & Friends,0,ride_max_wait,19
+5,Epcot,2024,152,Turtle Talk With Crush,0,ride_max_wait,19
+5,Epcot,2024,466,Gran Fiesta Tour Starring The Three Caballeros,0,ride_max_wait,18
+5,Epcot,2024,156,Living with the Land,0,ride_max_wait,17
+5,Epcot,2024,2495,Disney and Pixar Short Film Festival,0,ride_max_wait,15
+5,Epcot,2024,7323,Awesome Planet,0,ride_max_wait,10
+5,Epcot,2024,12387,"Journey of Water, Inspired by Moana",0,ride_max_wait,5
+5,Epcot,2025,10916,Guardians of the Galaxy: Cosmic Rewind,0,ride_avg_wait,59
+5,Epcot,2025,160,Test Track,0,ride_avg_wait,59
+5,Epcot,2025,10914,Remy's Ratatouille Adventure,0,ride_avg_wait,46
+5,Epcot,2025,6701,Meet Anna and Elsa at Royal Sommerhus,0,ride_avg_wait,39
+5,Epcot,2025,2679,Frozen Ever After,0,ride_avg_wait,38
+5,Epcot,2025,13627,Meet Beloved Disney Pals at Mickey & Friends,0,ride_avg_wait,23
+5,Epcot,2025,151,Soarin' Across America,1,ride_avg_wait,20
+5,Epcot,2025,158,Mission: SPACE,0,ride_avg_wait,17
+5,Epcot,2025,152,Turtle Talk With Crush,0,ride_avg_wait,15
+5,Epcot,2025,7323,Awesome Planet,0,ride_avg_wait,13
+5,Epcot,2025,829,Canada Far and Wide in Circle-Vision 360,0,ride_avg_wait,13
+5,Epcot,2025,155,Journey Into Imagination With Figment,0,ride_avg_wait,10
+5,Epcot,2025,159,Spaceship Earth,0,ride_avg_wait,10
+5,Epcot,2025,153,The Seas with Nemo & Friends,0,ride_avg_wait,10
+5,Epcot,2025,466,Gran Fiesta Tour Starring The Three Caballeros,0,ride_avg_wait,9
+5,Epcot,2025,156,Living with the Land,0,ride_avg_wait,9
+5,Epcot,2025,12387,"Journey of Water, Inspired by Moana",0,ride_avg_wait,7
+5,Epcot,2025,10916,Guardians of the Galaxy: Cosmic Rewind,0,ride_max_wait,80
+5,Epcot,2025,160,Test Track,0,ride_max_wait,79
+5,Epcot,2025,10914,Remy's Ratatouille Adventure,0,ride_max_wait,64
+5,Epcot,2025,6701,Meet Anna and Elsa at Royal Sommerhus,0,ride_max_wait,63
+5,Epcot,2025,2679,Frozen Ever After,0,ride_max_wait,51
+5,Epcot,2025,13627,Meet Beloved Disney Pals at Mickey & Friends,0,ride_max_wait,39
+5,Epcot,2025,151,Soarin' Across America,1,ride_max_wait,36
+5,Epcot,2025,158,Mission: SPACE,0,ride_max_wait,24
+5,Epcot,2025,153,The Seas with Nemo & Friends,0,ride_max_wait,22
+5,Epcot,2025,155,Journey Into Imagination With Figment,0,ride_max_wait,21
+5,Epcot,2025,156,Living with the Land,0,ride_max_wait,19
+5,Epcot,2025,159,Spaceship Earth,0,ride_max_wait,19
+5,Epcot,2025,152,Turtle Talk With Crush,0,ride_max_wait,18
+5,Epcot,2025,466,Gran Fiesta Tour Starring The Three Caballeros,0,ride_max_wait,17
+5,Epcot,2025,829,Canada Far and Wide in Circle-Vision 360,0,ride_max_wait,15
+5,Epcot,2025,7323,Awesome Planet,0,ride_max_wait,13
+5,Epcot,2025,12387,"Journey of Water, Inspired by Moana",0,ride_max_wait,7
+5,Epcot,2026,10916,Guardians of the Galaxy: Cosmic Rewind,0,ride_avg_wait,69
+5,Epcot,2026,160,Test Track,0,ride_avg_wait,59
+5,Epcot,2026,10914,Remy's Ratatouille Adventure,0,ride_avg_wait,46
+5,Epcot,2026,2679,Frozen Ever After,0,ride_avg_wait,42
+5,Epcot,2026,6701,Meet Anna and Elsa at Royal Sommerhus,0,ride_avg_wait,40
+5,Epcot,2026,151,Soarin' Across America,1,ride_avg_wait,24
+5,Epcot,2026,13627,Meet Beloved Disney Pals at Mickey & Friends,0,ride_avg_wait,22
+5,Epcot,2026,16467,Soarin' Across America,0,ride_avg_wait,18
+5,Epcot,2026,158,Mission: SPACE,0,ride_avg_wait,16
+5,Epcot,2026,152,Turtle Talk With Crush,0,ride_avg_wait,15
+5,Epcot,2026,829,Canada Far and Wide in Circle-Vision 360,0,ride_avg_wait,13
+5,Epcot,2026,2495,Disney and Pixar Short Film Festival,0,ride_avg_wait,10
+5,Epcot,2026,155,Journey Into Imagination With Figment,0,ride_avg_wait,10
+5,Epcot,2026,156,Living with the Land,0,ride_avg_wait,10
+5,Epcot,2026,159,Spaceship Earth,0,ride_avg_wait,10
+5,Epcot,2026,153,The Seas with Nemo & Friends,0,ride_avg_wait,9
+5,Epcot,2026,466,Gran Fiesta Tour Starring The Three Caballeros,0,ride_avg_wait,8
+5,Epcot,2026,10916,Guardians of the Galaxy: Cosmic Rewind,0,ride_max_wait,88
+5,Epcot,2026,160,Test Track,0,ride_max_wait,78
+5,Epcot,2026,6701,Meet Anna and Elsa at Royal Sommerhus,0,ride_max_wait,75
+5,Epcot,2026,10914,Remy's Ratatouille Adventure,0,ride_max_wait,62
+5,Epcot,2026,2679,Frozen Ever After,0,ride_max_wait,56
+5,Epcot,2026,151,Soarin' Across America,1,ride_max_wait,42
+5,Epcot,2026,13627,Meet Beloved Disney Pals at Mickey & Friends,0,ride_max_wait,38
+5,Epcot,2026,16467,Soarin' Across America,0,ride_max_wait,33
+5,Epcot,2026,156,Living with the Land,0,ride_max_wait,23
+5,Epcot,2026,155,Journey Into Imagination With Figment,0,ride_max_wait,22
+5,Epcot,2026,158,Mission: SPACE,0,ride_max_wait,21
+5,Epcot,2026,153,The Seas with Nemo & Friends,0,ride_max_wait,20
+5,Epcot,2026,159,Spaceship Earth,0,ride_max_wait,19
+5,Epcot,2026,152,Turtle Talk With Crush,0,ride_max_wait,18
+5,Epcot,2026,466,Gran Fiesta Tour Starring The Three Caballeros,0,ride_max_wait,15
+5,Epcot,2026,829,Canada Far and Wide in Circle-Vision 360,0,ride_max_wait,14
+5,Epcot,2026,2495,Disney and Pixar Short Film Festival,0,ride_max_wait,10
+6,Magic Kingdom,all_time,129,Seven Dwarfs Mine Train,0,ride_avg_wait,67
+6,Magic Kingdom,all_time,149,Meet Anna and Elsa at Princess Fairytale Hall,1,ride_avg_wait,63
+6,Magic Kingdom,all_time,11527,TRON Lightcycle / Run,0,ride_avg_wait,61
+6,Magic Kingdom,all_time,14928,Meet Jack Skellington and Sally at Mickey's Not-So-Scary Halloween Party,0,ride_avg_wait,58
+6,Magic Kingdom,all_time,136,Peter Pan's Flight,0,ride_avg_wait,51
+6,Magic Kingdom,all_time,139,Splash Mountain,1,ride_avg_wait,45
+6,Magic Kingdom,all_time,134,Jungle Cruise,0,ride_avg_wait,44
+6,Magic Kingdom,all_time,138,Space Mountain,0,ride_avg_wait,43
+6,Magic Kingdom,all_time,150,Meet Cinderella and Rapunzel at Princess Fairytale Hall,1,ride_avg_wait,38
+6,Magic Kingdom,all_time,130,Big Thunder Mountain Railroad,0,ride_avg_wait,36
+6,Magic Kingdom,all_time,140,Haunted Mansion,0,ride_avg_wait,34
+6,Magic Kingdom,all_time,6700,Meet Cinderella and a Visiting Princess at Princess Fairytale Hall,0,ride_avg_wait,34
+6,Magic Kingdom,all_time,13630,Tiana's Bayou Adventure,0,ride_avg_wait,34
+6,Magic Kingdom,all_time,147,Meet Ariel at Her Grotto,0,ride_avg_wait,32
+6,Magic Kingdom,all_time,17526,Meet Festive Disney Pals at Mickey’s Not-So-Scary Halloween Party,0,ride_avg_wait,32
+6,Magic Kingdom,all_time,146,Meet Mickey at Town Square Theater,0,ride_avg_wait,31
+6,Magic Kingdom,all_time,6699,Meet Princess Tiana and a Visiting Princess at Princess Fairytale Hall,0,ride_avg_wait,31
+6,Magic Kingdom,all_time,145,Meet Dashing Disney Pals as Circus Stars at Pete's Silly Sideshow,0,ride_avg_wait,29
+6,Magic Kingdom,all_time,14927,Meet Mickey Mouse and Minnie Mouse at Mickey's Not-So-Scary Halloween Party,0,ride_avg_wait,29
+6,Magic Kingdom,all_time,15395,Meet Santa Jack and Sally at Town Square Theater at Mickey's Very Merry Christmas Party,1,ride_avg_wait,28
+6,Magic Kingdom,all_time,137,Pirates of the Caribbean,0,ride_avg_wait,27
+6,Magic Kingdom,all_time,142,The Many Adventures of Winnie the Pooh,0,ride_avg_wait,27
+6,Magic Kingdom,all_time,131,Buzz Lightyear’s Space Ranger Spin,0,ride_avg_wait,26
+6,Magic Kingdom,all_time,128,Enchanted Tales with Belle,0,ride_avg_wait,26
+6,Magic Kingdom,all_time,248,Astro Orbiter,0,ride_avg_wait,22
+6,Magic Kingdom,all_time,144,Meet Daring Disney Pals as Circus Stars at Pete's Silly Sideshow,0,ride_avg_wait,22
+6,Magic Kingdom,all_time,148,Meet Tinker Bell at Town Square Theater,1,ride_avg_wait,22
+6,Magic Kingdom,all_time,133,"""it's a small world""",0,ride_avg_wait,17
+6,Magic Kingdom,all_time,143,Tomorrowland Speedway,0,ride_avg_wait,17
+6,Magic Kingdom,all_time,141,The Magic Carpets of Aladdin,0,ride_avg_wait,16
+6,Magic Kingdom,all_time,127,Under the Sea - Journey of The Little Mermaid,0,ride_avg_wait,16
+6,Magic Kingdom,all_time,1187,Liberty Square Riverboat,1,ride_avg_wait,15
+6,Magic Kingdom,all_time,126,The Barnstormer,0,ride_avg_wait,15
+6,Magic Kingdom,all_time,1181,Walt Disney World Railroad - Fantasyland,0,ride_avg_wait,15
+6,Magic Kingdom,all_time,132,Dumbo the Flying Elephant,0,ride_avg_wait,14
+6,Magic Kingdom,all_time,125,"Monsters, Inc. Laugh Floor",0,ride_avg_wait,14
+6,Magic Kingdom,all_time,356,The Hall of Presidents,0,ride_avg_wait,14
+6,Magic Kingdom,all_time,1179,Walt Disney World Railroad - Frontierland,1,ride_avg_wait,14
+6,Magic Kingdom,all_time,1189,"Walt Disney World Railroad - Main Street, U.S.A.",0,ride_avg_wait,14
+6,Magic Kingdom,all_time,1214,Country Bear Musical Jamboree,0,ride_avg_wait,13
+6,Magic Kingdom,all_time,171,Mickey's PhilharMagic,0,ride_avg_wait,13
+6,Magic Kingdom,all_time,124,Stitch's Great Escape!,1,ride_avg_wait,11
+6,Magic Kingdom,all_time,334,Walt Disney's Enchanted Tiki Room,0,ride_avg_wait,11
+6,Magic Kingdom,all_time,135,Mad Tea Party,0,ride_avg_wait,10
+6,Magic Kingdom,all_time,1190,Tomorrowland Transit Authority PeopleMover,0,ride_avg_wait,10
+6,Magic Kingdom,all_time,161,Prince Charming Regal Carrousel,0,ride_avg_wait,9
+6,Magic Kingdom,all_time,465,Tom Sawyer Island,1,ride_avg_wait,7
+6,Magic Kingdom,all_time,355,Swiss Family Treehouse,0,ride_avg_wait,5
+6,Magic Kingdom,all_time,457,Walt Disney's Carousel of Progress,0,ride_avg_wait,5
+6,Magic Kingdom,all_time,149,Meet Anna and Elsa at Princess Fairytale Hall,1,ride_max_wait,108
+6,Magic Kingdom,all_time,129,Seven Dwarfs Mine Train,0,ride_max_wait,94
+6,Magic Kingdom,all_time,11527,TRON Lightcycle / Run,0,ride_max_wait,92
+6,Magic Kingdom,all_time,150,Meet Cinderella and Rapunzel at Princess Fairytale Hall,1,ride_max_wait,89
+6,Magic Kingdom,all_time,14928,Meet Jack Skellington and Sally at Mickey's Not-So-Scary Halloween Party,0,ride_max_wait,88
+6,Magic Kingdom,all_time,139,Splash Mountain,1,ride_max_wait,79
+6,Magic Kingdom,all_time,134,Jungle Cruise,0,ride_max_wait,74
+6,Magic Kingdom,all_time,136,Peter Pan's Flight,0,ride_max_wait,73
+6,Magic Kingdom,all_time,138,Space Mountain,0,ride_max_wait,68
+6,Magic Kingdom,all_time,146,Meet Mickey at Town Square Theater,0,ride_max_wait,64
+6,Magic Kingdom,all_time,130,Big Thunder Mountain Railroad,0,ride_max_wait,63
+6,Magic Kingdom,all_time,140,Haunted Mansion,0,ride_max_wait,58
+6,Magic Kingdom,all_time,14927,Meet Mickey Mouse and Minnie Mouse at Mickey's Not-So-Scary Halloween Party,0,ride_max_wait,58
+6,Magic Kingdom,all_time,13630,Tiana's Bayou Adventure,0,ride_max_wait,58
+6,Magic Kingdom,all_time,128,Enchanted Tales with Belle,0,ride_max_wait,55
+6,Magic Kingdom,all_time,147,Meet Ariel at Her Grotto,0,ride_max_wait,55
+6,Magic Kingdom,all_time,6700,Meet Cinderella and a Visiting Princess at Princess Fairytale Hall,0,ride_max_wait,55
+6,Magic Kingdom,all_time,15395,Meet Santa Jack and Sally at Town Square Theater at Mickey's Very Merry Christmas Party,1,ride_max_wait,53
+6,Magic Kingdom,all_time,17526,Meet Festive Disney Pals at Mickey’s Not-So-Scary Halloween Party,0,ride_max_wait,52
+6,Magic Kingdom,all_time,6699,Meet Princess Tiana and a Visiting Princess at Princess Fairytale Hall,0,ride_max_wait,52
+6,Magic Kingdom,all_time,148,Meet Tinker Bell at Town Square Theater,1,ride_max_wait,52
+6,Magic Kingdom,all_time,137,Pirates of the Caribbean,0,ride_max_wait,51
+6,Magic Kingdom,all_time,145,Meet Dashing Disney Pals as Circus Stars at Pete's Silly Sideshow,0,ride_max_wait,49
+6,Magic Kingdom,all_time,131,Buzz Lightyear’s Space Ranger Spin,0,ride_max_wait,48
+6,Magic Kingdom,all_time,142,The Many Adventures of Winnie the Pooh,0,ride_max_wait,44
+6,Magic Kingdom,all_time,144,Meet Daring Disney Pals as Circus Stars at Pete's Silly Sideshow,0,ride_max_wait,42
+6,Magic Kingdom,all_time,248,Astro Orbiter,0,ride_max_wait,40
+6,Magic Kingdom,all_time,133,"""it's a small world""",0,ride_max_wait,35
+6,Magic Kingdom,all_time,127,Under the Sea - Journey of The Little Mermaid,0,ride_max_wait,34
+6,Magic Kingdom,all_time,132,Dumbo the Flying Elephant,0,ride_max_wait,32
+6,Magic Kingdom,all_time,141,The Magic Carpets of Aladdin,0,ride_max_wait,32
+6,Magic Kingdom,all_time,143,Tomorrowland Speedway,0,ride_max_wait,31
+6,Magic Kingdom,all_time,126,The Barnstormer,0,ride_max_wait,29
+6,Magic Kingdom,all_time,125,"Monsters, Inc. Laugh Floor",0,ride_max_wait,26
+6,Magic Kingdom,all_time,124,Stitch's Great Escape!,1,ride_max_wait,24
+6,Magic Kingdom,all_time,1181,Walt Disney World Railroad - Fantasyland,0,ride_max_wait,21
+6,Magic Kingdom,all_time,171,Mickey's PhilharMagic,0,ride_max_wait,20
+6,Magic Kingdom,all_time,135,Mad Tea Party,0,ride_max_wait,19
+6,Magic Kingdom,all_time,1179,Walt Disney World Railroad - Frontierland,1,ride_max_wait,19
+6,Magic Kingdom,all_time,1190,Tomorrowland Transit Authority PeopleMover,0,ride_max_wait,18
+6,Magic Kingdom,all_time,1189,"Walt Disney World Railroad - Main Street, U.S.A.",0,ride_max_wait,17
+6,Magic Kingdom,all_time,1187,Liberty Square Riverboat,1,ride_max_wait,15
+6,Magic Kingdom,all_time,356,The Hall of Presidents,0,ride_max_wait,15
+6,Magic Kingdom,all_time,1214,Country Bear Musical Jamboree,0,ride_max_wait,13
+6,Magic Kingdom,all_time,161,Prince Charming Regal Carrousel,0,ride_max_wait,13
+6,Magic Kingdom,all_time,334,Walt Disney's Enchanted Tiki Room,0,ride_max_wait,11
+6,Magic Kingdom,all_time,465,Tom Sawyer Island,1,ride_max_wait,8
+6,Magic Kingdom,all_time,457,Walt Disney's Carousel of Progress,0,ride_max_wait,6
+6,Magic Kingdom,all_time,355,Swiss Family Treehouse,0,ride_max_wait,5
+6,Magic Kingdom,2015,129,Seven Dwarfs Mine Train,0,ride_avg_wait,71
+6,Magic Kingdom,2015,149,Meet Anna and Elsa at Princess Fairytale Hall,1,ride_avg_wait,64
+6,Magic Kingdom,2015,136,Peter Pan's Flight,0,ride_avg_wait,57
+6,Magic Kingdom,2015,138,Space Mountain,0,ride_avg_wait,51
+6,Magic Kingdom,2015,150,Meet Cinderella and Rapunzel at Princess Fairytale Hall,1,ride_avg_wait,41
+6,Magic Kingdom,2015,139,Splash Mountain,1,ride_avg_wait,37
+6,Magic Kingdom,2015,146,Meet Mickey at Town Square Theater,0,ride_avg_wait,36
+6,Magic Kingdom,2015,130,Big Thunder Mountain Railroad,0,ride_avg_wait,33
+6,Magic Kingdom,2015,134,Jungle Cruise,0,ride_avg_wait,32
+6,Magic Kingdom,2015,147,Meet Ariel at Her Grotto,0,ride_avg_wait,29
+6,Magic Kingdom,2015,142,The Many Adventures of Winnie the Pooh,0,ride_avg_wait,27
+6,Magic Kingdom,2015,131,Buzz Lightyear’s Space Ranger Spin,0,ride_avg_wait,26
+6,Magic Kingdom,2015,128,Enchanted Tales with Belle,0,ride_avg_wait,26
+6,Magic Kingdom,2015,140,Haunted Mansion,0,ride_avg_wait,26
+6,Magic Kingdom,2015,143,Tomorrowland Speedway,0,ride_avg_wait,25
+6,Magic Kingdom,2015,248,Astro Orbiter,0,ride_avg_wait,23
+6,Magic Kingdom,2015,137,Pirates of the Caribbean,0,ride_avg_wait,23
+6,Magic Kingdom,2015,145,Meet Dashing Disney Pals as Circus Stars at Pete's Silly Sideshow,0,ride_avg_wait,21
+6,Magic Kingdom,2015,127,Under the Sea - Journey of The Little Mermaid,0,ride_avg_wait,19
+6,Magic Kingdom,2015,133,"""it's a small world""",0,ride_avg_wait,18
+6,Magic Kingdom,2015,132,Dumbo the Flying Elephant,0,ride_avg_wait,18
+6,Magic Kingdom,2015,144,Meet Daring Disney Pals as Circus Stars at Pete's Silly Sideshow,0,ride_avg_wait,16
+6,Magic Kingdom,2015,148,Meet Tinker Bell at Town Square Theater,1,ride_avg_wait,16
+6,Magic Kingdom,2015,126,The Barnstormer,0,ride_avg_wait,16
+6,Magic Kingdom,2015,141,The Magic Carpets of Aladdin,0,ride_avg_wait,16
+6,Magic Kingdom,2015,1214,Country Bear Musical Jamboree,0,ride_avg_wait,15
+6,Magic Kingdom,2015,125,"Monsters, Inc. Laugh Floor",0,ride_avg_wait,15
+6,Magic Kingdom,2015,124,Stitch's Great Escape!,1,ride_avg_wait,11
+6,Magic Kingdom,2015,1190,Tomorrowland Transit Authority PeopleMover,0,ride_avg_wait,11
+6,Magic Kingdom,2015,135,Mad Tea Party,0,ride_avg_wait,10
+6,Magic Kingdom,2015,171,Mickey's PhilharMagic,0,ride_avg_wait,10
+6,Magic Kingdom,2015,334,Walt Disney's Enchanted Tiki Room,0,ride_avg_wait,9
+6,Magic Kingdom,2015,161,Prince Charming Regal Carrousel,0,ride_avg_wait,6
+6,Magic Kingdom,2015,465,Tom Sawyer Island,1,ride_avg_wait,5
+6,Magic Kingdom,2015,457,Walt Disney's Carousel of Progress,0,ride_avg_wait,5
+6,Magic Kingdom,2015,129,Seven Dwarfs Mine Train,0,ride_max_wait,119
+6,Magic Kingdom,2015,149,Meet Anna and Elsa at Princess Fairytale Hall,1,ride_max_wait,109
+6,Magic Kingdom,2015,136,Peter Pan's Flight,0,ride_max_wait,101
+6,Magic Kingdom,2015,150,Meet Cinderella and Rapunzel at Princess Fairytale Hall,1,ride_max_wait,97
+6,Magic Kingdom,2015,138,Space Mountain,0,ride_max_wait,94
+6,Magic Kingdom,2015,146,Meet Mickey at Town Square Theater,0,ride_max_wait,82
+6,Magic Kingdom,2015,139,Splash Mountain,1,ride_max_wait,78
+6,Magic Kingdom,2015,130,Big Thunder Mountain Railroad,0,ride_max_wait,71
+6,Magic Kingdom,2015,134,Jungle Cruise,0,ride_max_wait,70
+6,Magic Kingdom,2015,147,Meet Ariel at Her Grotto,0,ride_max_wait,68
+6,Magic Kingdom,2015,133,"""it's a small world""",0,ride_max_wait,63
+6,Magic Kingdom,2015,248,Astro Orbiter,0,ride_max_wait,62
+6,Magic Kingdom,2015,131,Buzz Lightyear’s Space Ranger Spin,0,ride_max_wait,58
+6,Magic Kingdom,2015,128,Enchanted Tales with Belle,0,ride_max_wait,58
+6,Magic Kingdom,2015,140,Haunted Mansion,0,ride_max_wait,55
+6,Magic Kingdom,2015,125,"Monsters, Inc. Laugh Floor",0,ride_max_wait,55
+6,Magic Kingdom,2015,137,Pirates of the Caribbean,0,ride_max_wait,54
+6,Magic Kingdom,2015,132,Dumbo the Flying Elephant,0,ride_max_wait,53
+6,Magic Kingdom,2015,142,The Many Adventures of Winnie the Pooh,0,ride_max_wait,50
+6,Magic Kingdom,2015,127,Under the Sea - Journey of The Little Mermaid,0,ride_max_wait,50
+6,Magic Kingdom,2015,148,Meet Tinker Bell at Town Square Theater,1,ride_max_wait,48
+6,Magic Kingdom,2015,143,Tomorrowland Speedway,0,ride_max_wait,48
+6,Magic Kingdom,2015,145,Meet Dashing Disney Pals as Circus Stars at Pete's Silly Sideshow,0,ride_max_wait,44
+6,Magic Kingdom,2015,144,Meet Daring Disney Pals as Circus Stars at Pete's Silly Sideshow,0,ride_max_wait,37
+6,Magic Kingdom,2015,126,The Barnstormer,0,ride_max_wait,35
+6,Magic Kingdom,2015,171,Mickey's PhilharMagic,0,ride_max_wait,34
+6,Magic Kingdom,2015,141,The Magic Carpets of Aladdin,0,ride_max_wait,33
+6,Magic Kingdom,2015,135,Mad Tea Party,0,ride_max_wait,24
+6,Magic Kingdom,2015,124,Stitch's Great Escape!,1,ride_max_wait,22
+6,Magic Kingdom,2015,334,Walt Disney's Enchanted Tiki Room,0,ride_max_wait,18
+6,Magic Kingdom,2015,1214,Country Bear Musical Jamboree,0,ride_max_wait,15
+6,Magic Kingdom,2015,1190,Tomorrowland Transit Authority PeopleMover,0,ride_max_wait,13
+6,Magic Kingdom,2015,161,Prince Charming Regal Carrousel,0,ride_max_wait,6
+6,Magic Kingdom,2015,465,Tom Sawyer Island,1,ride_max_wait,5
+6,Magic Kingdom,2015,457,Walt Disney's Carousel of Progress,0,ride_max_wait,5
+6,Magic Kingdom,2016,129,Seven Dwarfs Mine Train,0,ride_avg_wait,77
+6,Magic Kingdom,2016,136,Peter Pan's Flight,0,ride_avg_wait,60
+6,Magic Kingdom,2016,138,Space Mountain,0,ride_avg_wait,57
+6,Magic Kingdom,2016,149,Meet Anna and Elsa at Princess Fairytale Hall,1,ride_avg_wait,50
+6,Magic Kingdom,2016,139,Splash Mountain,1,ride_avg_wait,39
+6,Magic Kingdom,2016,134,Jungle Cruise,0,ride_avg_wait,37
+6,Magic Kingdom,2016,150,Meet Cinderella and Rapunzel at Princess Fairytale Hall,1,ride_avg_wait,37
+6,Magic Kingdom,2016,130,Big Thunder Mountain Railroad,0,ride_avg_wait,35
+6,Magic Kingdom,2016,131,Buzz Lightyear’s Space Ranger Spin,0,ride_avg_wait,31
+6,Magic Kingdom,2016,146,Meet Mickey at Town Square Theater,0,ride_avg_wait,31
+6,Magic Kingdom,2016,142,The Many Adventures of Winnie the Pooh,0,ride_avg_wait,30
+6,Magic Kingdom,2016,140,Haunted Mansion,0,ride_avg_wait,29
+6,Magic Kingdom,2016,128,Enchanted Tales with Belle,0,ride_avg_wait,27
+6,Magic Kingdom,2016,147,Meet Ariel at Her Grotto,0,ride_avg_wait,27
+6,Magic Kingdom,2016,143,Tomorrowland Speedway,0,ride_avg_wait,27
+6,Magic Kingdom,2016,248,Astro Orbiter,0,ride_avg_wait,26
+6,Magic Kingdom,2016,137,Pirates of the Caribbean,0,ride_avg_wait,23
+6,Magic Kingdom,2016,132,Dumbo the Flying Elephant,0,ride_avg_wait,22
+6,Magic Kingdom,2016,133,"""it's a small world""",0,ride_avg_wait,21
+6,Magic Kingdom,2016,127,Under the Sea - Journey of The Little Mermaid,0,ride_avg_wait,21
+6,Magic Kingdom,2016,144,Meet Daring Disney Pals as Circus Stars at Pete's Silly Sideshow,0,ride_avg_wait,20
+6,Magic Kingdom,2016,145,Meet Dashing Disney Pals as Circus Stars at Pete's Silly Sideshow,0,ride_avg_wait,20
+6,Magic Kingdom,2016,126,The Barnstormer,0,ride_avg_wait,19
+6,Magic Kingdom,2016,141,The Magic Carpets of Aladdin,0,ride_avg_wait,17
+6,Magic Kingdom,2016,148,Meet Tinker Bell at Town Square Theater,1,ride_avg_wait,16
+6,Magic Kingdom,2016,125,"Monsters, Inc. Laugh Floor",0,ride_avg_wait,15
+6,Magic Kingdom,2016,135,Mad Tea Party,0,ride_avg_wait,12
+6,Magic Kingdom,2016,124,Stitch's Great Escape!,1,ride_avg_wait,12
+6,Magic Kingdom,2016,171,Mickey's PhilharMagic,0,ride_avg_wait,11
+6,Magic Kingdom,2016,1190,Tomorrowland Transit Authority PeopleMover,0,ride_avg_wait,9
+6,Magic Kingdom,2016,161,Prince Charming Regal Carrousel,0,ride_avg_wait,7
+6,Magic Kingdom,2016,1214,Country Bear Musical Jamboree,0,ride_avg_wait,5
+6,Magic Kingdom,2016,1187,Liberty Square Riverboat,1,ride_avg_wait,5
+6,Magic Kingdom,2016,355,Swiss Family Treehouse,0,ride_avg_wait,5
+6,Magic Kingdom,2016,356,The Hall of Presidents,0,ride_avg_wait,5
+6,Magic Kingdom,2016,465,Tom Sawyer Island,1,ride_avg_wait,5
+6,Magic Kingdom,2016,457,Walt Disney's Carousel of Progress,0,ride_avg_wait,5
+6,Magic Kingdom,2016,334,Walt Disney's Enchanted Tiki Room,0,ride_avg_wait,5
+6,Magic Kingdom,2016,129,Seven Dwarfs Mine Train,0,ride_max_wait,129
+6,Magic Kingdom,2016,138,Space Mountain,0,ride_max_wait,105
+6,Magic Kingdom,2016,136,Peter Pan's Flight,0,ride_max_wait,95
+6,Magic Kingdom,2016,149,Meet Anna and Elsa at Princess Fairytale Hall,1,ride_max_wait,90
+6,Magic Kingdom,2016,150,Meet Cinderella and Rapunzel at Princess Fairytale Hall,1,ride_max_wait,85
+6,Magic Kingdom,2016,248,Astro Orbiter,0,ride_max_wait,80
+6,Magic Kingdom,2016,134,Jungle Cruise,0,ride_max_wait,80
+6,Magic Kingdom,2016,139,Splash Mountain,1,ride_max_wait,78
+6,Magic Kingdom,2016,130,Big Thunder Mountain Railroad,0,ride_max_wait,68
+6,Magic Kingdom,2016,146,Meet Mickey at Town Square Theater,0,ride_max_wait,66
+6,Magic Kingdom,2016,131,Buzz Lightyear’s Space Ranger Spin,0,ride_max_wait,64
+6,Magic Kingdom,2016,133,"""it's a small world""",0,ride_max_wait,62
+6,Magic Kingdom,2016,128,Enchanted Tales with Belle,0,ride_max_wait,62
+6,Magic Kingdom,2016,147,Meet Ariel at Her Grotto,0,ride_max_wait,61
+6,Magic Kingdom,2016,132,Dumbo the Flying Elephant,0,ride_max_wait,59
+6,Magic Kingdom,2016,140,Haunted Mansion,0,ride_max_wait,59
+6,Magic Kingdom,2016,127,Under the Sea - Journey of The Little Mermaid,0,ride_max_wait,59
+6,Magic Kingdom,2016,142,The Many Adventures of Winnie the Pooh,0,ride_max_wait,53
+6,Magic Kingdom,2016,137,Pirates of the Caribbean,0,ride_max_wait,52
+6,Magic Kingdom,2016,125,"Monsters, Inc. Laugh Floor",0,ride_max_wait,51
+6,Magic Kingdom,2016,143,Tomorrowland Speedway,0,ride_max_wait,49
+6,Magic Kingdom,2016,144,Meet Daring Disney Pals as Circus Stars at Pete's Silly Sideshow,0,ride_max_wait,43
+6,Magic Kingdom,2016,148,Meet Tinker Bell at Town Square Theater,1,ride_max_wait,42
+6,Magic Kingdom,2016,145,Meet Dashing Disney Pals as Circus Stars at Pete's Silly Sideshow,0,ride_max_wait,39
+6,Magic Kingdom,2016,126,The Barnstormer,0,ride_max_wait,38
+6,Magic Kingdom,2016,141,The Magic Carpets of Aladdin,0,ride_max_wait,35
+6,Magic Kingdom,2016,171,Mickey's PhilharMagic,0,ride_max_wait,32
+6,Magic Kingdom,2016,135,Mad Tea Party,0,ride_max_wait,27
+6,Magic Kingdom,2016,124,Stitch's Great Escape!,1,ride_max_wait,26
+6,Magic Kingdom,2016,1190,Tomorrowland Transit Authority PeopleMover,0,ride_max_wait,13
+6,Magic Kingdom,2016,161,Prince Charming Regal Carrousel,0,ride_max_wait,10
+6,Magic Kingdom,2016,457,Walt Disney's Carousel of Progress,0,ride_max_wait,7
+6,Magic Kingdom,2016,1214,Country Bear Musical Jamboree,0,ride_max_wait,5
+6,Magic Kingdom,2016,1187,Liberty Square Riverboat,1,ride_max_wait,5
+6,Magic Kingdom,2016,355,Swiss Family Treehouse,0,ride_max_wait,5
+6,Magic Kingdom,2016,356,The Hall of Presidents,0,ride_max_wait,5
+6,Magic Kingdom,2016,465,Tom Sawyer Island,1,ride_max_wait,5
+6,Magic Kingdom,2016,334,Walt Disney's Enchanted Tiki Room,0,ride_max_wait,5
+6,Magic Kingdom,2017,129,Seven Dwarfs Mine Train,0,ride_avg_wait,89
+6,Magic Kingdom,2017,138,Space Mountain,0,ride_avg_wait,70
+6,Magic Kingdom,2017,136,Peter Pan's Flight,0,ride_avg_wait,63
+6,Magic Kingdom,2017,139,Splash Mountain,1,ride_avg_wait,52
+6,Magic Kingdom,2017,134,Jungle Cruise,0,ride_avg_wait,44
+6,Magic Kingdom,2017,130,Big Thunder Mountain Railroad,0,ride_avg_wait,39
+6,Magic Kingdom,2017,131,Buzz Lightyear’s Space Ranger Spin,0,ride_avg_wait,39
+6,Magic Kingdom,2017,140,Haunted Mansion,0,ride_avg_wait,34
+6,Magic Kingdom,2017,128,Enchanted Tales with Belle,0,ride_avg_wait,33
+6,Magic Kingdom,2017,143,Tomorrowland Speedway,0,ride_avg_wait,33
+6,Magic Kingdom,2017,137,Pirates of the Caribbean,0,ride_avg_wait,32
+6,Magic Kingdom,2017,142,The Many Adventures of Winnie the Pooh,0,ride_avg_wait,31
+6,Magic Kingdom,2017,248,Astro Orbiter,0,ride_avg_wait,27
+6,Magic Kingdom,2017,132,Dumbo the Flying Elephant,0,ride_avg_wait,23
+6,Magic Kingdom,2017,133,"""it's a small world""",0,ride_avg_wait,22
+6,Magic Kingdom,2017,126,The Barnstormer,0,ride_avg_wait,21
+6,Magic Kingdom,2017,127,Under the Sea - Journey of The Little Mermaid,0,ride_avg_wait,21
+6,Magic Kingdom,2017,141,The Magic Carpets of Aladdin,0,ride_avg_wait,19
+6,Magic Kingdom,2017,125,"Monsters, Inc. Laugh Floor",0,ride_avg_wait,16
+6,Magic Kingdom,2017,124,Stitch's Great Escape!,1,ride_avg_wait,16
+6,Magic Kingdom,2017,135,Mad Tea Party,0,ride_avg_wait,13
+6,Magic Kingdom,2017,171,Mickey's PhilharMagic,0,ride_avg_wait,12
+6,Magic Kingdom,2017,1190,Tomorrowland Transit Authority PeopleMover,0,ride_avg_wait,10
+6,Magic Kingdom,2017,161,Prince Charming Regal Carrousel,0,ride_avg_wait,9
+6,Magic Kingdom,2017,334,Walt Disney's Enchanted Tiki Room,0,ride_avg_wait,6
+6,Magic Kingdom,2017,355,Swiss Family Treehouse,0,ride_avg_wait,5
+6,Magic Kingdom,2017,356,The Hall of Presidents,0,ride_avg_wait,5
+6,Magic Kingdom,2017,465,Tom Sawyer Island,1,ride_avg_wait,5
+6,Magic Kingdom,2017,457,Walt Disney's Carousel of Progress,0,ride_avg_wait,5
+6,Magic Kingdom,2017,129,Seven Dwarfs Mine Train,0,ride_max_wait,146
+6,Magic Kingdom,2017,138,Space Mountain,0,ride_max_wait,120
+6,Magic Kingdom,2017,139,Splash Mountain,1,ride_max_wait,96
+6,Magic Kingdom,2017,136,Peter Pan's Flight,0,ride_max_wait,95
+6,Magic Kingdom,2017,134,Jungle Cruise,0,ride_max_wait,84
+6,Magic Kingdom,2017,130,Big Thunder Mountain Railroad,0,ride_max_wait,74
+6,Magic Kingdom,2017,128,Enchanted Tales with Belle,0,ride_max_wait,74
+6,Magic Kingdom,2017,131,Buzz Lightyear’s Space Ranger Spin,0,ride_max_wait,72
+6,Magic Kingdom,2017,248,Astro Orbiter,0,ride_max_wait,70
+6,Magic Kingdom,2017,137,Pirates of the Caribbean,0,ride_max_wait,65
+6,Magic Kingdom,2017,140,Haunted Mansion,0,ride_max_wait,64
+6,Magic Kingdom,2017,143,Tomorrowland Speedway,0,ride_max_wait,62
+6,Magic Kingdom,2017,132,Dumbo the Flying Elephant,0,ride_max_wait,55
+6,Magic Kingdom,2017,142,The Many Adventures of Winnie the Pooh,0,ride_max_wait,53
+6,Magic Kingdom,2017,127,Under the Sea - Journey of The Little Mermaid,0,ride_max_wait,50
+6,Magic Kingdom,2017,133,"""it's a small world""",0,ride_max_wait,49
+6,Magic Kingdom,2017,126,The Barnstormer,0,ride_max_wait,41
+6,Magic Kingdom,2017,125,"Monsters, Inc. Laugh Floor",0,ride_max_wait,40
+6,Magic Kingdom,2017,141,The Magic Carpets of Aladdin,0,ride_max_wait,39
+6,Magic Kingdom,2017,124,Stitch's Great Escape!,1,ride_max_wait,35
+6,Magic Kingdom,2017,135,Mad Tea Party,0,ride_max_wait,28
+6,Magic Kingdom,2017,171,Mickey's PhilharMagic,0,ride_max_wait,25
+6,Magic Kingdom,2017,161,Prince Charming Regal Carrousel,0,ride_max_wait,13
+6,Magic Kingdom,2017,1190,Tomorrowland Transit Authority PeopleMover,0,ride_max_wait,12
+6,Magic Kingdom,2017,334,Walt Disney's Enchanted Tiki Room,0,ride_max_wait,6
+6,Magic Kingdom,2017,355,Swiss Family Treehouse,0,ride_max_wait,5
+6,Magic Kingdom,2017,356,The Hall of Presidents,0,ride_max_wait,5
+6,Magic Kingdom,2017,465,Tom Sawyer Island,1,ride_max_wait,5
+6,Magic Kingdom,2017,457,Walt Disney's Carousel of Progress,0,ride_max_wait,5
+6,Magic Kingdom,2018,129,Seven Dwarfs Mine Train,0,ride_avg_wait,91
+6,Magic Kingdom,2018,136,Peter Pan's Flight,0,ride_avg_wait,65
+6,Magic Kingdom,2018,138,Space Mountain,0,ride_avg_wait,64
+6,Magic Kingdom,2018,139,Splash Mountain,1,ride_avg_wait,49
+6,Magic Kingdom,2018,134,Jungle Cruise,0,ride_avg_wait,45
+6,Magic Kingdom,2018,130,Big Thunder Mountain Railroad,0,ride_avg_wait,42
+6,Magic Kingdom,2018,131,Buzz Lightyear’s Space Ranger Spin,0,ride_avg_wait,38
+6,Magic Kingdom,2018,140,Haunted Mansion,0,ride_avg_wait,37
+6,Magic Kingdom,2018,143,Tomorrowland Speedway,0,ride_avg_wait,34
+6,Magic Kingdom,2018,142,The Many Adventures of Winnie the Pooh,0,ride_avg_wait,32
+6,Magic Kingdom,2018,128,Enchanted Tales with Belle,0,ride_avg_wait,30
+6,Magic Kingdom,2018,137,Pirates of the Caribbean,0,ride_avg_wait,30
+6,Magic Kingdom,2018,248,Astro Orbiter,0,ride_avg_wait,26
+6,Magic Kingdom,2018,132,Dumbo the Flying Elephant,0,ride_avg_wait,23
+6,Magic Kingdom,2018,126,The Barnstormer,0,ride_avg_wait,23
+6,Magic Kingdom,2018,133,"""it's a small world""",0,ride_avg_wait,22
+6,Magic Kingdom,2018,141,The Magic Carpets of Aladdin,0,ride_avg_wait,21
+6,Magic Kingdom,2018,127,Under the Sea - Journey of The Little Mermaid,0,ride_avg_wait,20
+6,Magic Kingdom,2018,125,"Monsters, Inc. Laugh Floor",0,ride_avg_wait,18
+6,Magic Kingdom,2018,1190,Tomorrowland Transit Authority PeopleMover,0,ride_avg_wait,15
+6,Magic Kingdom,2018,135,Mad Tea Party,0,ride_avg_wait,13
+6,Magic Kingdom,2018,124,Stitch's Great Escape!,1,ride_avg_wait,13
+6,Magic Kingdom,2018,171,Mickey's PhilharMagic,0,ride_avg_wait,11
+6,Magic Kingdom,2018,161,Prince Charming Regal Carrousel,0,ride_avg_wait,10
+6,Magic Kingdom,2018,356,The Hall of Presidents,0,ride_avg_wait,9
+6,Magic Kingdom,2018,457,Walt Disney's Carousel of Progress,0,ride_avg_wait,6
+6,Magic Kingdom,2018,334,Walt Disney's Enchanted Tiki Room,0,ride_avg_wait,6
+6,Magic Kingdom,2018,355,Swiss Family Treehouse,0,ride_avg_wait,5
+6,Magic Kingdom,2018,465,Tom Sawyer Island,1,ride_avg_wait,5
+6,Magic Kingdom,2018,129,Seven Dwarfs Mine Train,0,ride_max_wait,140
+6,Magic Kingdom,2018,138,Space Mountain,0,ride_max_wait,109
+6,Magic Kingdom,2018,136,Peter Pan's Flight,0,ride_max_wait,97
+6,Magic Kingdom,2018,139,Splash Mountain,1,ride_max_wait,92
+6,Magic Kingdom,2018,134,Jungle Cruise,0,ride_max_wait,85
+6,Magic Kingdom,2018,130,Big Thunder Mountain Railroad,0,ride_max_wait,79
+6,Magic Kingdom,2018,140,Haunted Mansion,0,ride_max_wait,69
+6,Magic Kingdom,2018,131,Buzz Lightyear’s Space Ranger Spin,0,ride_max_wait,68
+6,Magic Kingdom,2018,143,Tomorrowland Speedway,0,ride_max_wait,67
+6,Magic Kingdom,2018,128,Enchanted Tales with Belle,0,ride_max_wait,63
+6,Magic Kingdom,2018,137,Pirates of the Caribbean,0,ride_max_wait,62
+6,Magic Kingdom,2018,132,Dumbo the Flying Elephant,0,ride_max_wait,54
+6,Magic Kingdom,2018,142,The Many Adventures of Winnie the Pooh,0,ride_max_wait,54
+6,Magic Kingdom,2018,248,Astro Orbiter,0,ride_max_wait,48
+6,Magic Kingdom,2018,127,Under the Sea - Journey of The Little Mermaid,0,ride_max_wait,48
+6,Magic Kingdom,2018,126,The Barnstormer,0,ride_max_wait,46
+6,Magic Kingdom,2018,141,The Magic Carpets of Aladdin,0,ride_max_wait,45
+6,Magic Kingdom,2018,133,"""it's a small world""",0,ride_max_wait,43
+6,Magic Kingdom,2018,135,Mad Tea Party,0,ride_max_wait,37
+6,Magic Kingdom,2018,125,"Monsters, Inc. Laugh Floor",0,ride_max_wait,32
+6,Magic Kingdom,2018,124,Stitch's Great Escape!,1,ride_max_wait,30
+6,Magic Kingdom,2018,171,Mickey's PhilharMagic,0,ride_max_wait,24
+6,Magic Kingdom,2018,1190,Tomorrowland Transit Authority PeopleMover,0,ride_max_wait,23
+6,Magic Kingdom,2018,161,Prince Charming Regal Carrousel,0,ride_max_wait,14
+6,Magic Kingdom,2018,356,The Hall of Presidents,0,ride_max_wait,9
+6,Magic Kingdom,2018,457,Walt Disney's Carousel of Progress,0,ride_max_wait,6
+6,Magic Kingdom,2018,334,Walt Disney's Enchanted Tiki Room,0,ride_max_wait,6
+6,Magic Kingdom,2018,355,Swiss Family Treehouse,0,ride_max_wait,5
+6,Magic Kingdom,2018,465,Tom Sawyer Island,1,ride_max_wait,5
+6,Magic Kingdom,2019,129,Seven Dwarfs Mine Train,0,ride_avg_wait,90
+6,Magic Kingdom,2019,138,Space Mountain,0,ride_avg_wait,66
+6,Magic Kingdom,2019,136,Peter Pan's Flight,0,ride_avg_wait,62
+6,Magic Kingdom,2019,139,Splash Mountain,1,ride_avg_wait,53
+6,Magic Kingdom,2019,134,Jungle Cruise,0,ride_avg_wait,49
+6,Magic Kingdom,2019,130,Big Thunder Mountain Railroad,0,ride_avg_wait,45
+6,Magic Kingdom,2019,140,Haunted Mansion,0,ride_avg_wait,40
+6,Magic Kingdom,2019,131,Buzz Lightyear’s Space Ranger Spin,0,ride_avg_wait,38
+6,Magic Kingdom,2019,6700,Meet Cinderella and a Visiting Princess at Princess Fairytale Hall,0,ride_avg_wait,36
+6,Magic Kingdom,2019,6699,Meet Princess Tiana and a Visiting Princess at Princess Fairytale Hall,0,ride_avg_wait,35
+6,Magic Kingdom,2019,146,Meet Mickey at Town Square Theater,0,ride_avg_wait,34
+6,Magic Kingdom,2019,148,Meet Tinker Bell at Town Square Theater,1,ride_avg_wait,33
+6,Magic Kingdom,2019,142,The Many Adventures of Winnie the Pooh,0,ride_avg_wait,32
+6,Magic Kingdom,2019,248,Astro Orbiter,0,ride_avg_wait,30
+6,Magic Kingdom,2019,147,Meet Ariel at Her Grotto,0,ride_avg_wait,30
+6,Magic Kingdom,2019,137,Pirates of the Caribbean,0,ride_avg_wait,30
+6,Magic Kingdom,2019,128,Enchanted Tales with Belle,0,ride_avg_wait,28
+6,Magic Kingdom,2019,143,Tomorrowland Speedway,0,ride_avg_wait,28
+6,Magic Kingdom,2019,133,"""it's a small world""",0,ride_avg_wait,24
+6,Magic Kingdom,2019,141,The Magic Carpets of Aladdin,0,ride_avg_wait,24
+6,Magic Kingdom,2019,132,Dumbo the Flying Elephant,0,ride_avg_wait,23
+6,Magic Kingdom,2019,126,The Barnstormer,0,ride_avg_wait,23
+6,Magic Kingdom,2019,145,Meet Dashing Disney Pals as Circus Stars at Pete's Silly Sideshow,0,ride_avg_wait,21
+6,Magic Kingdom,2019,127,Under the Sea - Journey of The Little Mermaid,0,ride_avg_wait,21
+6,Magic Kingdom,2019,125,"Monsters, Inc. Laugh Floor",0,ride_avg_wait,19
+6,Magic Kingdom,2019,144,Meet Daring Disney Pals as Circus Stars at Pete's Silly Sideshow,0,ride_avg_wait,18
+6,Magic Kingdom,2019,1190,Tomorrowland Transit Authority PeopleMover,0,ride_avg_wait,15
+6,Magic Kingdom,2019,135,Mad Tea Party,0,ride_avg_wait,13
+6,Magic Kingdom,2019,171,Mickey's PhilharMagic,0,ride_avg_wait,10
+6,Magic Kingdom,2019,161,Prince Charming Regal Carrousel,0,ride_avg_wait,10
+6,Magic Kingdom,2019,356,The Hall of Presidents,0,ride_avg_wait,10
+6,Magic Kingdom,2019,457,Walt Disney's Carousel of Progress,0,ride_avg_wait,6
+6,Magic Kingdom,2019,334,Walt Disney's Enchanted Tiki Room,0,ride_avg_wait,6
+6,Magic Kingdom,2019,1184,A Pirate's Adventure ~ Treasures of the Seven Seas,0,ride_avg_wait,5
+6,Magic Kingdom,2019,1187,Liberty Square Riverboat,1,ride_avg_wait,5
+6,Magic Kingdom,2019,1180,Sorcerers of the Magic Kingdom,1,ride_avg_wait,5
+6,Magic Kingdom,2019,355,Swiss Family Treehouse,0,ride_avg_wait,5
+6,Magic Kingdom,2019,465,Tom Sawyer Island,1,ride_avg_wait,5
+6,Magic Kingdom,2019,129,Seven Dwarfs Mine Train,0,ride_max_wait,136
+6,Magic Kingdom,2019,138,Space Mountain,0,ride_max_wait,109
+6,Magic Kingdom,2019,139,Splash Mountain,1,ride_max_wait,98
+6,Magic Kingdom,2019,134,Jungle Cruise,0,ride_max_wait,94
+6,Magic Kingdom,2019,136,Peter Pan's Flight,0,ride_max_wait,93
+6,Magic Kingdom,2019,130,Big Thunder Mountain Railroad,0,ride_max_wait,84
+6,Magic Kingdom,2019,140,Haunted Mansion,0,ride_max_wait,71
+6,Magic Kingdom,2019,131,Buzz Lightyear’s Space Ranger Spin,0,ride_max_wait,70
+6,Magic Kingdom,2019,146,Meet Mickey at Town Square Theater,0,ride_max_wait,67
+6,Magic Kingdom,2019,148,Meet Tinker Bell at Town Square Theater,1,ride_max_wait,64
+6,Magic Kingdom,2019,137,Pirates of the Caribbean,0,ride_max_wait,61
+6,Magic Kingdom,2019,128,Enchanted Tales with Belle,0,ride_max_wait,58
+6,Magic Kingdom,2019,6700,Meet Cinderella and a Visiting Princess at Princess Fairytale Hall,0,ride_max_wait,58
+6,Magic Kingdom,2019,6699,Meet Princess Tiana and a Visiting Princess at Princess Fairytale Hall,0,ride_max_wait,57
+6,Magic Kingdom,2019,143,Tomorrowland Speedway,0,ride_max_wait,57
+6,Magic Kingdom,2019,147,Meet Ariel at Her Grotto,0,ride_max_wait,56
+6,Magic Kingdom,2019,248,Astro Orbiter,0,ride_max_wait,55
+6,Magic Kingdom,2019,142,The Many Adventures of Winnie the Pooh,0,ride_max_wait,55
+6,Magic Kingdom,2019,126,The Barnstormer,0,ride_max_wait,52
+6,Magic Kingdom,2019,132,Dumbo the Flying Elephant,0,ride_max_wait,51
+6,Magic Kingdom,2019,141,The Magic Carpets of Aladdin,0,ride_max_wait,51
+6,Magic Kingdom,2019,133,"""it's a small world""",0,ride_max_wait,47
+6,Magic Kingdom,2019,127,Under the Sea - Journey of The Little Mermaid,0,ride_max_wait,46
+6,Magic Kingdom,2019,145,Meet Dashing Disney Pals as Circus Stars at Pete's Silly Sideshow,0,ride_max_wait,38
+6,Magic Kingdom,2019,144,Meet Daring Disney Pals as Circus Stars at Pete's Silly Sideshow,0,ride_max_wait,36
+6,Magic Kingdom,2019,125,"Monsters, Inc. Laugh Floor",0,ride_max_wait,32
+6,Magic Kingdom,2019,135,Mad Tea Party,0,ride_max_wait,28
+6,Magic Kingdom,2019,171,Mickey's PhilharMagic,0,ride_max_wait,21
+6,Magic Kingdom,2019,1190,Tomorrowland Transit Authority PeopleMover,0,ride_max_wait,21
+6,Magic Kingdom,2019,161,Prince Charming Regal Carrousel,0,ride_max_wait,14
+6,Magic Kingdom,2019,356,The Hall of Presidents,0,ride_max_wait,11
+6,Magic Kingdom,2019,334,Walt Disney's Enchanted Tiki Room,0,ride_max_wait,7
+6,Magic Kingdom,2019,355,Swiss Family Treehouse,0,ride_max_wait,6
+6,Magic Kingdom,2019,457,Walt Disney's Carousel of Progress,0,ride_max_wait,6
+6,Magic Kingdom,2019,1184,A Pirate's Adventure ~ Treasures of the Seven Seas,0,ride_max_wait,5
+6,Magic Kingdom,2019,1187,Liberty Square Riverboat,1,ride_max_wait,5
+6,Magic Kingdom,2019,1180,Sorcerers of the Magic Kingdom,1,ride_max_wait,5
+6,Magic Kingdom,2019,465,Tom Sawyer Island,1,ride_max_wait,5
+6,Magic Kingdom,2020,129,Seven Dwarfs Mine Train,0,ride_avg_wait,66
+6,Magic Kingdom,2020,139,Splash Mountain,1,ride_avg_wait,45
+6,Magic Kingdom,2020,138,Space Mountain,0,ride_avg_wait,44
+6,Magic Kingdom,2020,130,Big Thunder Mountain Railroad,0,ride_avg_wait,43
+6,Magic Kingdom,2020,134,Jungle Cruise,0,ride_avg_wait,42
+6,Magic Kingdom,2020,136,Peter Pan's Flight,0,ride_avg_wait,40
+6,Magic Kingdom,2020,6700,Meet Cinderella and a Visiting Princess at Princess Fairytale Hall,0,ride_avg_wait,39
+6,Magic Kingdom,2020,6699,Meet Princess Tiana and a Visiting Princess at Princess Fairytale Hall,0,ride_avg_wait,39
+6,Magic Kingdom,2020,137,Pirates of the Caribbean,0,ride_avg_wait,36
+6,Magic Kingdom,2020,147,Meet Ariel at Her Grotto,0,ride_avg_wait,34
+6,Magic Kingdom,2020,148,Meet Tinker Bell at Town Square Theater,1,ride_avg_wait,32
+6,Magic Kingdom,2020,128,Enchanted Tales with Belle,0,ride_avg_wait,31
+6,Magic Kingdom,2020,140,Haunted Mansion,0,ride_avg_wait,31
+6,Magic Kingdom,2020,133,"""it's a small world""",0,ride_avg_wait,28
+6,Magic Kingdom,2020,131,Buzz Lightyear’s Space Ranger Spin,0,ride_avg_wait,28
+6,Magic Kingdom,2020,145,Meet Dashing Disney Pals as Circus Stars at Pete's Silly Sideshow,0,ride_avg_wait,28
+6,Magic Kingdom,2020,146,Meet Mickey at Town Square Theater,0,ride_avg_wait,28
+6,Magic Kingdom,2020,248,Astro Orbiter,0,ride_avg_wait,27
+6,Magic Kingdom,2020,142,The Many Adventures of Winnie the Pooh,0,ride_avg_wait,24
+6,Magic Kingdom,2020,144,Meet Daring Disney Pals as Circus Stars at Pete's Silly Sideshow,0,ride_avg_wait,22
+6,Magic Kingdom,2020,1214,Country Bear Musical Jamboree,0,ride_avg_wait,21
+6,Magic Kingdom,2020,1190,Tomorrowland Transit Authority PeopleMover,0,ride_avg_wait,19
+6,Magic Kingdom,2020,126,The Barnstormer,0,ride_avg_wait,18
+6,Magic Kingdom,2020,143,Tomorrowland Speedway,0,ride_avg_wait,18
+6,Magic Kingdom,2020,127,Under the Sea - Journey of The Little Mermaid,0,ride_avg_wait,18
+6,Magic Kingdom,2020,125,"Monsters, Inc. Laugh Floor",0,ride_avg_wait,17
+6,Magic Kingdom,2020,141,The Magic Carpets of Aladdin,0,ride_avg_wait,16
+6,Magic Kingdom,2020,132,Dumbo the Flying Elephant,0,ride_avg_wait,14
+6,Magic Kingdom,2020,171,Mickey's PhilharMagic,0,ride_avg_wait,14
+6,Magic Kingdom,2020,161,Prince Charming Regal Carrousel,0,ride_avg_wait,14
+6,Magic Kingdom,2020,135,Mad Tea Party,0,ride_avg_wait,12
+6,Magic Kingdom,2020,457,Walt Disney's Carousel of Progress,0,ride_avg_wait,6
+6,Magic Kingdom,2020,129,Seven Dwarfs Mine Train,0,ride_max_wait,93
+6,Magic Kingdom,2020,139,Splash Mountain,1,ride_max_wait,73
+6,Magic Kingdom,2020,134,Jungle Cruise,0,ride_max_wait,71
+6,Magic Kingdom,2020,130,Big Thunder Mountain Railroad,0,ride_max_wait,70
+6,Magic Kingdom,2020,138,Space Mountain,0,ride_max_wait,67
+6,Magic Kingdom,2020,136,Peter Pan's Flight,0,ride_max_wait,64
+6,Magic Kingdom,2020,128,Enchanted Tales with Belle,0,ride_max_wait,63
+6,Magic Kingdom,2020,148,Meet Tinker Bell at Town Square Theater,1,ride_max_wait,63
+6,Magic Kingdom,2020,137,Pirates of the Caribbean,0,ride_max_wait,63
+6,Magic Kingdom,2020,6699,Meet Princess Tiana and a Visiting Princess at Princess Fairytale Hall,0,ride_max_wait,60
+6,Magic Kingdom,2020,6700,Meet Cinderella and a Visiting Princess at Princess Fairytale Hall,0,ride_max_wait,59
+6,Magic Kingdom,2020,146,Meet Mickey at Town Square Theater,0,ride_max_wait,58
+6,Magic Kingdom,2020,140,Haunted Mansion,0,ride_max_wait,55
+6,Magic Kingdom,2020,147,Meet Ariel at Her Grotto,0,ride_max_wait,53
+6,Magic Kingdom,2020,131,Buzz Lightyear’s Space Ranger Spin,0,ride_max_wait,49
+6,Magic Kingdom,2020,145,Meet Dashing Disney Pals as Circus Stars at Pete's Silly Sideshow,0,ride_max_wait,48
+6,Magic Kingdom,2020,133,"""it's a small world""",0,ride_max_wait,47
+6,Magic Kingdom,2020,248,Astro Orbiter,0,ride_max_wait,44
+6,Magic Kingdom,2020,144,Meet Daring Disney Pals as Circus Stars at Pete's Silly Sideshow,0,ride_max_wait,43
+6,Magic Kingdom,2020,142,The Many Adventures of Winnie the Pooh,0,ride_max_wait,41
+6,Magic Kingdom,2020,127,Under the Sea - Journey of The Little Mermaid,0,ride_max_wait,39
+6,Magic Kingdom,2020,126,The Barnstormer,0,ride_max_wait,38
+6,Magic Kingdom,2020,132,Dumbo the Flying Elephant,0,ride_max_wait,33
+6,Magic Kingdom,2020,141,The Magic Carpets of Aladdin,0,ride_max_wait,33
+6,Magic Kingdom,2020,143,Tomorrowland Speedway,0,ride_max_wait,33
+6,Magic Kingdom,2020,1214,Country Bear Musical Jamboree,0,ride_max_wait,28
+6,Magic Kingdom,2020,125,"Monsters, Inc. Laugh Floor",0,ride_max_wait,28
+6,Magic Kingdom,2020,1190,Tomorrowland Transit Authority PeopleMover,0,ride_max_wait,28
+6,Magic Kingdom,2020,171,Mickey's PhilharMagic,0,ride_max_wait,27
+6,Magic Kingdom,2020,135,Mad Tea Party,0,ride_max_wait,23
+6,Magic Kingdom,2020,161,Prince Charming Regal Carrousel,0,ride_max_wait,20
+6,Magic Kingdom,2020,457,Walt Disney's Carousel of Progress,0,ride_max_wait,9
+6,Magic Kingdom,2021,129,Seven Dwarfs Mine Train,0,ride_avg_wait,62
+6,Magic Kingdom,2021,134,Jungle Cruise,0,ride_avg_wait,48
+6,Magic Kingdom,2021,139,Splash Mountain,1,ride_avg_wait,48
+6,Magic Kingdom,2021,136,Peter Pan's Flight,0,ride_avg_wait,43
+6,Magic Kingdom,2021,138,Space Mountain,0,ride_avg_wait,40
+6,Magic Kingdom,2021,248,Astro Orbiter,0,ride_avg_wait,33
+6,Magic Kingdom,2021,137,Pirates of the Caribbean,0,ride_avg_wait,33
+6,Magic Kingdom,2021,130,Big Thunder Mountain Railroad,0,ride_avg_wait,32
+6,Magic Kingdom,2021,140,Haunted Mansion,0,ride_avg_wait,29
+6,Magic Kingdom,2021,131,Buzz Lightyear’s Space Ranger Spin,0,ride_avg_wait,28
+6,Magic Kingdom,2021,133,"""it's a small world""",0,ride_avg_wait,26
+6,Magic Kingdom,2021,142,The Many Adventures of Winnie the Pooh,0,ride_avg_wait,26
+6,Magic Kingdom,2021,127,Under the Sea - Journey of The Little Mermaid,0,ride_avg_wait,18
+6,Magic Kingdom,2021,1190,Tomorrowland Transit Authority PeopleMover,0,ride_avg_wait,17
+6,Magic Kingdom,2021,132,Dumbo the Flying Elephant,0,ride_avg_wait,16
+6,Magic Kingdom,2021,171,Mickey's PhilharMagic,0,ride_avg_wait,16
+6,Magic Kingdom,2021,143,Tomorrowland Speedway,0,ride_avg_wait,16
+6,Magic Kingdom,2021,1214,Country Bear Musical Jamboree,0,ride_avg_wait,15
+6,Magic Kingdom,2021,161,Prince Charming Regal Carrousel,0,ride_avg_wait,15
+6,Magic Kingdom,2021,126,The Barnstormer,0,ride_avg_wait,15
+6,Magic Kingdom,2021,141,The Magic Carpets of Aladdin,0,ride_avg_wait,15
+6,Magic Kingdom,2021,125,"Monsters, Inc. Laugh Floor",0,ride_avg_wait,14
+6,Magic Kingdom,2021,135,Mad Tea Party,0,ride_avg_wait,12
+6,Magic Kingdom,2021,465,Tom Sawyer Island,1,ride_avg_wait,12
+6,Magic Kingdom,2021,457,Walt Disney's Carousel of Progress,0,ride_avg_wait,6
+6,Magic Kingdom,2021,355,Swiss Family Treehouse,0,ride_avg_wait,5
+6,Magic Kingdom,2021,129,Seven Dwarfs Mine Train,0,ride_max_wait,83
+6,Magic Kingdom,2021,134,Jungle Cruise,0,ride_max_wait,71
+6,Magic Kingdom,2021,139,Splash Mountain,1,ride_max_wait,70
+6,Magic Kingdom,2021,136,Peter Pan's Flight,0,ride_max_wait,63
+6,Magic Kingdom,2021,138,Space Mountain,0,ride_max_wait,58
+6,Magic Kingdom,2021,137,Pirates of the Caribbean,0,ride_max_wait,57
+6,Magic Kingdom,2021,130,Big Thunder Mountain Railroad,0,ride_max_wait,50
+6,Magic Kingdom,2021,140,Haunted Mansion,0,ride_max_wait,50
+6,Magic Kingdom,2021,133,"""it's a small world""",0,ride_max_wait,48
+6,Magic Kingdom,2021,248,Astro Orbiter,0,ride_max_wait,47
+6,Magic Kingdom,2021,131,Buzz Lightyear’s Space Ranger Spin,0,ride_max_wait,47
+6,Magic Kingdom,2021,142,The Many Adventures of Winnie the Pooh,0,ride_max_wait,42
+6,Magic Kingdom,2021,127,Under the Sea - Journey of The Little Mermaid,0,ride_max_wait,37
+6,Magic Kingdom,2021,132,Dumbo the Flying Elephant,0,ride_max_wait,34
+6,Magic Kingdom,2021,126,The Barnstormer,0,ride_max_wait,32
+6,Magic Kingdom,2021,141,The Magic Carpets of Aladdin,0,ride_max_wait,30
+6,Magic Kingdom,2021,143,Tomorrowland Speedway,0,ride_max_wait,30
+6,Magic Kingdom,2021,1190,Tomorrowland Transit Authority PeopleMover,0,ride_max_wait,28
+6,Magic Kingdom,2021,171,Mickey's PhilharMagic,0,ride_max_wait,27
+6,Magic Kingdom,2021,161,Prince Charming Regal Carrousel,0,ride_max_wait,25
+6,Magic Kingdom,2021,135,Mad Tea Party,0,ride_max_wait,23
+6,Magic Kingdom,2021,125,"Monsters, Inc. Laugh Floor",0,ride_max_wait,20
+6,Magic Kingdom,2021,1214,Country Bear Musical Jamboree,0,ride_max_wait,18
+6,Magic Kingdom,2021,465,Tom Sawyer Island,1,ride_max_wait,15
+6,Magic Kingdom,2021,457,Walt Disney's Carousel of Progress,0,ride_max_wait,9
+6,Magic Kingdom,2021,355,Swiss Family Treehouse,0,ride_max_wait,5
+6,Magic Kingdom,2022,129,Seven Dwarfs Mine Train,0,ride_avg_wait,68
+6,Magic Kingdom,2022,134,Jungle Cruise,0,ride_avg_wait,55
+6,Magic Kingdom,2022,136,Peter Pan's Flight,0,ride_avg_wait,53
+6,Magic Kingdom,2022,146,Meet Mickey at Town Square Theater,0,ride_avg_wait,43
+6,Magic Kingdom,2022,139,Splash Mountain,1,ride_avg_wait,42
+6,Magic Kingdom,2022,140,Haunted Mansion,0,ride_avg_wait,38
+6,Magic Kingdom,2022,138,Space Mountain,0,ride_avg_wait,38
+6,Magic Kingdom,2022,130,Big Thunder Mountain Railroad,0,ride_avg_wait,35
+6,Magic Kingdom,2022,6700,Meet Cinderella and a Visiting Princess at Princess Fairytale Hall,0,ride_avg_wait,34
+6,Magic Kingdom,2022,6699,Meet Princess Tiana and a Visiting Princess at Princess Fairytale Hall,0,ride_avg_wait,30
+6,Magic Kingdom,2022,137,Pirates of the Caribbean,0,ride_avg_wait,29
+6,Magic Kingdom,2022,248,Astro Orbiter,0,ride_avg_wait,23
+6,Magic Kingdom,2022,142,The Many Adventures of Winnie the Pooh,0,ride_avg_wait,23
+6,Magic Kingdom,2022,131,Buzz Lightyear’s Space Ranger Spin,0,ride_avg_wait,21
+6,Magic Kingdom,2022,141,The Magic Carpets of Aladdin,0,ride_avg_wait,17
+6,Magic Kingdom,2022,133,"""it's a small world""",0,ride_avg_wait,16
+6,Magic Kingdom,2022,1214,Country Bear Musical Jamboree,0,ride_avg_wait,15
+6,Magic Kingdom,2022,125,"Monsters, Inc. Laugh Floor",0,ride_avg_wait,14
+6,Magic Kingdom,2022,143,Tomorrowland Speedway,0,ride_avg_wait,14
+6,Magic Kingdom,2022,171,Mickey's PhilharMagic,0,ride_avg_wait,13
+6,Magic Kingdom,2022,127,Under the Sea - Journey of The Little Mermaid,0,ride_avg_wait,13
+6,Magic Kingdom,2022,126,The Barnstormer,0,ride_avg_wait,12
+6,Magic Kingdom,2022,132,Dumbo the Flying Elephant,0,ride_avg_wait,11
+6,Magic Kingdom,2022,1187,Liberty Square Riverboat,1,ride_avg_wait,11
+6,Magic Kingdom,2022,1190,Tomorrowland Transit Authority PeopleMover,0,ride_avg_wait,11
+6,Magic Kingdom,2022,356,The Hall of Presidents,0,ride_avg_wait,10
+6,Magic Kingdom,2022,135,Mad Tea Party,0,ride_avg_wait,9
+6,Magic Kingdom,2022,161,Prince Charming Regal Carrousel,0,ride_avg_wait,9
+6,Magic Kingdom,2022,465,Tom Sawyer Island,1,ride_avg_wait,7
+6,Magic Kingdom,2022,355,Swiss Family Treehouse,0,ride_avg_wait,5
+6,Magic Kingdom,2022,457,Walt Disney's Carousel of Progress,0,ride_avg_wait,5
+6,Magic Kingdom,2022,334,Walt Disney's Enchanted Tiki Room,0,ride_avg_wait,5
+6,Magic Kingdom,2022,129,Seven Dwarfs Mine Train,0,ride_max_wait,86
+6,Magic Kingdom,2022,134,Jungle Cruise,0,ride_max_wait,81
+6,Magic Kingdom,2022,146,Meet Mickey at Town Square Theater,0,ride_max_wait,81
+6,Magic Kingdom,2022,136,Peter Pan's Flight,0,ride_max_wait,70
+6,Magic Kingdom,2022,139,Splash Mountain,1,ride_max_wait,63
+6,Magic Kingdom,2022,140,Haunted Mansion,0,ride_max_wait,61
+6,Magic Kingdom,2022,130,Big Thunder Mountain Railroad,0,ride_max_wait,56
+6,Magic Kingdom,2022,6700,Meet Cinderella and a Visiting Princess at Princess Fairytale Hall,0,ride_max_wait,56
+6,Magic Kingdom,2022,138,Space Mountain,0,ride_max_wait,54
+6,Magic Kingdom,2022,137,Pirates of the Caribbean,0,ride_max_wait,53
+6,Magic Kingdom,2022,6699,Meet Princess Tiana and a Visiting Princess at Princess Fairytale Hall,0,ride_max_wait,51
+6,Magic Kingdom,2022,131,Buzz Lightyear’s Space Ranger Spin,0,ride_max_wait,36
+6,Magic Kingdom,2022,142,The Many Adventures of Winnie the Pooh,0,ride_max_wait,36
+6,Magic Kingdom,2022,248,Astro Orbiter,0,ride_max_wait,34
+6,Magic Kingdom,2022,141,The Magic Carpets of Aladdin,0,ride_max_wait,30
+6,Magic Kingdom,2022,133,"""it's a small world""",0,ride_max_wait,28
+6,Magic Kingdom,2022,127,Under the Sea - Journey of The Little Mermaid,0,ride_max_wait,24
+6,Magic Kingdom,2022,143,Tomorrowland Speedway,0,ride_max_wait,23
+6,Magic Kingdom,2022,132,Dumbo the Flying Elephant,0,ride_max_wait,21
+6,Magic Kingdom,2022,125,"Monsters, Inc. Laugh Floor",0,ride_max_wait,20
+6,Magic Kingdom,2022,126,The Barnstormer,0,ride_max_wait,20
+6,Magic Kingdom,2022,1190,Tomorrowland Transit Authority PeopleMover,0,ride_max_wait,18
+6,Magic Kingdom,2022,171,Mickey's PhilharMagic,0,ride_max_wait,17
+6,Magic Kingdom,2022,1214,Country Bear Musical Jamboree,0,ride_max_wait,15
+6,Magic Kingdom,2022,135,Mad Tea Party,0,ride_max_wait,15
+6,Magic Kingdom,2022,1187,Liberty Square Riverboat,1,ride_max_wait,14
+6,Magic Kingdom,2022,161,Prince Charming Regal Carrousel,0,ride_max_wait,14
+6,Magic Kingdom,2022,356,The Hall of Presidents,0,ride_max_wait,11
+6,Magic Kingdom,2022,465,Tom Sawyer Island,1,ride_max_wait,8
+6,Magic Kingdom,2022,355,Swiss Family Treehouse,0,ride_max_wait,6
+6,Magic Kingdom,2022,334,Walt Disney's Enchanted Tiki Room,0,ride_max_wait,6
+6,Magic Kingdom,2022,457,Walt Disney's Carousel of Progress,0,ride_max_wait,5
+6,Magic Kingdom,2023,129,Seven Dwarfs Mine Train,0,ride_avg_wait,68
+6,Magic Kingdom,2023,11527,TRON Lightcycle / Run,0,ride_avg_wait,65
+6,Magic Kingdom,2023,136,Peter Pan's Flight,0,ride_avg_wait,52
+6,Magic Kingdom,2023,139,Splash Mountain,1,ride_avg_wait,49
+6,Magic Kingdom,2023,134,Jungle Cruise,0,ride_avg_wait,44
+6,Magic Kingdom,2023,140,Haunted Mansion,0,ride_avg_wait,37
+6,Magic Kingdom,2023,147,Meet Ariel at Her Grotto,0,ride_avg_wait,37
+6,Magic Kingdom,2023,138,Space Mountain,0,ride_avg_wait,36
+6,Magic Kingdom,2023,6700,Meet Cinderella and a Visiting Princess at Princess Fairytale Hall,0,ride_avg_wait,35
+6,Magic Kingdom,2023,145,Meet Dashing Disney Pals as Circus Stars at Pete's Silly Sideshow,0,ride_avg_wait,33
+6,Magic Kingdom,2023,6699,Meet Princess Tiana and a Visiting Princess at Princess Fairytale Hall,0,ride_avg_wait,33
+6,Magic Kingdom,2023,146,Meet Mickey at Town Square Theater,0,ride_avg_wait,31
+6,Magic Kingdom,2023,130,Big Thunder Mountain Railroad,0,ride_avg_wait,30
+6,Magic Kingdom,2023,128,Enchanted Tales with Belle,0,ride_avg_wait,27
+6,Magic Kingdom,2023,137,Pirates of the Caribbean,0,ride_avg_wait,26
+6,Magic Kingdom,2023,144,Meet Daring Disney Pals as Circus Stars at Pete's Silly Sideshow,0,ride_avg_wait,25
+6,Magic Kingdom,2023,142,The Many Adventures of Winnie the Pooh,0,ride_avg_wait,22
+6,Magic Kingdom,2023,131,Buzz Lightyear’s Space Ranger Spin,0,ride_avg_wait,20
+6,Magic Kingdom,2023,248,Astro Orbiter,0,ride_avg_wait,19
+6,Magic Kingdom,2023,1187,Liberty Square Riverboat,1,ride_avg_wait,16
+6,Magic Kingdom,2023,1214,Country Bear Musical Jamboree,0,ride_avg_wait,15
+6,Magic Kingdom,2023,356,The Hall of Presidents,0,ride_avg_wait,15
+6,Magic Kingdom,2023,141,The Magic Carpets of Aladdin,0,ride_avg_wait,15
+6,Magic Kingdom,2023,1181,Walt Disney World Railroad - Fantasyland,0,ride_avg_wait,15
+6,Magic Kingdom,2023,1179,Walt Disney World Railroad - Frontierland,1,ride_avg_wait,14
+6,Magic Kingdom,2023,133,"""it's a small world""",0,ride_avg_wait,13
+6,Magic Kingdom,2023,171,Mickey's PhilharMagic,0,ride_avg_wait,13
+6,Magic Kingdom,2023,125,"Monsters, Inc. Laugh Floor",0,ride_avg_wait,13
+6,Magic Kingdom,2023,143,Tomorrowland Speedway,0,ride_avg_wait,13
+6,Magic Kingdom,2023,1189,"Walt Disney World Railroad - Main Street, U.S.A.",0,ride_avg_wait,13
+6,Magic Kingdom,2023,127,Under the Sea - Journey of The Little Mermaid,0,ride_avg_wait,12
+6,Magic Kingdom,2023,126,The Barnstormer,0,ride_avg_wait,11
+6,Magic Kingdom,2023,334,Walt Disney's Enchanted Tiki Room,0,ride_avg_wait,11
+6,Magic Kingdom,2023,132,Dumbo the Flying Elephant,0,ride_avg_wait,10
+6,Magic Kingdom,2023,1190,Tomorrowland Transit Authority PeopleMover,0,ride_avg_wait,9
+6,Magic Kingdom,2023,135,Mad Tea Party,0,ride_avg_wait,8
+6,Magic Kingdom,2023,161,Prince Charming Regal Carrousel,0,ride_avg_wait,8
+6,Magic Kingdom,2023,465,Tom Sawyer Island,1,ride_avg_wait,6
+6,Magic Kingdom,2023,355,Swiss Family Treehouse,0,ride_avg_wait,5
+6,Magic Kingdom,2023,457,Walt Disney's Carousel of Progress,0,ride_avg_wait,5
+6,Magic Kingdom,2023,129,Seven Dwarfs Mine Train,0,ride_max_wait,87
+6,Magic Kingdom,2023,139,Splash Mountain,1,ride_max_wait,84
+6,Magic Kingdom,2023,134,Jungle Cruise,0,ride_max_wait,69
+6,Magic Kingdom,2023,136,Peter Pan's Flight,0,ride_max_wait,69
+6,Magic Kingdom,2023,11527,TRON Lightcycle / Run,0,ride_max_wait,65
+6,Magic Kingdom,2023,146,Meet Mickey at Town Square Theater,0,ride_max_wait,63
+6,Magic Kingdom,2023,140,Haunted Mansion,0,ride_max_wait,60
+6,Magic Kingdom,2023,147,Meet Ariel at Her Grotto,0,ride_max_wait,59
+6,Magic Kingdom,2023,6700,Meet Cinderella and a Visiting Princess at Princess Fairytale Hall,0,ride_max_wait,57
+6,Magic Kingdom,2023,128,Enchanted Tales with Belle,0,ride_max_wait,55
+6,Magic Kingdom,2023,145,Meet Dashing Disney Pals as Circus Stars at Pete's Silly Sideshow,0,ride_max_wait,54
+6,Magic Kingdom,2023,6699,Meet Princess Tiana and a Visiting Princess at Princess Fairytale Hall,0,ride_max_wait,54
+6,Magic Kingdom,2023,138,Space Mountain,0,ride_max_wait,54
+6,Magic Kingdom,2023,130,Big Thunder Mountain Railroad,0,ride_max_wait,52
+6,Magic Kingdom,2023,137,Pirates of the Caribbean,0,ride_max_wait,47
+6,Magic Kingdom,2023,144,Meet Daring Disney Pals as Circus Stars at Pete's Silly Sideshow,0,ride_max_wait,46
+6,Magic Kingdom,2023,131,Buzz Lightyear’s Space Ranger Spin,0,ride_max_wait,36
+6,Magic Kingdom,2023,142,The Many Adventures of Winnie the Pooh,0,ride_max_wait,36
+6,Magic Kingdom,2023,248,Astro Orbiter,0,ride_max_wait,29
+6,Magic Kingdom,2023,141,The Magic Carpets of Aladdin,0,ride_max_wait,26
+6,Magic Kingdom,2023,133,"""it's a small world""",0,ride_max_wait,25
+6,Magic Kingdom,2023,127,Under the Sea - Journey of The Little Mermaid,0,ride_max_wait,25
+6,Magic Kingdom,2023,143,Tomorrowland Speedway,0,ride_max_wait,22
+6,Magic Kingdom,2023,132,Dumbo the Flying Elephant,0,ride_max_wait,21
+6,Magic Kingdom,2023,126,The Barnstormer,0,ride_max_wait,21
+6,Magic Kingdom,2023,1181,Walt Disney World Railroad - Fantasyland,0,ride_max_wait,21
+6,Magic Kingdom,2023,1179,Walt Disney World Railroad - Frontierland,1,ride_max_wait,19
+6,Magic Kingdom,2023,125,"Monsters, Inc. Laugh Floor",0,ride_max_wait,18
+6,Magic Kingdom,2023,1189,"Walt Disney World Railroad - Main Street, U.S.A.",0,ride_max_wait,18
+6,Magic Kingdom,2023,1187,Liberty Square Riverboat,1,ride_max_wait,16
+6,Magic Kingdom,2023,356,The Hall of Presidents,0,ride_max_wait,16
+6,Magic Kingdom,2023,1190,Tomorrowland Transit Authority PeopleMover,0,ride_max_wait,16
+6,Magic Kingdom,2023,1214,Country Bear Musical Jamboree,0,ride_max_wait,15
+6,Magic Kingdom,2023,171,Mickey's PhilharMagic,0,ride_max_wait,15
+6,Magic Kingdom,2023,135,Mad Tea Party,0,ride_max_wait,14
+6,Magic Kingdom,2023,161,Prince Charming Regal Carrousel,0,ride_max_wait,11
+6,Magic Kingdom,2023,334,Walt Disney's Enchanted Tiki Room,0,ride_max_wait,11
+6,Magic Kingdom,2023,355,Swiss Family Treehouse,0,ride_max_wait,6
+6,Magic Kingdom,2023,465,Tom Sawyer Island,1,ride_max_wait,6
+6,Magic Kingdom,2023,457,Walt Disney's Carousel of Progress,0,ride_max_wait,5
+6,Magic Kingdom,2024,129,Seven Dwarfs Mine Train,0,ride_avg_wait,59
+6,Magic Kingdom,2024,11527,TRON Lightcycle / Run,0,ride_avg_wait,55
+6,Magic Kingdom,2024,136,Peter Pan's Flight,0,ride_avg_wait,43
+6,Magic Kingdom,2024,134,Jungle Cruise,0,ride_avg_wait,42
+6,Magic Kingdom,2024,147,Meet Ariel at Her Grotto,0,ride_avg_wait,33
+6,Magic Kingdom,2024,6700,Meet Cinderella and a Visiting Princess at Princess Fairytale Hall,0,ride_avg_wait,33
+6,Magic Kingdom,2024,140,Haunted Mansion,0,ride_avg_wait,32
+6,Magic Kingdom,2024,145,Meet Dashing Disney Pals as Circus Stars at Pete's Silly Sideshow,0,ride_avg_wait,32
+6,Magic Kingdom,2024,6699,Meet Princess Tiana and a Visiting Princess at Princess Fairytale Hall,0,ride_avg_wait,32
+6,Magic Kingdom,2024,138,Space Mountain,0,ride_avg_wait,32
+6,Magic Kingdom,2024,130,Big Thunder Mountain Railroad,0,ride_avg_wait,29
+6,Magic Kingdom,2024,146,Meet Mickey at Town Square Theater,0,ride_avg_wait,29
+6,Magic Kingdom,2024,128,Enchanted Tales with Belle,0,ride_avg_wait,25
+6,Magic Kingdom,2024,144,Meet Daring Disney Pals as Circus Stars at Pete's Silly Sideshow,0,ride_avg_wait,24
+6,Magic Kingdom,2024,13630,Tiana's Bayou Adventure,0,ride_avg_wait,24
+6,Magic Kingdom,2024,142,The Many Adventures of Winnie the Pooh,0,ride_avg_wait,23
+6,Magic Kingdom,2024,137,Pirates of the Caribbean,0,ride_avg_wait,19
+6,Magic Kingdom,2024,131,Buzz Lightyear’s Space Ranger Spin,0,ride_avg_wait,17
+6,Magic Kingdom,2024,248,Astro Orbiter,0,ride_avg_wait,15
+6,Magic Kingdom,2024,1187,Liberty Square Riverboat,1,ride_avg_wait,15
+6,Magic Kingdom,2024,1214,Country Bear Musical Jamboree,0,ride_avg_wait,14
+6,Magic Kingdom,2024,171,Mickey's PhilharMagic,0,ride_avg_wait,14
+6,Magic Kingdom,2024,1181,Walt Disney World Railroad - Fantasyland,0,ride_avg_wait,14
+6,Magic Kingdom,2024,356,The Hall of Presidents,0,ride_avg_wait,13
+6,Magic Kingdom,2024,1179,Walt Disney World Railroad - Frontierland,1,ride_avg_wait,13
+6,Magic Kingdom,2024,334,Walt Disney's Enchanted Tiki Room,0,ride_avg_wait,13
+6,Magic Kingdom,2024,133,"""it's a small world""",0,ride_avg_wait,12
+6,Magic Kingdom,2024,125,"Monsters, Inc. Laugh Floor",0,ride_avg_wait,12
+6,Magic Kingdom,2024,141,The Magic Carpets of Aladdin,0,ride_avg_wait,12
+6,Magic Kingdom,2024,126,The Barnstormer,0,ride_avg_wait,11
+6,Magic Kingdom,2024,143,Tomorrowland Speedway,0,ride_avg_wait,11
+6,Magic Kingdom,2024,127,Under the Sea - Journey of The Little Mermaid,0,ride_avg_wait,11
+6,Magic Kingdom,2024,1189,"Walt Disney World Railroad - Main Street, U.S.A.",0,ride_avg_wait,11
+6,Magic Kingdom,2024,132,Dumbo the Flying Elephant,0,ride_avg_wait,10
+6,Magic Kingdom,2024,135,Mad Tea Party,0,ride_avg_wait,8
+6,Magic Kingdom,2024,1190,Tomorrowland Transit Authority PeopleMover,0,ride_avg_wait,8
+6,Magic Kingdom,2024,161,Prince Charming Regal Carrousel,0,ride_avg_wait,7
+6,Magic Kingdom,2024,465,Tom Sawyer Island,1,ride_avg_wait,6
+6,Magic Kingdom,2024,355,Swiss Family Treehouse,0,ride_avg_wait,5
+6,Magic Kingdom,2024,457,Walt Disney's Carousel of Progress,0,ride_avg_wait,5
+6,Magic Kingdom,2024,11527,TRON Lightcycle / Run,0,ride_max_wait,84
+6,Magic Kingdom,2024,129,Seven Dwarfs Mine Train,0,ride_max_wait,75
+6,Magic Kingdom,2024,134,Jungle Cruise,0,ride_max_wait,66
+6,Magic Kingdom,2024,146,Meet Mickey at Town Square Theater,0,ride_max_wait,61
+6,Magic Kingdom,2024,136,Peter Pan's Flight,0,ride_max_wait,57
+6,Magic Kingdom,2024,140,Haunted Mansion,0,ride_max_wait,53
+6,Magic Kingdom,2024,147,Meet Ariel at Her Grotto,0,ride_max_wait,53
+6,Magic Kingdom,2024,6700,Meet Cinderella and a Visiting Princess at Princess Fairytale Hall,0,ride_max_wait,53
+6,Magic Kingdom,2024,145,Meet Dashing Disney Pals as Circus Stars at Pete's Silly Sideshow,0,ride_max_wait,53
+6,Magic Kingdom,2024,6699,Meet Princess Tiana and a Visiting Princess at Princess Fairytale Hall,0,ride_max_wait,52
+6,Magic Kingdom,2024,130,Big Thunder Mountain Railroad,0,ride_max_wait,50
+6,Magic Kingdom,2024,138,Space Mountain,0,ride_max_wait,49
+6,Magic Kingdom,2024,128,Enchanted Tales with Belle,0,ride_max_wait,47
+6,Magic Kingdom,2024,144,Meet Daring Disney Pals as Circus Stars at Pete's Silly Sideshow,0,ride_max_wait,44
+6,Magic Kingdom,2024,13630,Tiana's Bayou Adventure,0,ride_max_wait,41
+6,Magic Kingdom,2024,137,Pirates of the Caribbean,0,ride_max_wait,39
+6,Magic Kingdom,2024,142,The Many Adventures of Winnie the Pooh,0,ride_max_wait,36
+6,Magic Kingdom,2024,131,Buzz Lightyear’s Space Ranger Spin,0,ride_max_wait,30
+6,Magic Kingdom,2024,248,Astro Orbiter,0,ride_max_wait,25
+6,Magic Kingdom,2024,141,The Magic Carpets of Aladdin,0,ride_max_wait,23
+6,Magic Kingdom,2024,127,Under the Sea - Journey of The Little Mermaid,0,ride_max_wait,23
+6,Magic Kingdom,2024,133,"""it's a small world""",0,ride_max_wait,22
+6,Magic Kingdom,2024,1181,Walt Disney World Railroad - Fantasyland,0,ride_max_wait,21
+6,Magic Kingdom,2024,1179,Walt Disney World Railroad - Frontierland,1,ride_max_wait,20
+6,Magic Kingdom,2024,132,Dumbo the Flying Elephant,0,ride_max_wait,19
+6,Magic Kingdom,2024,126,The Barnstormer,0,ride_max_wait,19
+6,Magic Kingdom,2024,143,Tomorrowland Speedway,0,ride_max_wait,19
+6,Magic Kingdom,2024,125,"Monsters, Inc. Laugh Floor",0,ride_max_wait,17
+6,Magic Kingdom,2024,1189,"Walt Disney World Railroad - Main Street, U.S.A.",0,ride_max_wait,16
+6,Magic Kingdom,2024,1187,Liberty Square Riverboat,1,ride_max_wait,15
+6,Magic Kingdom,2024,171,Mickey's PhilharMagic,0,ride_max_wait,15
+6,Magic Kingdom,2024,1214,Country Bear Musical Jamboree,0,ride_max_wait,14
+6,Magic Kingdom,2024,356,The Hall of Presidents,0,ride_max_wait,14
+6,Magic Kingdom,2024,1190,Tomorrowland Transit Authority PeopleMover,0,ride_max_wait,14
+6,Magic Kingdom,2024,334,Walt Disney's Enchanted Tiki Room,0,ride_max_wait,14
+6,Magic Kingdom,2024,135,Mad Tea Party,0,ride_max_wait,12
+6,Magic Kingdom,2024,161,Prince Charming Regal Carrousel,0,ride_max_wait,10
+6,Magic Kingdom,2024,465,Tom Sawyer Island,1,ride_max_wait,7
+6,Magic Kingdom,2024,355,Swiss Family Treehouse,0,ride_max_wait,5
+6,Magic Kingdom,2024,457,Walt Disney's Carousel of Progress,0,ride_max_wait,5
+6,Magic Kingdom,2025,11527,TRON Lightcycle / Run,0,ride_avg_wait,62
+6,Magic Kingdom,2025,14928,Meet Jack Skellington and Sally at Mickey's Not-So-Scary Halloween Party,0,ride_avg_wait,58
+6,Magic Kingdom,2025,130,Big Thunder Mountain Railroad,0,ride_avg_wait,53
+6,Magic Kingdom,2025,129,Seven Dwarfs Mine Train,0,ride_avg_wait,46
+6,Magic Kingdom,2025,136,Peter Pan's Flight,0,ride_avg_wait,37
+6,Magic Kingdom,2025,13630,Tiana's Bayou Adventure,0,ride_avg_wait,35
+6,Magic Kingdom,2025,134,Jungle Cruise,0,ride_avg_wait,33
+6,Magic Kingdom,2025,145,Meet Dashing Disney Pals as Circus Stars at Pete's Silly Sideshow,0,ride_avg_wait,31
+6,Magic Kingdom,2025,14927,Meet Mickey Mouse and Minnie Mouse at Mickey's Not-So-Scary Halloween Party,0,ride_avg_wait,30
+6,Magic Kingdom,2025,147,Meet Ariel at Her Grotto,0,ride_avg_wait,29
+6,Magic Kingdom,2025,6700,Meet Cinderella and a Visiting Princess at Princess Fairytale Hall,0,ride_avg_wait,29
+6,Magic Kingdom,2025,15395,Meet Santa Jack and Sally at Town Square Theater at Mickey's Very Merry Christmas Party,1,ride_avg_wait,28
+6,Magic Kingdom,2025,138,Space Mountain,0,ride_avg_wait,28
+6,Magic Kingdom,2025,140,Haunted Mansion,0,ride_avg_wait,27
+6,Magic Kingdom,2025,142,The Many Adventures of Winnie the Pooh,0,ride_avg_wait,24
+6,Magic Kingdom,2025,144,Meet Daring Disney Pals as Circus Stars at Pete's Silly Sideshow,0,ride_avg_wait,23
+6,Magic Kingdom,2025,146,Meet Mickey at Town Square Theater,0,ride_avg_wait,22
+6,Magic Kingdom,2025,6699,Meet Princess Tiana and a Visiting Princess at Princess Fairytale Hall,0,ride_avg_wait,22
+6,Magic Kingdom,2025,128,Enchanted Tales with Belle,0,ride_avg_wait,19
+6,Magic Kingdom,2025,1181,Walt Disney World Railroad - Fantasyland,0,ride_avg_wait,17
+6,Magic Kingdom,2025,137,Pirates of the Caribbean,0,ride_avg_wait,16
+6,Magic Kingdom,2025,1189,"Walt Disney World Railroad - Main Street, U.S.A.",0,ride_avg_wait,16
+6,Magic Kingdom,2025,131,Buzz Lightyear’s Space Ranger Spin,0,ride_avg_wait,15
+6,Magic Kingdom,2025,1187,Liberty Square Riverboat,1,ride_avg_wait,15
+6,Magic Kingdom,2025,356,The Hall of Presidents,0,ride_avg_wait,15
+6,Magic Kingdom,2025,171,Mickey's PhilharMagic,0,ride_avg_wait,13
+6,Magic Kingdom,2025,1179,Walt Disney World Railroad - Frontierland,1,ride_avg_wait,13
+6,Magic Kingdom,2025,141,The Magic Carpets of Aladdin,0,ride_avg_wait,12
+6,Magic Kingdom,2025,248,Astro Orbiter,0,ride_avg_wait,11
+6,Magic Kingdom,2025,1214,Country Bear Musical Jamboree,0,ride_avg_wait,11
+6,Magic Kingdom,2025,125,"Monsters, Inc. Laugh Floor",0,ride_avg_wait,11
+6,Magic Kingdom,2025,126,The Barnstormer,0,ride_avg_wait,11
+6,Magic Kingdom,2025,334,Walt Disney's Enchanted Tiki Room,0,ride_avg_wait,11
+6,Magic Kingdom,2025,133,"""it's a small world""",0,ride_avg_wait,10
+6,Magic Kingdom,2025,143,Tomorrowland Speedway,0,ride_avg_wait,10
+6,Magic Kingdom,2025,127,Under the Sea - Journey of The Little Mermaid,0,ride_avg_wait,10
+6,Magic Kingdom,2025,132,Dumbo the Flying Elephant,0,ride_avg_wait,9
+6,Magic Kingdom,2025,135,Mad Tea Party,0,ride_avg_wait,8
+6,Magic Kingdom,2025,1190,Tomorrowland Transit Authority PeopleMover,0,ride_avg_wait,8
+6,Magic Kingdom,2025,161,Prince Charming Regal Carrousel,0,ride_avg_wait,7
+6,Magic Kingdom,2025,465,Tom Sawyer Island,1,ride_avg_wait,6
+6,Magic Kingdom,2025,355,Swiss Family Treehouse,0,ride_avg_wait,5
+6,Magic Kingdom,2025,457,Walt Disney's Carousel of Progress,0,ride_avg_wait,5
+6,Magic Kingdom,2025,11527,TRON Lightcycle / Run,0,ride_max_wait,92
+6,Magic Kingdom,2025,14928,Meet Jack Skellington and Sally at Mickey's Not-So-Scary Halloween Party,0,ride_max_wait,89
+6,Magic Kingdom,2025,130,Big Thunder Mountain Railroad,0,ride_max_wait,86
+6,Magic Kingdom,2025,14927,Meet Mickey Mouse and Minnie Mouse at Mickey's Not-So-Scary Halloween Party,0,ride_max_wait,60
+6,Magic Kingdom,2025,129,Seven Dwarfs Mine Train,0,ride_max_wait,59
+6,Magic Kingdom,2025,13630,Tiana's Bayou Adventure,0,ride_max_wait,59
+6,Magic Kingdom,2025,134,Jungle Cruise,0,ride_max_wait,55
+6,Magic Kingdom,2025,15395,Meet Santa Jack and Sally at Town Square Theater at Mickey's Very Merry Christmas Party,1,ride_max_wait,53
+6,Magic Kingdom,2025,145,Meet Dashing Disney Pals as Circus Stars at Pete's Silly Sideshow,0,ride_max_wait,49
+6,Magic Kingdom,2025,146,Meet Mickey at Town Square Theater,0,ride_max_wait,49
+6,Magic Kingdom,2025,136,Peter Pan's Flight,0,ride_max_wait,49
+6,Magic Kingdom,2025,147,Meet Ariel at Her Grotto,0,ride_max_wait,48
+6,Magic Kingdom,2025,6700,Meet Cinderella and a Visiting Princess at Princess Fairytale Hall,0,ride_max_wait,47
+6,Magic Kingdom,2025,140,Haunted Mansion,0,ride_max_wait,46
+6,Magic Kingdom,2025,138,Space Mountain,0,ride_max_wait,43
+6,Magic Kingdom,2025,144,Meet Daring Disney Pals as Circus Stars at Pete's Silly Sideshow,0,ride_max_wait,41
+6,Magic Kingdom,2025,6699,Meet Princess Tiana and a Visiting Princess at Princess Fairytale Hall,0,ride_max_wait,40
+6,Magic Kingdom,2025,128,Enchanted Tales with Belle,0,ride_max_wait,38
+6,Magic Kingdom,2025,142,The Many Adventures of Winnie the Pooh,0,ride_max_wait,37
+6,Magic Kingdom,2025,137,Pirates of the Caribbean,0,ride_max_wait,33
+6,Magic Kingdom,2025,131,Buzz Lightyear’s Space Ranger Spin,0,ride_max_wait,26
+6,Magic Kingdom,2025,141,The Magic Carpets of Aladdin,0,ride_max_wait,23
+6,Magic Kingdom,2025,1181,Walt Disney World Railroad - Fantasyland,0,ride_max_wait,22
+6,Magic Kingdom,2025,127,Under the Sea - Journey of The Little Mermaid,0,ride_max_wait,21
+6,Magic Kingdom,2025,133,"""it's a small world""",0,ride_max_wait,20
+6,Magic Kingdom,2025,248,Astro Orbiter,0,ride_max_wait,20
+6,Magic Kingdom,2025,132,Dumbo the Flying Elephant,0,ride_max_wait,19
+6,Magic Kingdom,2025,126,The Barnstormer,0,ride_max_wait,19
+6,Magic Kingdom,2025,1179,Walt Disney World Railroad - Frontierland,1,ride_max_wait,19
+6,Magic Kingdom,2025,143,Tomorrowland Speedway,0,ride_max_wait,18
+6,Magic Kingdom,2025,1189,"Walt Disney World Railroad - Main Street, U.S.A.",0,ride_max_wait,18
+6,Magic Kingdom,2025,1187,Liberty Square Riverboat,1,ride_max_wait,15
+6,Magic Kingdom,2025,171,Mickey's PhilharMagic,0,ride_max_wait,15
+6,Magic Kingdom,2025,356,The Hall of Presidents,0,ride_max_wait,15
+6,Magic Kingdom,2025,125,"Monsters, Inc. Laugh Floor",0,ride_max_wait,14
+6,Magic Kingdom,2025,135,Mad Tea Party,0,ride_max_wait,13
+6,Magic Kingdom,2025,1190,Tomorrowland Transit Authority PeopleMover,0,ride_max_wait,13
+6,Magic Kingdom,2025,334,Walt Disney's Enchanted Tiki Room,0,ride_max_wait,12
+6,Magic Kingdom,2025,1214,Country Bear Musical Jamboree,0,ride_max_wait,11
+6,Magic Kingdom,2025,161,Prince Charming Regal Carrousel,0,ride_max_wait,10
+6,Magic Kingdom,2025,465,Tom Sawyer Island,1,ride_max_wait,6
+6,Magic Kingdom,2025,355,Swiss Family Treehouse,0,ride_max_wait,5
+6,Magic Kingdom,2025,457,Walt Disney's Carousel of Progress,0,ride_max_wait,5
+6,Magic Kingdom,2026,11527,TRON Lightcycle / Run,0,ride_avg_wait,65
+6,Magic Kingdom,2026,14928,Meet Jack Skellington and Sally at Mickey's Not-So-Scary Halloween Party,0,ride_avg_wait,58
+6,Magic Kingdom,2026,129,Seven Dwarfs Mine Train,0,ride_avg_wait,47
+6,Magic Kingdom,2026,136,Peter Pan's Flight,0,ride_avg_wait,38
+6,Magic Kingdom,2026,13630,Tiana's Bayou Adventure,0,ride_avg_wait,34
+6,Magic Kingdom,2026,130,Big Thunder Mountain Railroad,0,ride_avg_wait,32
+6,Magic Kingdom,2026,134,Jungle Cruise,0,ride_avg_wait,32
+6,Magic Kingdom,2026,17526,Meet Festive Disney Pals at Mickey’s Not-So-Scary Halloween Party,0,ride_avg_wait,32
+6,Magic Kingdom,2026,138,Space Mountain,0,ride_avg_wait,28
+6,Magic Kingdom,2026,6700,Meet Cinderella and a Visiting Princess at Princess Fairytale Hall,0,ride_avg_wait,27
+6,Magic Kingdom,2026,142,The Many Adventures of Winnie the Pooh,0,ride_avg_wait,27
+6,Magic Kingdom,2026,147,Meet Ariel at Her Grotto,0,ride_avg_wait,26
+6,Magic Kingdom,2026,145,Meet Dashing Disney Pals as Circus Stars at Pete's Silly Sideshow,0,ride_avg_wait,26
+6,Magic Kingdom,2026,14927,Meet Mickey Mouse and Minnie Mouse at Mickey's Not-So-Scary Halloween Party,0,ride_avg_wait,25
+6,Magic Kingdom,2026,140,Haunted Mansion,0,ride_avg_wait,24
+6,Magic Kingdom,2026,131,Buzz Lightyear’s Space Ranger Spin,0,ride_avg_wait,23
+6,Magic Kingdom,2026,6699,Meet Princess Tiana and a Visiting Princess at Princess Fairytale Hall,0,ride_avg_wait,23
+6,Magic Kingdom,2026,144,Meet Daring Disney Pals as Circus Stars at Pete's Silly Sideshow,0,ride_avg_wait,20
+6,Magic Kingdom,2026,146,Meet Mickey at Town Square Theater,0,ride_avg_wait,19
+6,Magic Kingdom,2026,1181,Walt Disney World Railroad - Fantasyland,0,ride_avg_wait,19
+6,Magic Kingdom,2026,1189,"Walt Disney World Railroad - Main Street, U.S.A.",0,ride_avg_wait,19
+6,Magic Kingdom,2026,128,Enchanted Tales with Belle,0,ride_avg_wait,18
+6,Magic Kingdom,2026,137,Pirates of the Caribbean,0,ride_avg_wait,17
+6,Magic Kingdom,2026,356,The Hall of Presidents,0,ride_avg_wait,15
+6,Magic Kingdom,2026,248,Astro Orbiter,0,ride_avg_wait,12
+6,Magic Kingdom,2026,171,Mickey's PhilharMagic,0,ride_avg_wait,12
+6,Magic Kingdom,2026,141,The Magic Carpets of Aladdin,0,ride_avg_wait,12
+6,Magic Kingdom,2026,143,Tomorrowland Speedway,0,ride_avg_wait,11
+6,Magic Kingdom,2026,1214,Country Bear Musical Jamboree,0,ride_avg_wait,10
+6,Magic Kingdom,2026,125,"Monsters, Inc. Laugh Floor",0,ride_avg_wait,10
+6,Magic Kingdom,2026,126,The Barnstormer,0,ride_avg_wait,10
+6,Magic Kingdom,2026,127,Under the Sea - Journey of The Little Mermaid,0,ride_avg_wait,10
+6,Magic Kingdom,2026,334,Walt Disney's Enchanted Tiki Room,0,ride_avg_wait,10
+6,Magic Kingdom,2026,133,"""it's a small world""",0,ride_avg_wait,9
+6,Magic Kingdom,2026,132,Dumbo the Flying Elephant,0,ride_avg_wait,9
+6,Magic Kingdom,2026,135,Mad Tea Party,0,ride_avg_wait,8
+6,Magic Kingdom,2026,1190,Tomorrowland Transit Authority PeopleMover,0,ride_avg_wait,7
+6,Magic Kingdom,2026,161,Prince Charming Regal Carrousel,0,ride_avg_wait,6
+6,Magic Kingdom,2026,355,Swiss Family Treehouse,0,ride_avg_wait,5
+6,Magic Kingdom,2026,457,Walt Disney's Carousel of Progress,0,ride_avg_wait,5
+6,Magic Kingdom,2026,11527,TRON Lightcycle / Run,0,ride_max_wait,97
+6,Magic Kingdom,2026,14928,Meet Jack Skellington and Sally at Mickey's Not-So-Scary Halloween Party,0,ride_max_wait,82
+6,Magic Kingdom,2026,13630,Tiana's Bayou Adventure,0,ride_max_wait,61
+6,Magic Kingdom,2026,129,Seven Dwarfs Mine Train,0,ride_max_wait,59
+6,Magic Kingdom,2026,134,Jungle Cruise,0,ride_max_wait,53
+6,Magic Kingdom,2026,130,Big Thunder Mountain Railroad,0,ride_max_wait,52
+6,Magic Kingdom,2026,17526,Meet Festive Disney Pals at Mickey’s Not-So-Scary Halloween Party,0,ride_max_wait,52
+6,Magic Kingdom,2026,14927,Meet Mickey Mouse and Minnie Mouse at Mickey's Not-So-Scary Halloween Party,0,ride_max_wait,49
+6,Magic Kingdom,2026,136,Peter Pan's Flight,0,ride_max_wait,49
+6,Magic Kingdom,2026,145,Meet Dashing Disney Pals as Circus Stars at Pete's Silly Sideshow,0,ride_max_wait,46
+6,Magic Kingdom,2026,6700,Meet Cinderella and a Visiting Princess at Princess Fairytale Hall,0,ride_max_wait,45
+6,Magic Kingdom,2026,147,Meet Ariel at Her Grotto,0,ride_max_wait,43
+6,Magic Kingdom,2026,138,Space Mountain,0,ride_max_wait,41
+6,Magic Kingdom,2026,144,Meet Daring Disney Pals as Circus Stars at Pete's Silly Sideshow,0,ride_max_wait,40
+6,Magic Kingdom,2026,146,Meet Mickey at Town Square Theater,0,ride_max_wait,40
+6,Magic Kingdom,2026,6699,Meet Princess Tiana and a Visiting Princess at Princess Fairytale Hall,0,ride_max_wait,40
+6,Magic Kingdom,2026,142,The Many Adventures of Winnie the Pooh,0,ride_max_wait,40
+6,Magic Kingdom,2026,140,Haunted Mansion,0,ride_max_wait,39
+6,Magic Kingdom,2026,131,Buzz Lightyear’s Space Ranger Spin,0,ride_max_wait,37
+6,Magic Kingdom,2026,128,Enchanted Tales with Belle,0,ride_max_wait,35
+6,Magic Kingdom,2026,137,Pirates of the Caribbean,0,ride_max_wait,32
+6,Magic Kingdom,2026,141,The Magic Carpets of Aladdin,0,ride_max_wait,22
+6,Magic Kingdom,2026,1181,Walt Disney World Railroad - Fantasyland,0,ride_max_wait,21
+6,Magic Kingdom,2026,248,Astro Orbiter,0,ride_max_wait,20
+6,Magic Kingdom,2026,127,Under the Sea - Journey of The Little Mermaid,0,ride_max_wait,20
+6,Magic Kingdom,2026,1189,"Walt Disney World Railroad - Main Street, U.S.A.",0,ride_max_wait,20
+6,Magic Kingdom,2026,132,Dumbo the Flying Elephant,0,ride_max_wait,19
+6,Magic Kingdom,2026,143,Tomorrowland Speedway,0,ride_max_wait,19
+6,Magic Kingdom,2026,133,"""it's a small world""",0,ride_max_wait,18
+6,Magic Kingdom,2026,126,The Barnstormer,0,ride_max_wait,18
+6,Magic Kingdom,2026,171,Mickey's PhilharMagic,0,ride_max_wait,15
+6,Magic Kingdom,2026,356,The Hall of Presidents,0,ride_max_wait,15
+6,Magic Kingdom,2026,135,Mad Tea Party,0,ride_max_wait,13
+6,Magic Kingdom,2026,125,"Monsters, Inc. Laugh Floor",0,ride_max_wait,12
+6,Magic Kingdom,2026,1190,Tomorrowland Transit Authority PeopleMover,0,ride_max_wait,12
+6,Magic Kingdom,2026,1214,Country Bear Musical Jamboree,0,ride_max_wait,10
+6,Magic Kingdom,2026,161,Prince Charming Regal Carrousel,0,ride_max_wait,10
+6,Magic Kingdom,2026,334,Walt Disney's Enchanted Tiki Room,0,ride_max_wait,10
+6,Magic Kingdom,2026,355,Swiss Family Treehouse,0,ride_max_wait,5
+6,Magic Kingdom,2026,457,Walt Disney's Carousel of Progress,0,ride_max_wait,5
+7,Hollywood Studios,all_time,5476,Slinky Dog Dash,0,ride_avg_wait,71
+7,Hollywood Studios,all_time,6369,Star Wars: Rise of the Resistance,0,ride_avg_wait,70
+7,Hollywood Studios,all_time,119,Rock 'n' Roller Coaster Starring Aerosmith,1,ride_avg_wait,51
+7,Hollywood Studios,all_time,14859,The Little Mermaid – A Musical Adventure,0,ride_avg_wait,49
+7,Hollywood Studios,all_time,16342,Rock ’n’ Roller Coaster Starring The Muppets,0,ride_avg_wait,48
+7,Hollywood Studios,all_time,123,The Twilight Zone™ Tower of Terror,0,ride_avg_wait,46
+7,Hollywood Studios,all_time,15402,Meet Stitch at Celebrity Spotlight at Disney Jollywood Nights,1,ride_avg_wait,43
+7,Hollywood Studios,all_time,6361,Mickey & Minnie's Runaway Railway,0,ride_avg_wait,42
+7,Hollywood Studios,all_time,117,Toy Story Mania!,0,ride_avg_wait,42
+7,Hollywood Studios,all_time,6368,Millennium Falcon: Smugglers Run,0,ride_avg_wait,40
+7,Hollywood Studios,all_time,6704,Meet Disney Stars at Red Carpet Dreams,0,ride_avg_wait,36
+7,Hollywood Studios,all_time,6707,Meet Sulley at Walt Disney Presents,1,ride_avg_wait,36
+7,Hollywood Studios,all_time,1153,Walt Disney: One Man's Dream,1,ride_avg_wait,27
+7,Hollywood Studios,all_time,2574,Star Wars Launch Bay: Encounter Darth Vader,1,ride_avg_wait,26
+7,Hollywood Studios,all_time,5477,Alien Swirling Saucers,0,ride_avg_wait,23
+7,Hollywood Studios,all_time,122,The Great Movie Ride,1,ride_avg_wait,23
+7,Hollywood Studios,all_time,2577,Star Wars Launch Bay: Meet Chewbacca,1,ride_avg_wait,21
+7,Hollywood Studios,all_time,6703,Meet Olaf at Celebrity Spotlight,0,ride_avg_wait,18
+7,Hollywood Studios,all_time,6378,Lightning McQueen's Racing Academy,1,ride_avg_wait,16
+7,Hollywood Studios,all_time,120,Star Tours – The Adventures Continue,0,ride_avg_wait,15
+7,Hollywood Studios,all_time,6705,Star Wars Launch Bay: BB-8 Astromech on Duty,1,ride_avg_wait,15
+7,Hollywood Studios,all_time,5145,Walt Disney Presents,0,ride_avg_wait,15
+7,Hollywood Studios,all_time,12425,Meet Edna Mode at the Edna Mode Experience,0,ride_avg_wait,14
+7,Hollywood Studios,all_time,2478,Star Wars Launch Bay,1,ride_avg_wait,14
+7,Hollywood Studios,all_time,2686,Encounter Kylo Ren at Star Wars Launch Bay,1,ride_avg_wait,13
+7,Hollywood Studios,all_time,118,Muppet*Vision 3D,1,ride_avg_wait,10
+7,Hollywood Studios,all_time,2663,Star Wars Launch Bay Theater,1,ride_avg_wait,10
+7,Hollywood Studios,all_time,7333,Vacation Fun - An Original Animated Short with Mickey & Minnie,0,ride_avg_wait,10
+7,Hollywood Studios,all_time,6369,Star Wars: Rise of the Resistance,0,ride_max_wait,100
+7,Hollywood Studios,all_time,5476,Slinky Dog Dash,0,ride_max_wait,97
+7,Hollywood Studios,all_time,119,Rock 'n' Roller Coaster Starring Aerosmith,1,ride_max_wait,86
+7,Hollywood Studios,all_time,123,The Twilight Zone™ Tower of Terror,0,ride_max_wait,82
+7,Hollywood Studios,all_time,14859,The Little Mermaid – A Musical Adventure,0,ride_max_wait,75
+7,Hollywood Studios,all_time,117,Toy Story Mania!,0,ride_max_wait,72
+7,Hollywood Studios,all_time,6368,Millennium Falcon: Smugglers Run,0,ride_max_wait,68
+7,Hollywood Studios,all_time,16342,Rock ’n’ Roller Coaster Starring The Muppets,0,ride_max_wait,67
+7,Hollywood Studios,all_time,15402,Meet Stitch at Celebrity Spotlight at Disney Jollywood Nights,1,ride_max_wait,64
+7,Hollywood Studios,all_time,6361,Mickey & Minnie's Runaway Railway,0,ride_max_wait,61
+7,Hollywood Studios,all_time,6704,Meet Disney Stars at Red Carpet Dreams,0,ride_max_wait,59
+7,Hollywood Studios,all_time,6707,Meet Sulley at Walt Disney Presents,1,ride_max_wait,50
+7,Hollywood Studios,all_time,122,The Great Movie Ride,1,ride_max_wait,50
+7,Hollywood Studios,all_time,2574,Star Wars Launch Bay: Encounter Darth Vader,1,ride_max_wait,48
+7,Hollywood Studios,all_time,5477,Alien Swirling Saucers,0,ride_max_wait,42
+7,Hollywood Studios,all_time,6703,Meet Olaf at Celebrity Spotlight,0,ride_max_wait,40
+7,Hollywood Studios,all_time,2577,Star Wars Launch Bay: Meet Chewbacca,1,ride_max_wait,37
+7,Hollywood Studios,all_time,120,Star Tours – The Adventures Continue,0,ride_max_wait,34
+7,Hollywood Studios,all_time,2478,Star Wars Launch Bay,1,ride_max_wait,33
+7,Hollywood Studios,all_time,2686,Encounter Kylo Ren at Star Wars Launch Bay,1,ride_max_wait,27
+7,Hollywood Studios,all_time,6705,Star Wars Launch Bay: BB-8 Astromech on Duty,1,ride_max_wait,27
+7,Hollywood Studios,all_time,1153,Walt Disney: One Man's Dream,1,ride_max_wait,27
+7,Hollywood Studios,all_time,2663,Star Wars Launch Bay Theater,1,ride_max_wait,22
+7,Hollywood Studios,all_time,6378,Lightning McQueen's Racing Academy,1,ride_max_wait,17
+7,Hollywood Studios,all_time,5145,Walt Disney Presents,0,ride_max_wait,16
+7,Hollywood Studios,all_time,12425,Meet Edna Mode at the Edna Mode Experience,0,ride_max_wait,15
+7,Hollywood Studios,all_time,118,Muppet*Vision 3D,1,ride_max_wait,13
+7,Hollywood Studios,all_time,7333,Vacation Fun - An Original Animated Short with Mickey & Minnie,0,ride_max_wait,11
+7,Hollywood Studios,2015,117,Toy Story Mania!,0,ride_avg_wait,73
+7,Hollywood Studios,2015,119,Rock 'n' Roller Coaster Starring Aerosmith,1,ride_avg_wait,55
+7,Hollywood Studios,2015,123,The Twilight Zone™ Tower of Terror,0,ride_avg_wait,43
+7,Hollywood Studios,2015,2574,Star Wars Launch Bay: Encounter Darth Vader,1,ride_avg_wait,32
+7,Hollywood Studios,2015,2577,Star Wars Launch Bay: Meet Chewbacca,1,ride_avg_wait,25
+7,Hollywood Studios,2015,122,The Great Movie Ride,1,ride_avg_wait,23
+7,Hollywood Studios,2015,120,Star Tours – The Adventures Continue,0,ride_avg_wait,20
+7,Hollywood Studios,2015,2478,Star Wars Launch Bay,1,ride_avg_wait,19
+7,Hollywood Studios,2015,118,Muppet*Vision 3D,1,ride_avg_wait,6
+7,Hollywood Studios,2015,6708,Voyage of The Little Mermaid,1,ride_avg_wait,5
+7,Hollywood Studios,2015,119,Rock 'n' Roller Coaster Starring Aerosmith,1,ride_max_wait,127
+7,Hollywood Studios,2015,117,Toy Story Mania!,0,ride_max_wait,106
+7,Hollywood Studios,2015,123,The Twilight Zone™ Tower of Terror,0,ride_max_wait,93
+7,Hollywood Studios,2015,2574,Star Wars Launch Bay: Encounter Darth Vader,1,ride_max_wait,54
+7,Hollywood Studios,2015,120,Star Tours – The Adventures Continue,0,ride_max_wait,52
+7,Hollywood Studios,2015,2478,Star Wars Launch Bay,1,ride_max_wait,50
+7,Hollywood Studios,2015,122,The Great Movie Ride,1,ride_max_wait,49
+7,Hollywood Studios,2015,2577,Star Wars Launch Bay: Meet Chewbacca,1,ride_max_wait,48
+7,Hollywood Studios,2015,118,Muppet*Vision 3D,1,ride_max_wait,11
+7,Hollywood Studios,2015,6708,Voyage of The Little Mermaid,1,ride_max_wait,5
+7,Hollywood Studios,2016,119,Rock 'n' Roller Coaster Starring Aerosmith,1,ride_avg_wait,60
+7,Hollywood Studios,2016,117,Toy Story Mania!,0,ride_avg_wait,60
+7,Hollywood Studios,2016,123,The Twilight Zone™ Tower of Terror,0,ride_avg_wait,42
+7,Hollywood Studios,2016,1153,Walt Disney: One Man's Dream,1,ride_avg_wait,30
+7,Hollywood Studios,2016,2574,Star Wars Launch Bay: Encounter Darth Vader,1,ride_avg_wait,29
+7,Hollywood Studios,2016,2577,Star Wars Launch Bay: Meet Chewbacca,1,ride_avg_wait,26
+7,Hollywood Studios,2016,2686,Encounter Kylo Ren at Star Wars Launch Bay,1,ride_avg_wait,25
+7,Hollywood Studios,2016,120,Star Tours – The Adventures Continue,0,ride_avg_wait,24
+7,Hollywood Studios,2016,122,The Great Movie Ride,1,ride_avg_wait,24
+7,Hollywood Studios,2016,2478,Star Wars Launch Bay,1,ride_avg_wait,12
+7,Hollywood Studios,2016,2663,Star Wars Launch Bay Theater,1,ride_avg_wait,11
+7,Hollywood Studios,2016,118,Muppet*Vision 3D,1,ride_avg_wait,6
+7,Hollywood Studios,2016,2578,Club Disney,1,ride_avg_wait,5
+7,Hollywood Studios,2016,6708,Voyage of The Little Mermaid,1,ride_avg_wait,5
+7,Hollywood Studios,2016,119,Rock 'n' Roller Coaster Starring Aerosmith,1,ride_max_wait,127
+7,Hollywood Studios,2016,117,Toy Story Mania!,0,ride_max_wait,101
+7,Hollywood Studios,2016,123,The Twilight Zone™ Tower of Terror,0,ride_max_wait,100
+7,Hollywood Studios,2016,120,Star Tours – The Adventures Continue,0,ride_max_wait,65
+7,Hollywood Studios,2016,122,The Great Movie Ride,1,ride_max_wait,54
+7,Hollywood Studios,2016,2574,Star Wars Launch Bay: Encounter Darth Vader,1,ride_max_wait,47
+7,Hollywood Studios,2016,2577,Star Wars Launch Bay: Meet Chewbacca,1,ride_max_wait,44
+7,Hollywood Studios,2016,2686,Encounter Kylo Ren at Star Wars Launch Bay,1,ride_max_wait,37
+7,Hollywood Studios,2016,1153,Walt Disney: One Man's Dream,1,ride_max_wait,30
+7,Hollywood Studios,2016,2478,Star Wars Launch Bay,1,ride_max_wait,25
+7,Hollywood Studios,2016,2663,Star Wars Launch Bay Theater,1,ride_max_wait,23
+7,Hollywood Studios,2016,118,Muppet*Vision 3D,1,ride_max_wait,7
+7,Hollywood Studios,2016,2578,Club Disney,1,ride_max_wait,5
+7,Hollywood Studios,2016,6708,Voyage of The Little Mermaid,1,ride_max_wait,5
+7,Hollywood Studios,2017,119,Rock 'n' Roller Coaster Starring Aerosmith,1,ride_avg_wait,67
+7,Hollywood Studios,2017,117,Toy Story Mania!,0,ride_avg_wait,53
+7,Hollywood Studios,2017,123,The Twilight Zone™ Tower of Terror,0,ride_avg_wait,49
+7,Hollywood Studios,2017,120,Star Tours – The Adventures Continue,0,ride_avg_wait,28
+7,Hollywood Studios,2017,122,The Great Movie Ride,1,ride_avg_wait,26
+7,Hollywood Studios,2017,1153,Walt Disney: One Man's Dream,1,ride_avg_wait,25
+7,Hollywood Studios,2017,118,Muppet*Vision 3D,1,ride_avg_wait,12
+7,Hollywood Studios,2017,2663,Star Wars Launch Bay Theater,1,ride_avg_wait,9
+7,Hollywood Studios,2017,119,Rock 'n' Roller Coaster Starring Aerosmith,1,ride_max_wait,119
+7,Hollywood Studios,2017,123,The Twilight Zone™ Tower of Terror,0,ride_max_wait,107
+7,Hollywood Studios,2017,117,Toy Story Mania!,0,ride_max_wait,91
+7,Hollywood Studios,2017,120,Star Tours – The Adventures Continue,0,ride_max_wait,66
+7,Hollywood Studios,2017,122,The Great Movie Ride,1,ride_max_wait,54
+7,Hollywood Studios,2017,1153,Walt Disney: One Man's Dream,1,ride_max_wait,25
+7,Hollywood Studios,2017,2663,Star Wars Launch Bay Theater,1,ride_max_wait,24
+7,Hollywood Studios,2017,118,Muppet*Vision 3D,1,ride_max_wait,18
+7,Hollywood Studios,2018,5476,Slinky Dog Dash,0,ride_avg_wait,72
+7,Hollywood Studios,2018,119,Rock 'n' Roller Coaster Starring Aerosmith,1,ride_avg_wait,66
+7,Hollywood Studios,2018,117,Toy Story Mania!,0,ride_avg_wait,61
+7,Hollywood Studios,2018,123,The Twilight Zone™ Tower of Terror,0,ride_avg_wait,49
+7,Hollywood Studios,2018,5477,Alien Swirling Saucers,0,ride_avg_wait,37
+7,Hollywood Studios,2018,120,Star Tours – The Adventures Continue,0,ride_avg_wait,23
+7,Hollywood Studios,2018,118,Muppet*Vision 3D,1,ride_avg_wait,12
+7,Hollywood Studios,2018,2663,Star Wars Launch Bay Theater,1,ride_avg_wait,10
+7,Hollywood Studios,2018,119,Rock 'n' Roller Coaster Starring Aerosmith,1,ride_max_wait,114
+7,Hollywood Studios,2018,5476,Slinky Dog Dash,0,ride_max_wait,104
+7,Hollywood Studios,2018,117,Toy Story Mania!,0,ride_max_wait,99
+7,Hollywood Studios,2018,123,The Twilight Zone™ Tower of Terror,0,ride_max_wait,92
+7,Hollywood Studios,2018,5477,Alien Swirling Saucers,0,ride_max_wait,66
+7,Hollywood Studios,2018,120,Star Tours – The Adventures Continue,0,ride_max_wait,52
+7,Hollywood Studios,2018,2663,Star Wars Launch Bay Theater,1,ride_max_wait,20
+7,Hollywood Studios,2018,118,Muppet*Vision 3D,1,ride_max_wait,19
+7,Hollywood Studios,2019,5476,Slinky Dog Dash,0,ride_avg_wait,80
+7,Hollywood Studios,2019,119,Rock 'n' Roller Coaster Starring Aerosmith,1,ride_avg_wait,73
+7,Hollywood Studios,2019,123,The Twilight Zone™ Tower of Terror,0,ride_avg_wait,69
+7,Hollywood Studios,2019,6368,Millennium Falcon: Smugglers Run,0,ride_avg_wait,59
+7,Hollywood Studios,2019,117,Toy Story Mania!,0,ride_avg_wait,53
+7,Hollywood Studios,2019,6707,Meet Sulley at Walt Disney Presents,1,ride_avg_wait,40
+7,Hollywood Studios,2019,5477,Alien Swirling Saucers,0,ride_avg_wait,34
+7,Hollywood Studios,2019,6704,Meet Disney Stars at Red Carpet Dreams,0,ride_avg_wait,30
+7,Hollywood Studios,2019,120,Star Tours – The Adventures Continue,0,ride_avg_wait,22
+7,Hollywood Studios,2019,2574,Star Wars Launch Bay: Encounter Darth Vader,1,ride_avg_wait,22
+7,Hollywood Studios,2019,2577,Star Wars Launch Bay: Meet Chewbacca,1,ride_avg_wait,19
+7,Hollywood Studios,2019,6378,Lightning McQueen's Racing Academy,1,ride_avg_wait,14
+7,Hollywood Studios,2019,6705,Star Wars Launch Bay: BB-8 Astromech on Duty,1,ride_avg_wait,14
+7,Hollywood Studios,2019,2686,Encounter Kylo Ren at Star Wars Launch Bay,1,ride_avg_wait,13
+7,Hollywood Studios,2019,6703,Meet Olaf at Celebrity Spotlight,0,ride_avg_wait,13
+7,Hollywood Studios,2019,118,Muppet*Vision 3D,1,ride_avg_wait,11
+7,Hollywood Studios,2019,2663,Star Wars Launch Bay Theater,1,ride_avg_wait,6
+7,Hollywood Studios,2019,5145,Walt Disney Presents,0,ride_avg_wait,5
+7,Hollywood Studios,2019,123,The Twilight Zone™ Tower of Terror,0,ride_max_wait,122
+7,Hollywood Studios,2019,119,Rock 'n' Roller Coaster Starring Aerosmith,1,ride_max_wait,121
+7,Hollywood Studios,2019,5476,Slinky Dog Dash,0,ride_max_wait,117
+7,Hollywood Studios,2019,6368,Millennium Falcon: Smugglers Run,0,ride_max_wait,95
+7,Hollywood Studios,2019,117,Toy Story Mania!,0,ride_max_wait,95
+7,Hollywood Studios,2019,5477,Alien Swirling Saucers,0,ride_max_wait,65
+7,Hollywood Studios,2019,6704,Meet Disney Stars at Red Carpet Dreams,0,ride_max_wait,57
+7,Hollywood Studios,2019,6707,Meet Sulley at Walt Disney Presents,1,ride_max_wait,50
+7,Hollywood Studios,2019,120,Star Tours – The Adventures Continue,0,ride_max_wait,47
+7,Hollywood Studios,2019,2574,Star Wars Launch Bay: Encounter Darth Vader,1,ride_max_wait,44
+7,Hollywood Studios,2019,2577,Star Wars Launch Bay: Meet Chewbacca,1,ride_max_wait,37
+7,Hollywood Studios,2019,6703,Meet Olaf at Celebrity Spotlight,0,ride_max_wait,33
+7,Hollywood Studios,2019,2686,Encounter Kylo Ren at Star Wars Launch Bay,1,ride_max_wait,26
+7,Hollywood Studios,2019,6705,Star Wars Launch Bay: BB-8 Astromech on Duty,1,ride_max_wait,26
+7,Hollywood Studios,2019,118,Muppet*Vision 3D,1,ride_max_wait,17
+7,Hollywood Studios,2019,6378,Lightning McQueen's Racing Academy,1,ride_max_wait,14
+7,Hollywood Studios,2019,2663,Star Wars Launch Bay Theater,1,ride_max_wait,6
+7,Hollywood Studios,2019,5145,Walt Disney Presents,0,ride_max_wait,5
+7,Hollywood Studios,2020,5476,Slinky Dog Dash,0,ride_avg_wait,66
+7,Hollywood Studios,2020,6361,Mickey & Minnie's Runaway Railway,0,ride_avg_wait,60
+7,Hollywood Studios,2020,6368,Millennium Falcon: Smugglers Run,0,ride_avg_wait,54
+7,Hollywood Studios,2020,123,The Twilight Zone™ Tower of Terror,0,ride_avg_wait,53
+7,Hollywood Studios,2020,119,Rock 'n' Roller Coaster Starring Aerosmith,1,ride_avg_wait,52
+7,Hollywood Studios,2020,6707,Meet Sulley at Walt Disney Presents,1,ride_avg_wait,37
+7,Hollywood Studios,2020,117,Toy Story Mania!,0,ride_avg_wait,34
+7,Hollywood Studios,2020,6704,Meet Disney Stars at Red Carpet Dreams,0,ride_avg_wait,33
+7,Hollywood Studios,2020,2574,Star Wars Launch Bay: Encounter Darth Vader,1,ride_avg_wait,29
+7,Hollywood Studios,2020,6703,Meet Olaf at Celebrity Spotlight,0,ride_avg_wait,25
+7,Hollywood Studios,2020,6369,Star Wars: Rise of the Resistance,0,ride_avg_wait,25
+7,Hollywood Studios,2020,5477,Alien Swirling Saucers,0,ride_avg_wait,24
+7,Hollywood Studios,2020,120,Star Tours – The Adventures Continue,0,ride_avg_wait,24
+7,Hollywood Studios,2020,2577,Star Wars Launch Bay: Meet Chewbacca,1,ride_avg_wait,24
+7,Hollywood Studios,2020,6705,Star Wars Launch Bay: BB-8 Astromech on Duty,1,ride_avg_wait,19
+7,Hollywood Studios,2020,6378,Lightning McQueen's Racing Academy,1,ride_avg_wait,17
+7,Hollywood Studios,2020,2663,Star Wars Launch Bay Theater,1,ride_avg_wait,15
+7,Hollywood Studios,2020,118,Muppet*Vision 3D,1,ride_avg_wait,14
+7,Hollywood Studios,2020,5145,Walt Disney Presents,0,ride_avg_wait,14
+7,Hollywood Studios,2020,7333,Vacation Fun - An Original Animated Short with Mickey & Minnie,0,ride_avg_wait,11
+7,Hollywood Studios,2020,5476,Slinky Dog Dash,0,ride_max_wait,96
+7,Hollywood Studios,2020,6368,Millennium Falcon: Smugglers Run,0,ride_max_wait,91
+7,Hollywood Studios,2020,123,The Twilight Zone™ Tower of Terror,0,ride_max_wait,91
+7,Hollywood Studios,2020,6361,Mickey & Minnie's Runaway Railway,0,ride_max_wait,89
+7,Hollywood Studios,2020,119,Rock 'n' Roller Coaster Starring Aerosmith,1,ride_max_wait,81
+7,Hollywood Studios,2020,117,Toy Story Mania!,0,ride_max_wait,66
+7,Hollywood Studios,2020,6704,Meet Disney Stars at Red Carpet Dreams,0,ride_max_wait,60
+7,Hollywood Studios,2020,2574,Star Wars Launch Bay: Encounter Darth Vader,1,ride_max_wait,57
+7,Hollywood Studios,2020,5477,Alien Swirling Saucers,0,ride_max_wait,49
+7,Hollywood Studios,2020,6707,Meet Sulley at Walt Disney Presents,1,ride_max_wait,48
+7,Hollywood Studios,2020,120,Star Tours – The Adventures Continue,0,ride_max_wait,48
+7,Hollywood Studios,2020,6703,Meet Olaf at Celebrity Spotlight,0,ride_max_wait,47
+7,Hollywood Studios,2020,2577,Star Wars Launch Bay: Meet Chewbacca,1,ride_max_wait,42
+7,Hollywood Studios,2020,6705,Star Wars Launch Bay: BB-8 Astromech on Duty,1,ride_max_wait,36
+7,Hollywood Studios,2020,118,Muppet*Vision 3D,1,ride_max_wait,25
+7,Hollywood Studios,2020,6369,Star Wars: Rise of the Resistance,0,ride_max_wait,25
+7,Hollywood Studios,2020,6378,Lightning McQueen's Racing Academy,1,ride_max_wait,23
+7,Hollywood Studios,2020,7333,Vacation Fun - An Original Animated Short with Mickey & Minnie,0,ride_max_wait,18
+7,Hollywood Studios,2020,2663,Star Wars Launch Bay Theater,1,ride_max_wait,15
+7,Hollywood Studios,2020,5145,Walt Disney Presents,0,ride_max_wait,15
+7,Hollywood Studios,2021,6369,Star Wars: Rise of the Resistance,0,ride_avg_wait,109
+7,Hollywood Studios,2021,5476,Slinky Dog Dash,0,ride_avg_wait,68
+7,Hollywood Studios,2021,6368,Millennium Falcon: Smugglers Run,0,ride_avg_wait,50
+7,Hollywood Studios,2021,123,The Twilight Zone™ Tower of Terror,0,ride_avg_wait,48
+7,Hollywood Studios,2021,6361,Mickey & Minnie's Runaway Railway,0,ride_avg_wait,46
+7,Hollywood Studios,2021,119,Rock 'n' Roller Coaster Starring Aerosmith,1,ride_avg_wait,44
+7,Hollywood Studios,2021,117,Toy Story Mania!,0,ride_avg_wait,35
+7,Hollywood Studios,2021,5477,Alien Swirling Saucers,0,ride_avg_wait,26
+7,Hollywood Studios,2021,120,Star Tours – The Adventures Continue,0,ride_avg_wait,22
+7,Hollywood Studios,2021,6378,Lightning McQueen's Racing Academy,1,ride_avg_wait,18
+7,Hollywood Studios,2021,5145,Walt Disney Presents,0,ride_avg_wait,16
+7,Hollywood Studios,2021,118,Muppet*Vision 3D,1,ride_avg_wait,12
+7,Hollywood Studios,2021,7333,Vacation Fun - An Original Animated Short with Mickey & Minnie,0,ride_avg_wait,11
+7,Hollywood Studios,2021,6369,Star Wars: Rise of the Resistance,0,ride_max_wait,158
+7,Hollywood Studios,2021,5476,Slinky Dog Dash,0,ride_max_wait,91
+7,Hollywood Studios,2021,123,The Twilight Zone™ Tower of Terror,0,ride_max_wait,82
+7,Hollywood Studios,2021,6368,Millennium Falcon: Smugglers Run,0,ride_max_wait,79
+7,Hollywood Studios,2021,6361,Mickey & Minnie's Runaway Railway,0,ride_max_wait,69
+7,Hollywood Studios,2021,119,Rock 'n' Roller Coaster Starring Aerosmith,1,ride_max_wait,65
+7,Hollywood Studios,2021,117,Toy Story Mania!,0,ride_max_wait,61
+7,Hollywood Studios,2021,5477,Alien Swirling Saucers,0,ride_max_wait,50
+7,Hollywood Studios,2021,120,Star Tours – The Adventures Continue,0,ride_max_wait,44
+7,Hollywood Studios,2021,6378,Lightning McQueen's Racing Academy,1,ride_max_wait,23
+7,Hollywood Studios,2021,5145,Walt Disney Presents,0,ride_max_wait,17
+7,Hollywood Studios,2021,118,Muppet*Vision 3D,1,ride_max_wait,16
+7,Hollywood Studios,2021,7333,Vacation Fun - An Original Animated Short with Mickey & Minnie,0,ride_max_wait,13
+7,Hollywood Studios,2022,6369,Star Wars: Rise of the Resistance,0,ride_avg_wait,90
+7,Hollywood Studios,2022,5476,Slinky Dog Dash,0,ride_avg_wait,69
+7,Hollywood Studios,2022,123,The Twilight Zone™ Tower of Terror,0,ride_avg_wait,59
+7,Hollywood Studios,2022,6704,Meet Disney Stars at Red Carpet Dreams,0,ride_avg_wait,45
+7,Hollywood Studios,2022,6368,Millennium Falcon: Smugglers Run,0,ride_avg_wait,42
+7,Hollywood Studios,2022,6361,Mickey & Minnie's Runaway Railway,0,ride_avg_wait,41
+7,Hollywood Studios,2022,119,Rock 'n' Roller Coaster Starring Aerosmith,1,ride_avg_wait,40
+7,Hollywood Studios,2022,6707,Meet Sulley at Walt Disney Presents,1,ride_avg_wait,36
+7,Hollywood Studios,2022,117,Toy Story Mania!,0,ride_avg_wait,36
+7,Hollywood Studios,2022,6703,Meet Olaf at Celebrity Spotlight,0,ride_avg_wait,27
+7,Hollywood Studios,2022,5477,Alien Swirling Saucers,0,ride_avg_wait,22
+7,Hollywood Studios,2022,6378,Lightning McQueen's Racing Academy,1,ride_avg_wait,16
+7,Hollywood Studios,2022,5145,Walt Disney Presents,0,ride_avg_wait,15
+7,Hollywood Studios,2022,120,Star Tours – The Adventures Continue,0,ride_avg_wait,13
+7,Hollywood Studios,2022,118,Muppet*Vision 3D,1,ride_avg_wait,10
+7,Hollywood Studios,2022,7333,Vacation Fun - An Original Animated Short with Mickey & Minnie,0,ride_avg_wait,10
+7,Hollywood Studios,2022,6369,Star Wars: Rise of the Resistance,0,ride_max_wait,121
+7,Hollywood Studios,2022,5476,Slinky Dog Dash,0,ride_max_wait,90
+7,Hollywood Studios,2022,123,The Twilight Zone™ Tower of Terror,0,ride_max_wait,84
+7,Hollywood Studios,2022,6704,Meet Disney Stars at Red Carpet Dreams,0,ride_max_wait,67
+7,Hollywood Studios,2022,6368,Millennium Falcon: Smugglers Run,0,ride_max_wait,66
+7,Hollywood Studios,2022,119,Rock 'n' Roller Coaster Starring Aerosmith,1,ride_max_wait,63
+7,Hollywood Studios,2022,117,Toy Story Mania!,0,ride_max_wait,60
+7,Hollywood Studios,2022,6361,Mickey & Minnie's Runaway Railway,0,ride_max_wait,59
+7,Hollywood Studios,2022,6707,Meet Sulley at Walt Disney Presents,1,ride_max_wait,54
+7,Hollywood Studios,2022,6703,Meet Olaf at Celebrity Spotlight,0,ride_max_wait,49
+7,Hollywood Studios,2022,5477,Alien Swirling Saucers,0,ride_max_wait,35
+7,Hollywood Studios,2022,120,Star Tours – The Adventures Continue,0,ride_max_wait,27
+7,Hollywood Studios,2022,6378,Lightning McQueen's Racing Academy,1,ride_max_wait,17
+7,Hollywood Studios,2022,5145,Walt Disney Presents,0,ride_max_wait,15
+7,Hollywood Studios,2022,118,Muppet*Vision 3D,1,ride_max_wait,11
+7,Hollywood Studios,2022,7333,Vacation Fun - An Original Animated Short with Mickey & Minnie,0,ride_max_wait,10
+7,Hollywood Studios,2023,6369,Star Wars: Rise of the Resistance,0,ride_avg_wait,69
+7,Hollywood Studios,2023,5476,Slinky Dog Dash,0,ride_avg_wait,67
+7,Hollywood Studios,2023,119,Rock 'n' Roller Coaster Starring Aerosmith,1,ride_avg_wait,42
+7,Hollywood Studios,2023,123,The Twilight Zone™ Tower of Terror,0,ride_avg_wait,40
+7,Hollywood Studios,2023,6704,Meet Disney Stars at Red Carpet Dreams,0,ride_avg_wait,38
+7,Hollywood Studios,2023,6361,Mickey & Minnie's Runaway Railway,0,ride_avg_wait,37
+7,Hollywood Studios,2023,6368,Millennium Falcon: Smugglers Run,0,ride_avg_wait,34
+7,Hollywood Studios,2023,117,Toy Story Mania!,0,ride_avg_wait,34
+7,Hollywood Studios,2023,6707,Meet Sulley at Walt Disney Presents,1,ride_avg_wait,31
+7,Hollywood Studios,2023,6703,Meet Olaf at Celebrity Spotlight,0,ride_avg_wait,19
+7,Hollywood Studios,2023,5477,Alien Swirling Saucers,0,ride_avg_wait,18
+7,Hollywood Studios,2023,5145,Walt Disney Presents,0,ride_avg_wait,16
+7,Hollywood Studios,2023,6378,Lightning McQueen's Racing Academy,1,ride_avg_wait,15
+7,Hollywood Studios,2023,120,Star Tours – The Adventures Continue,0,ride_avg_wait,11
+7,Hollywood Studios,2023,118,Muppet*Vision 3D,1,ride_avg_wait,10
+7,Hollywood Studios,2023,7333,Vacation Fun - An Original Animated Short with Mickey & Minnie,0,ride_avg_wait,10
+7,Hollywood Studios,2023,12425,Meet Edna Mode at the Edna Mode Experience,0,ride_avg_wait,8
+7,Hollywood Studios,2023,6369,Star Wars: Rise of the Resistance,0,ride_max_wait,98
+7,Hollywood Studios,2023,5476,Slinky Dog Dash,0,ride_max_wait,93
+7,Hollywood Studios,2023,119,Rock 'n' Roller Coaster Starring Aerosmith,1,ride_max_wait,71
+7,Hollywood Studios,2023,123,The Twilight Zone™ Tower of Terror,0,ride_max_wait,69
+7,Hollywood Studios,2023,6368,Millennium Falcon: Smugglers Run,0,ride_max_wait,61
+7,Hollywood Studios,2023,6704,Meet Disney Stars at Red Carpet Dreams,0,ride_max_wait,60
+7,Hollywood Studios,2023,117,Toy Story Mania!,0,ride_max_wait,58
+7,Hollywood Studios,2023,6361,Mickey & Minnie's Runaway Railway,0,ride_max_wait,56
+7,Hollywood Studios,2023,6707,Meet Sulley at Walt Disney Presents,1,ride_max_wait,45
+7,Hollywood Studios,2023,6703,Meet Olaf at Celebrity Spotlight,0,ride_max_wait,41
+7,Hollywood Studios,2023,5477,Alien Swirling Saucers,0,ride_max_wait,32
+7,Hollywood Studios,2023,120,Star Tours – The Adventures Continue,0,ride_max_wait,22
+7,Hollywood Studios,2023,5145,Walt Disney Presents,0,ride_max_wait,17
+7,Hollywood Studios,2023,6378,Lightning McQueen's Racing Academy,1,ride_max_wait,15
+7,Hollywood Studios,2023,12425,Meet Edna Mode at the Edna Mode Experience,0,ride_max_wait,11
+7,Hollywood Studios,2023,118,Muppet*Vision 3D,1,ride_max_wait,11
+7,Hollywood Studios,2023,7333,Vacation Fun - An Original Animated Short with Mickey & Minnie,0,ride_max_wait,10
+7,Hollywood Studios,2024,5476,Slinky Dog Dash,0,ride_avg_wait,67
+7,Hollywood Studios,2024,6369,Star Wars: Rise of the Resistance,0,ride_avg_wait,55
+7,Hollywood Studios,2024,119,Rock 'n' Roller Coaster Starring Aerosmith,1,ride_avg_wait,38
+7,Hollywood Studios,2024,6704,Meet Disney Stars at Red Carpet Dreams,0,ride_avg_wait,36
+7,Hollywood Studios,2024,6361,Mickey & Minnie's Runaway Railway,0,ride_avg_wait,35
+7,Hollywood Studios,2024,123,The Twilight Zone™ Tower of Terror,0,ride_avg_wait,35
+7,Hollywood Studios,2024,6368,Millennium Falcon: Smugglers Run,0,ride_avg_wait,31
+7,Hollywood Studios,2024,117,Toy Story Mania!,0,ride_avg_wait,31
+7,Hollywood Studios,2024,2577,Star Wars Launch Bay: Meet Chewbacca,1,ride_avg_wait,22
+7,Hollywood Studios,2024,5477,Alien Swirling Saucers,0,ride_avg_wait,18
+7,Hollywood Studios,2024,6703,Meet Olaf at Celebrity Spotlight,0,ride_avg_wait,16
+7,Hollywood Studios,2024,6378,Lightning McQueen's Racing Academy,1,ride_avg_wait,15
+7,Hollywood Studios,2024,12425,Meet Edna Mode at the Edna Mode Experience,0,ride_avg_wait,14
+7,Hollywood Studios,2024,5145,Walt Disney Presents,0,ride_avg_wait,12
+7,Hollywood Studios,2024,118,Muppet*Vision 3D,1,ride_avg_wait,10
+7,Hollywood Studios,2024,7333,Vacation Fun - An Original Animated Short with Mickey & Minnie,0,ride_avg_wait,10
+7,Hollywood Studios,2024,120,Star Tours – The Adventures Continue,0,ride_avg_wait,9
+7,Hollywood Studios,2024,5476,Slinky Dog Dash,0,ride_max_wait,89
+7,Hollywood Studios,2024,6369,Star Wars: Rise of the Resistance,0,ride_max_wait,77
+7,Hollywood Studios,2024,123,The Twilight Zone™ Tower of Terror,0,ride_max_wait,60
+7,Hollywood Studios,2024,6704,Meet Disney Stars at Red Carpet Dreams,0,ride_max_wait,58
+7,Hollywood Studios,2024,119,Rock 'n' Roller Coaster Starring Aerosmith,1,ride_max_wait,57
+7,Hollywood Studios,2024,117,Toy Story Mania!,0,ride_max_wait,54
+7,Hollywood Studios,2024,6368,Millennium Falcon: Smugglers Run,0,ride_max_wait,53
+7,Hollywood Studios,2024,6361,Mickey & Minnie's Runaway Railway,0,ride_max_wait,50
+7,Hollywood Studios,2024,6703,Meet Olaf at Celebrity Spotlight,0,ride_max_wait,39
+7,Hollywood Studios,2024,2577,Star Wars Launch Bay: Meet Chewbacca,1,ride_max_wait,37
+7,Hollywood Studios,2024,5477,Alien Swirling Saucers,0,ride_max_wait,31
+7,Hollywood Studios,2024,120,Star Tours – The Adventures Continue,0,ride_max_wait,19
+7,Hollywood Studios,2024,12425,Meet Edna Mode at the Edna Mode Experience,0,ride_max_wait,16
+7,Hollywood Studios,2024,6378,Lightning McQueen's Racing Academy,1,ride_max_wait,15
+7,Hollywood Studios,2024,5145,Walt Disney Presents,0,ride_max_wait,13
+7,Hollywood Studios,2024,118,Muppet*Vision 3D,1,ride_max_wait,11
+7,Hollywood Studios,2024,7333,Vacation Fun - An Original Animated Short with Mickey & Minnie,0,ride_max_wait,10
+7,Hollywood Studios,2025,5476,Slinky Dog Dash,0,ride_avg_wait,59
+7,Hollywood Studios,2025,6369,Star Wars: Rise of the Resistance,0,ride_avg_wait,52
+7,Hollywood Studios,2025,14859,The Little Mermaid – A Musical Adventure,0,ride_avg_wait,49
+7,Hollywood Studios,2025,15402,Meet Stitch at Celebrity Spotlight at Disney Jollywood Nights,1,ride_avg_wait,43
+7,Hollywood Studios,2025,119,Rock 'n' Roller Coaster Starring Aerosmith,1,ride_avg_wait,35
+7,Hollywood Studios,2025,6361,Mickey & Minnie's Runaway Railway,0,ride_avg_wait,34
+7,Hollywood Studios,2025,6704,Meet Disney Stars at Red Carpet Dreams,0,ride_avg_wait,33
+7,Hollywood Studios,2025,123,The Twilight Zone™ Tower of Terror,0,ride_avg_wait,29
+7,Hollywood Studios,2025,2574,Star Wars Launch Bay: Encounter Darth Vader,1,ride_avg_wait,27
+7,Hollywood Studios,2025,117,Toy Story Mania!,0,ride_avg_wait,27
+7,Hollywood Studios,2025,6368,Millennium Falcon: Smugglers Run,0,ride_avg_wait,26
+7,Hollywood Studios,2025,2577,Star Wars Launch Bay: Meet Chewbacca,1,ride_avg_wait,19
+7,Hollywood Studios,2025,5477,Alien Swirling Saucers,0,ride_avg_wait,16
+7,Hollywood Studios,2025,12425,Meet Edna Mode at the Edna Mode Experience,0,ride_avg_wait,14
+7,Hollywood Studios,2025,6703,Meet Olaf at Celebrity Spotlight,0,ride_avg_wait,13
+7,Hollywood Studios,2025,6705,Star Wars Launch Bay: BB-8 Astromech on Duty,1,ride_avg_wait,13
+7,Hollywood Studios,2025,5145,Walt Disney Presents,0,ride_avg_wait,11
+7,Hollywood Studios,2025,118,Muppet*Vision 3D,1,ride_avg_wait,10
+7,Hollywood Studios,2025,7333,Vacation Fun - An Original Animated Short with Mickey & Minnie,0,ride_avg_wait,10
+7,Hollywood Studios,2025,120,Star Tours – The Adventures Continue,0,ride_avg_wait,7
+7,Hollywood Studios,2025,5476,Slinky Dog Dash,0,ride_max_wait,77
+7,Hollywood Studios,2025,14859,The Little Mermaid – A Musical Adventure,0,ride_max_wait,75
+7,Hollywood Studios,2025,6369,Star Wars: Rise of the Resistance,0,ride_max_wait,71
+7,Hollywood Studios,2025,15402,Meet Stitch at Celebrity Spotlight at Disney Jollywood Nights,1,ride_max_wait,64
+7,Hollywood Studios,2025,6704,Meet Disney Stars at Red Carpet Dreams,0,ride_max_wait,54
+7,Hollywood Studios,2025,119,Rock 'n' Roller Coaster Starring Aerosmith,1,ride_max_wait,52
+7,Hollywood Studios,2025,123,The Twilight Zone™ Tower of Terror,0,ride_max_wait,49
+7,Hollywood Studios,2025,117,Toy Story Mania!,0,ride_max_wait,49
+7,Hollywood Studios,2025,6361,Mickey & Minnie's Runaway Railway,0,ride_max_wait,46
+7,Hollywood Studios,2025,6368,Millennium Falcon: Smugglers Run,0,ride_max_wait,45
+7,Hollywood Studios,2025,2574,Star Wars Launch Bay: Encounter Darth Vader,1,ride_max_wait,44
+7,Hollywood Studios,2025,6703,Meet Olaf at Celebrity Spotlight,0,ride_max_wait,34
+7,Hollywood Studios,2025,2577,Star Wars Launch Bay: Meet Chewbacca,1,ride_max_wait,34
+7,Hollywood Studios,2025,5477,Alien Swirling Saucers,0,ride_max_wait,30
+7,Hollywood Studios,2025,6705,Star Wars Launch Bay: BB-8 Astromech on Duty,1,ride_max_wait,24
+7,Hollywood Studios,2025,12425,Meet Edna Mode at the Edna Mode Experience,0,ride_max_wait,15
+7,Hollywood Studios,2025,120,Star Tours – The Adventures Continue,0,ride_max_wait,15
+7,Hollywood Studios,2025,5145,Walt Disney Presents,0,ride_max_wait,11
+7,Hollywood Studios,2025,118,Muppet*Vision 3D,1,ride_max_wait,10
+7,Hollywood Studios,2025,7333,Vacation Fun - An Original Animated Short with Mickey & Minnie,0,ride_max_wait,10
+7,Hollywood Studios,2026,5476,Slinky Dog Dash,0,ride_avg_wait,63
+7,Hollywood Studios,2026,16342,Rock ’n’ Roller Coaster Starring The Muppets,0,ride_avg_wait,48
+7,Hollywood Studios,2026,6369,Star Wars: Rise of the Resistance,0,ride_avg_wait,48
+7,Hollywood Studios,2026,119,Rock 'n' Roller Coaster Starring Aerosmith,1,ride_avg_wait,39
+7,Hollywood Studios,2026,6361,Mickey & Minnie's Runaway Railway,0,ride_avg_wait,34
+7,Hollywood Studios,2026,6704,Meet Disney Stars at Red Carpet Dreams,0,ride_avg_wait,31
+7,Hollywood Studios,2026,117,Toy Story Mania!,0,ride_avg_wait,31
+7,Hollywood Studios,2026,6368,Millennium Falcon: Smugglers Run,0,ride_avg_wait,30
+7,Hollywood Studios,2026,123,The Twilight Zone™ Tower of Terror,0,ride_avg_wait,30
+7,Hollywood Studios,2026,5477,Alien Swirling Saucers,0,ride_avg_wait,16
+7,Hollywood Studios,2026,6703,Meet Olaf at Celebrity Spotlight,0,ride_avg_wait,15
+7,Hollywood Studios,2026,12425,Meet Edna Mode at the Edna Mode Experience,0,ride_avg_wait,14
+7,Hollywood Studios,2026,7333,Vacation Fun - An Original Animated Short with Mickey & Minnie,0,ride_avg_wait,10
+7,Hollywood Studios,2026,120,Star Tours – The Adventures Continue,0,ride_avg_wait,7
+7,Hollywood Studios,2026,5476,Slinky Dog Dash,0,ride_max_wait,84
+7,Hollywood Studios,2026,16342,Rock ’n’ Roller Coaster Starring The Muppets,0,ride_max_wait,67
+7,Hollywood Studios,2026,6369,Star Wars: Rise of the Resistance,0,ride_max_wait,66
+7,Hollywood Studios,2026,119,Rock 'n' Roller Coaster Starring Aerosmith,1,ride_max_wait,59
+7,Hollywood Studios,2026,123,The Twilight Zone™ Tower of Terror,0,ride_max_wait,53
+7,Hollywood Studios,2026,6704,Meet Disney Stars at Red Carpet Dreams,0,ride_max_wait,52
+7,Hollywood Studios,2026,117,Toy Story Mania!,0,ride_max_wait,52
+7,Hollywood Studios,2026,6368,Millennium Falcon: Smugglers Run,0,ride_max_wait,49
+7,Hollywood Studios,2026,6361,Mickey & Minnie's Runaway Railway,0,ride_max_wait,45
+7,Hollywood Studios,2026,6703,Meet Olaf at Celebrity Spotlight,0,ride_max_wait,34
+7,Hollywood Studios,2026,5477,Alien Swirling Saucers,0,ride_max_wait,30
+7,Hollywood Studios,2026,12425,Meet Edna Mode at the Edna Mode Experience,0,ride_max_wait,15
+7,Hollywood Studios,2026,120,Star Tours – The Adventures Continue,0,ride_max_wait,13
+7,Hollywood Studios,2026,7333,Vacation Fun - An Original Animated Short with Mickey & Minnie,0,ride_max_wait,10
+8,Animal Kingdom,all_time,4439,Avatar Flight of Passage,0,ride_avg_wait,81
+8,Animal Kingdom,all_time,4438,Na'vi River Journey,0,ride_avg_wait,45
+8,Animal Kingdom,all_time,113,Kilimanjaro Safaris,0,ride_avg_wait,38
+8,Animal Kingdom,all_time,116,Meet Favorite Disney Pals at Adventurers Outpost,0,ride_avg_wait,34
+8,Animal Kingdom,all_time,112,Kali River Rapids,0,ride_avg_wait,30
+8,Animal Kingdom,all_time,110,Expedition Everest - Legend of the Forbidden Mountain,0,ride_avg_wait,25
+8,Animal Kingdom,all_time,114,Primeval Whirl,1,ride_avg_wait,22
+8,Animal Kingdom,all_time,111,DINOSAUR,1,ride_avg_wait,21
+8,Animal Kingdom,all_time,16545,Bluey's Wild World at Conservation Station,0,ride_avg_wait,19
+8,Animal Kingdom,all_time,14943,Zootopia: Better Zoogether!,0,ride_avg_wait,12
+8,Animal Kingdom,all_time,249,It's Tough to be a Bug!,1,ride_avg_wait,10
+8,Animal Kingdom,all_time,652,The Boneyard,1,ride_avg_wait,10
+8,Animal Kingdom,all_time,115,TriceraTop Spin,1,ride_avg_wait,8
+8,Animal Kingdom,all_time,655,Wildlife Express Train,0,ride_avg_wait,8
+8,Animal Kingdom,all_time,651,Gorilla Falls Exploration Trail,0,ride_avg_wait,5
+8,Animal Kingdom,all_time,4439,Avatar Flight of Passage,0,ride_max_wait,115
+8,Animal Kingdom,all_time,113,Kilimanjaro Safaris,0,ride_max_wait,73
+8,Animal Kingdom,all_time,4438,Na'vi River Journey,0,ride_max_wait,69
+8,Animal Kingdom,all_time,116,Meet Favorite Disney Pals at Adventurers Outpost,0,ride_max_wait,64
+8,Animal Kingdom,all_time,112,Kali River Rapids,0,ride_max_wait,60
+8,Animal Kingdom,all_time,114,Primeval Whirl,1,ride_max_wait,49
+8,Animal Kingdom,all_time,110,Expedition Everest - Legend of the Forbidden Mountain,0,ride_max_wait,46
+8,Animal Kingdom,all_time,111,DINOSAUR,1,ride_max_wait,42
+8,Animal Kingdom,all_time,16545,Bluey's Wild World at Conservation Station,0,ride_max_wait,36
+8,Animal Kingdom,all_time,14943,Zootopia: Better Zoogether!,0,ride_max_wait,19
+8,Animal Kingdom,all_time,249,It's Tough to be a Bug!,1,ride_max_wait,18
+8,Animal Kingdom,all_time,115,TriceraTop Spin,1,ride_max_wait,13
+8,Animal Kingdom,all_time,655,Wildlife Express Train,0,ride_max_wait,12
+8,Animal Kingdom,all_time,652,The Boneyard,1,ride_max_wait,11
+8,Animal Kingdom,all_time,651,Gorilla Falls Exploration Trail,0,ride_max_wait,5
+8,Animal Kingdom,2015,112,Kali River Rapids,0,ride_avg_wait,39
+8,Animal Kingdom,2015,113,Kilimanjaro Safaris,0,ride_avg_wait,31
+8,Animal Kingdom,2015,110,Expedition Everest - Legend of the Forbidden Mountain,0,ride_avg_wait,29
+8,Animal Kingdom,2015,111,DINOSAUR,1,ride_avg_wait,23
+8,Animal Kingdom,2015,116,Meet Favorite Disney Pals at Adventurers Outpost,0,ride_avg_wait,19
+8,Animal Kingdom,2015,114,Primeval Whirl,1,ride_avg_wait,17
+8,Animal Kingdom,2015,249,It's Tough to be a Bug!,1,ride_avg_wait,7
+8,Animal Kingdom,2015,115,TriceraTop Spin,1,ride_avg_wait,7
+8,Animal Kingdom,2015,112,Kali River Rapids,0,ride_max_wait,78
+8,Animal Kingdom,2015,113,Kilimanjaro Safaris,0,ride_max_wait,63
+8,Animal Kingdom,2015,111,DINOSAUR,1,ride_max_wait,58
+8,Animal Kingdom,2015,110,Expedition Everest - Legend of the Forbidden Mountain,0,ride_max_wait,55
+8,Animal Kingdom,2015,116,Meet Favorite Disney Pals at Adventurers Outpost,0,ride_max_wait,51
+8,Animal Kingdom,2015,114,Primeval Whirl,1,ride_max_wait,42
+8,Animal Kingdom,2015,249,It's Tough to be a Bug!,1,ride_max_wait,24
+8,Animal Kingdom,2015,115,TriceraTop Spin,1,ride_max_wait,12
+8,Animal Kingdom,2016,113,Kilimanjaro Safaris,0,ride_avg_wait,36
+8,Animal Kingdom,2016,112,Kali River Rapids,0,ride_avg_wait,34
+8,Animal Kingdom,2016,110,Expedition Everest - Legend of the Forbidden Mountain,0,ride_avg_wait,30
+8,Animal Kingdom,2016,111,DINOSAUR,1,ride_avg_wait,27
+8,Animal Kingdom,2016,114,Primeval Whirl,1,ride_avg_wait,20
+8,Animal Kingdom,2016,116,Meet Favorite Disney Pals at Adventurers Outpost,0,ride_avg_wait,15
+8,Animal Kingdom,2016,655,Wildlife Express Train,0,ride_avg_wait,10
+8,Animal Kingdom,2016,249,It's Tough to be a Bug!,1,ride_avg_wait,8
+8,Animal Kingdom,2016,115,TriceraTop Spin,1,ride_avg_wait,8
+8,Animal Kingdom,2016,651,Gorilla Falls Exploration Trail,0,ride_avg_wait,5
+8,Animal Kingdom,2016,112,Kali River Rapids,0,ride_max_wait,77
+8,Animal Kingdom,2016,113,Kilimanjaro Safaris,0,ride_max_wait,75
+8,Animal Kingdom,2016,111,DINOSAUR,1,ride_max_wait,67
+8,Animal Kingdom,2016,110,Expedition Everest - Legend of the Forbidden Mountain,0,ride_max_wait,57
+8,Animal Kingdom,2016,114,Primeval Whirl,1,ride_max_wait,46
+8,Animal Kingdom,2016,116,Meet Favorite Disney Pals at Adventurers Outpost,0,ride_max_wait,40
+8,Animal Kingdom,2016,249,It's Tough to be a Bug!,1,ride_max_wait,22
+8,Animal Kingdom,2016,115,TriceraTop Spin,1,ride_max_wait,13
+8,Animal Kingdom,2016,655,Wildlife Express Train,0,ride_max_wait,11
+8,Animal Kingdom,2016,651,Gorilla Falls Exploration Trail,0,ride_max_wait,5
+8,Animal Kingdom,2017,4439,Avatar Flight of Passage,0,ride_avg_wait,142
+8,Animal Kingdom,2017,4438,Na'vi River Journey,0,ride_avg_wait,82
+8,Animal Kingdom,2017,113,Kilimanjaro Safaris,0,ride_avg_wait,39
+8,Animal Kingdom,2017,110,Expedition Everest - Legend of the Forbidden Mountain,0,ride_avg_wait,36
+8,Animal Kingdom,2017,112,Kali River Rapids,0,ride_avg_wait,35
+8,Animal Kingdom,2017,111,DINOSAUR,1,ride_avg_wait,28
+8,Animal Kingdom,2017,114,Primeval Whirl,1,ride_avg_wait,22
+8,Animal Kingdom,2017,249,It's Tough to be a Bug!,1,ride_avg_wait,14
+8,Animal Kingdom,2017,115,TriceraTop Spin,1,ride_avg_wait,9
+8,Animal Kingdom,2017,651,Gorilla Falls Exploration Trail,0,ride_avg_wait,5
+8,Animal Kingdom,2017,4439,Avatar Flight of Passage,0,ride_max_wait,206
+8,Animal Kingdom,2017,4438,Na'vi River Journey,0,ride_max_wait,117
+8,Animal Kingdom,2017,112,Kali River Rapids,0,ride_max_wait,81
+8,Animal Kingdom,2017,113,Kilimanjaro Safaris,0,ride_max_wait,79
+8,Animal Kingdom,2017,110,Expedition Everest - Legend of the Forbidden Mountain,0,ride_max_wait,67
+8,Animal Kingdom,2017,111,DINOSAUR,1,ride_max_wait,61
+8,Animal Kingdom,2017,114,Primeval Whirl,1,ride_max_wait,52
+8,Animal Kingdom,2017,249,It's Tough to be a Bug!,1,ride_max_wait,33
+8,Animal Kingdom,2017,115,TriceraTop Spin,1,ride_max_wait,16
+8,Animal Kingdom,2017,651,Gorilla Falls Exploration Trail,0,ride_max_wait,5
+8,Animal Kingdom,2018,4439,Avatar Flight of Passage,0,ride_avg_wait,129
+8,Animal Kingdom,2018,4438,Na'vi River Journey,0,ride_avg_wait,78
+8,Animal Kingdom,2018,113,Kilimanjaro Safaris,0,ride_avg_wait,46
+8,Animal Kingdom,2018,652,The Boneyard,1,ride_avg_wait,43
+8,Animal Kingdom,2018,110,Expedition Everest - Legend of the Forbidden Mountain,0,ride_avg_wait,39
+8,Animal Kingdom,2018,112,Kali River Rapids,0,ride_avg_wait,35
+8,Animal Kingdom,2018,111,DINOSAUR,1,ride_avg_wait,32
+8,Animal Kingdom,2018,114,Primeval Whirl,1,ride_avg_wait,24
+8,Animal Kingdom,2018,249,It's Tough to be a Bug!,1,ride_avg_wait,14
+8,Animal Kingdom,2018,115,TriceraTop Spin,1,ride_avg_wait,8
+8,Animal Kingdom,2018,4439,Avatar Flight of Passage,0,ride_max_wait,181
+8,Animal Kingdom,2018,4438,Na'vi River Journey,0,ride_max_wait,115
+8,Animal Kingdom,2018,113,Kilimanjaro Safaris,0,ride_max_wait,83
+8,Animal Kingdom,2018,112,Kali River Rapids,0,ride_max_wait,79
+8,Animal Kingdom,2018,111,DINOSAUR,1,ride_max_wait,76
+8,Animal Kingdom,2018,110,Expedition Everest - Legend of the Forbidden Mountain,0,ride_max_wait,72
+8,Animal Kingdom,2018,114,Primeval Whirl,1,ride_max_wait,52
+8,Animal Kingdom,2018,652,The Boneyard,1,ride_max_wait,45
+8,Animal Kingdom,2018,249,It's Tough to be a Bug!,1,ride_max_wait,34
+8,Animal Kingdom,2018,115,TriceraTop Spin,1,ride_max_wait,15
+8,Animal Kingdom,2019,4439,Avatar Flight of Passage,0,ride_avg_wait,137
+8,Animal Kingdom,2019,4438,Na'vi River Journey,0,ride_avg_wait,66
+8,Animal Kingdom,2019,113,Kilimanjaro Safaris,0,ride_avg_wait,54
+8,Animal Kingdom,2019,112,Kali River Rapids,0,ride_avg_wait,42
+8,Animal Kingdom,2019,110,Expedition Everest - Legend of the Forbidden Mountain,0,ride_avg_wait,41
+8,Animal Kingdom,2019,111,DINOSAUR,1,ride_avg_wait,33
+8,Animal Kingdom,2019,114,Primeval Whirl,1,ride_avg_wait,31
+8,Animal Kingdom,2019,116,Meet Favorite Disney Pals at Adventurers Outpost,0,ride_avg_wait,30
+8,Animal Kingdom,2019,249,It's Tough to be a Bug!,1,ride_avg_wait,11
+8,Animal Kingdom,2019,115,TriceraTop Spin,1,ride_avg_wait,8
+8,Animal Kingdom,2019,4439,Avatar Flight of Passage,0,ride_max_wait,193
+8,Animal Kingdom,2019,4438,Na'vi River Journey,0,ride_max_wait,99
+8,Animal Kingdom,2019,113,Kilimanjaro Safaris,0,ride_max_wait,90
+8,Animal Kingdom,2019,112,Kali River Rapids,0,ride_max_wait,83
+8,Animal Kingdom,2019,110,Expedition Everest - Legend of the Forbidden Mountain,0,ride_max_wait,75
+8,Animal Kingdom,2019,111,DINOSAUR,1,ride_max_wait,66
+8,Animal Kingdom,2019,114,Primeval Whirl,1,ride_max_wait,62
+8,Animal Kingdom,2019,116,Meet Favorite Disney Pals at Adventurers Outpost,0,ride_max_wait,54
+8,Animal Kingdom,2019,249,It's Tough to be a Bug!,1,ride_max_wait,18
+8,Animal Kingdom,2019,115,TriceraTop Spin,1,ride_max_wait,12
+8,Animal Kingdom,2020,4439,Avatar Flight of Passage,0,ride_avg_wait,78
+8,Animal Kingdom,2020,4438,Na'vi River Journey,0,ride_avg_wait,49
+8,Animal Kingdom,2020,116,Meet Favorite Disney Pals at Adventurers Outpost,0,ride_avg_wait,35
+8,Animal Kingdom,2020,114,Primeval Whirl,1,ride_avg_wait,33
+8,Animal Kingdom,2020,113,Kilimanjaro Safaris,0,ride_avg_wait,31
+8,Animal Kingdom,2020,110,Expedition Everest - Legend of the Forbidden Mountain,0,ride_avg_wait,30
+8,Animal Kingdom,2020,111,DINOSAUR,1,ride_avg_wait,27
+8,Animal Kingdom,2020,655,Wildlife Express Train,0,ride_avg_wait,26
+8,Animal Kingdom,2020,112,Kali River Rapids,0,ride_avg_wait,15
+8,Animal Kingdom,2020,249,It's Tough to be a Bug!,1,ride_avg_wait,11
+8,Animal Kingdom,2020,115,TriceraTop Spin,1,ride_avg_wait,7
+8,Animal Kingdom,2020,4439,Avatar Flight of Passage,0,ride_max_wait,112
+8,Animal Kingdom,2020,4438,Na'vi River Journey,0,ride_max_wait,73
+8,Animal Kingdom,2020,116,Meet Favorite Disney Pals at Adventurers Outpost,0,ride_max_wait,59
+8,Animal Kingdom,2020,113,Kilimanjaro Safaris,0,ride_max_wait,56
+8,Animal Kingdom,2020,110,Expedition Everest - Legend of the Forbidden Mountain,0,ride_max_wait,53
+8,Animal Kingdom,2020,655,Wildlife Express Train,0,ride_max_wait,53
+8,Animal Kingdom,2020,111,DINOSAUR,1,ride_max_wait,52
+8,Animal Kingdom,2020,114,Primeval Whirl,1,ride_max_wait,51
+8,Animal Kingdom,2020,112,Kali River Rapids,0,ride_max_wait,37
+8,Animal Kingdom,2020,249,It's Tough to be a Bug!,1,ride_max_wait,19
+8,Animal Kingdom,2020,115,TriceraTop Spin,1,ride_max_wait,10
+8,Animal Kingdom,2021,4439,Avatar Flight of Passage,0,ride_avg_wait,71
+8,Animal Kingdom,2021,4438,Na'vi River Journey,0,ride_avg_wait,45
+8,Animal Kingdom,2021,113,Kilimanjaro Safaris,0,ride_avg_wait,33
+8,Animal Kingdom,2021,111,DINOSAUR,1,ride_avg_wait,24
+8,Animal Kingdom,2021,112,Kali River Rapids,0,ride_avg_wait,24
+8,Animal Kingdom,2021,110,Expedition Everest - Legend of the Forbidden Mountain,0,ride_avg_wait,21
+8,Animal Kingdom,2021,249,It's Tough to be a Bug!,1,ride_avg_wait,13
+8,Animal Kingdom,2021,115,TriceraTop Spin,1,ride_avg_wait,8
+8,Animal Kingdom,2021,655,Wildlife Express Train,0,ride_avg_wait,7
+8,Animal Kingdom,2021,652,The Boneyard,1,ride_avg_wait,5
+8,Animal Kingdom,2021,4439,Avatar Flight of Passage,0,ride_max_wait,103
+8,Animal Kingdom,2021,4438,Na'vi River Journey,0,ride_max_wait,68
+8,Animal Kingdom,2021,113,Kilimanjaro Safaris,0,ride_max_wait,57
+8,Animal Kingdom,2021,112,Kali River Rapids,0,ride_max_wait,48
+8,Animal Kingdom,2021,111,DINOSAUR,1,ride_max_wait,46
+8,Animal Kingdom,2021,110,Expedition Everest - Legend of the Forbidden Mountain,0,ride_max_wait,38
+8,Animal Kingdom,2021,249,It's Tough to be a Bug!,1,ride_max_wait,20
+8,Animal Kingdom,2021,655,Wildlife Express Train,0,ride_max_wait,14
+8,Animal Kingdom,2021,115,TriceraTop Spin,1,ride_max_wait,13
+8,Animal Kingdom,2021,652,The Boneyard,1,ride_max_wait,5
+8,Animal Kingdom,2022,4439,Avatar Flight of Passage,0,ride_avg_wait,72
+8,Animal Kingdom,2022,113,Kilimanjaro Safaris,0,ride_avg_wait,48
+8,Animal Kingdom,2022,116,Meet Favorite Disney Pals at Adventurers Outpost,0,ride_avg_wait,43
+8,Animal Kingdom,2022,4438,Na'vi River Journey,0,ride_avg_wait,36
+8,Animal Kingdom,2022,112,Kali River Rapids,0,ride_avg_wait,29
+8,Animal Kingdom,2022,110,Expedition Everest - Legend of the Forbidden Mountain,0,ride_avg_wait,18
+8,Animal Kingdom,2022,111,DINOSAUR,1,ride_avg_wait,16
+8,Animal Kingdom,2022,249,It's Tough to be a Bug!,1,ride_avg_wait,9
+8,Animal Kingdom,2022,115,TriceraTop Spin,1,ride_avg_wait,9
+8,Animal Kingdom,2022,655,Wildlife Express Train,0,ride_avg_wait,9
+8,Animal Kingdom,2022,652,The Boneyard,1,ride_avg_wait,8
+8,Animal Kingdom,2022,4439,Avatar Flight of Passage,0,ride_max_wait,100
+8,Animal Kingdom,2022,113,Kilimanjaro Safaris,0,ride_max_wait,85
+8,Animal Kingdom,2022,116,Meet Favorite Disney Pals at Adventurers Outpost,0,ride_max_wait,72
+8,Animal Kingdom,2022,4438,Na'vi River Journey,0,ride_max_wait,55
+8,Animal Kingdom,2022,112,Kali River Rapids,0,ride_max_wait,52
+8,Animal Kingdom,2022,110,Expedition Everest - Legend of the Forbidden Mountain,0,ride_max_wait,31
+8,Animal Kingdom,2022,111,DINOSAUR,1,ride_max_wait,29
+8,Animal Kingdom,2022,115,TriceraTop Spin,1,ride_max_wait,16
+8,Animal Kingdom,2022,249,It's Tough to be a Bug!,1,ride_max_wait,13
+8,Animal Kingdom,2022,652,The Boneyard,1,ride_max_wait,10
+8,Animal Kingdom,2022,655,Wildlife Express Train,0,ride_max_wait,10
+8,Animal Kingdom,2023,4439,Avatar Flight of Passage,0,ride_avg_wait,69
+8,Animal Kingdom,2023,116,Meet Favorite Disney Pals at Adventurers Outpost,0,ride_avg_wait,40
+8,Animal Kingdom,2023,4438,Na'vi River Journey,0,ride_avg_wait,37
+8,Animal Kingdom,2023,113,Kilimanjaro Safaris,0,ride_avg_wait,35
+8,Animal Kingdom,2023,112,Kali River Rapids,0,ride_avg_wait,25
+8,Animal Kingdom,2023,110,Expedition Everest - Legend of the Forbidden Mountain,0,ride_avg_wait,17
+8,Animal Kingdom,2023,111,DINOSAUR,1,ride_avg_wait,15
+8,Animal Kingdom,2023,655,Wildlife Express Train,0,ride_avg_wait,10
+8,Animal Kingdom,2023,249,It's Tough to be a Bug!,1,ride_avg_wait,9
+8,Animal Kingdom,2023,115,TriceraTop Spin,1,ride_avg_wait,7
+8,Animal Kingdom,2023,652,The Boneyard,1,ride_avg_wait,5
+8,Animal Kingdom,2023,4439,Avatar Flight of Passage,0,ride_max_wait,96
+8,Animal Kingdom,2023,116,Meet Favorite Disney Pals at Adventurers Outpost,0,ride_max_wait,72
+8,Animal Kingdom,2023,113,Kilimanjaro Safaris,0,ride_max_wait,71
+8,Animal Kingdom,2023,4438,Na'vi River Journey,0,ride_max_wait,58
+8,Animal Kingdom,2023,112,Kali River Rapids,0,ride_max_wait,46
+8,Animal Kingdom,2023,110,Expedition Everest - Legend of the Forbidden Mountain,0,ride_max_wait,30
+8,Animal Kingdom,2023,111,DINOSAUR,1,ride_max_wait,28
+8,Animal Kingdom,2023,655,Wildlife Express Train,0,ride_max_wait,12
+8,Animal Kingdom,2023,249,It's Tough to be a Bug!,1,ride_max_wait,11
+8,Animal Kingdom,2023,115,TriceraTop Spin,1,ride_max_wait,11
+8,Animal Kingdom,2023,652,The Boneyard,1,ride_max_wait,5
+8,Animal Kingdom,2024,4439,Avatar Flight of Passage,0,ride_avg_wait,65
+8,Animal Kingdom,2024,116,Meet Favorite Disney Pals at Adventurers Outpost,0,ride_avg_wait,38
+8,Animal Kingdom,2024,113,Kilimanjaro Safaris,0,ride_avg_wait,35
+8,Animal Kingdom,2024,4438,Na'vi River Journey,0,ride_avg_wait,32
+8,Animal Kingdom,2024,112,Kali River Rapids,0,ride_avg_wait,29
+8,Animal Kingdom,2024,110,Expedition Everest - Legend of the Forbidden Mountain,0,ride_avg_wait,20
+8,Animal Kingdom,2024,111,DINOSAUR,1,ride_avg_wait,14
+8,Animal Kingdom,2024,249,It's Tough to be a Bug!,1,ride_avg_wait,9
+8,Animal Kingdom,2024,655,Wildlife Express Train,0,ride_avg_wait,7
+8,Animal Kingdom,2024,115,TriceraTop Spin,1,ride_avg_wait,6
+8,Animal Kingdom,2024,652,The Boneyard,1,ride_avg_wait,5
+8,Animal Kingdom,2024,4439,Avatar Flight of Passage,0,ride_max_wait,92
+8,Animal Kingdom,2024,116,Meet Favorite Disney Pals at Adventurers Outpost,0,ride_max_wait,72
+8,Animal Kingdom,2024,113,Kilimanjaro Safaris,0,ride_max_wait,70
+8,Animal Kingdom,2024,112,Kali River Rapids,0,ride_max_wait,53
+8,Animal Kingdom,2024,4438,Na'vi River Journey,0,ride_max_wait,48
+8,Animal Kingdom,2024,110,Expedition Everest - Legend of the Forbidden Mountain,0,ride_max_wait,35
+8,Animal Kingdom,2024,111,DINOSAUR,1,ride_max_wait,26
+8,Animal Kingdom,2024,249,It's Tough to be a Bug!,1,ride_max_wait,11
+8,Animal Kingdom,2024,115,TriceraTop Spin,1,ride_max_wait,10
+8,Animal Kingdom,2024,655,Wildlife Express Train,0,ride_max_wait,8
+8,Animal Kingdom,2024,652,The Boneyard,1,ride_max_wait,5
+8,Animal Kingdom,2025,4439,Avatar Flight of Passage,0,ride_avg_wait,57
+8,Animal Kingdom,2025,113,Kilimanjaro Safaris,0,ride_avg_wait,32
+8,Animal Kingdom,2025,116,Meet Favorite Disney Pals at Adventurers Outpost,0,ride_avg_wait,30
+8,Animal Kingdom,2025,112,Kali River Rapids,0,ride_avg_wait,29
+8,Animal Kingdom,2025,4438,Na'vi River Journey,0,ride_avg_wait,28
+8,Animal Kingdom,2025,110,Expedition Everest - Legend of the Forbidden Mountain,0,ride_avg_wait,18
+8,Animal Kingdom,2025,14943,Zootopia: Better Zoogether!,0,ride_avg_wait,14
+8,Animal Kingdom,2025,111,DINOSAUR,1,ride_avg_wait,13
+8,Animal Kingdom,2025,249,It's Tough to be a Bug!,1,ride_avg_wait,10
+8,Animal Kingdom,2025,115,TriceraTop Spin,1,ride_avg_wait,8
+8,Animal Kingdom,2025,655,Wildlife Express Train,0,ride_avg_wait,7
+8,Animal Kingdom,2025,651,Gorilla Falls Exploration Trail,0,ride_avg_wait,5
+8,Animal Kingdom,2025,4439,Avatar Flight of Passage,0,ride_max_wait,82
+8,Animal Kingdom,2025,113,Kilimanjaro Safaris,0,ride_max_wait,65
+8,Animal Kingdom,2025,116,Meet Favorite Disney Pals at Adventurers Outpost,0,ride_max_wait,59
+8,Animal Kingdom,2025,112,Kali River Rapids,0,ride_max_wait,54
+8,Animal Kingdom,2025,4438,Na'vi River Journey,0,ride_max_wait,42
+8,Animal Kingdom,2025,110,Expedition Everest - Legend of the Forbidden Mountain,0,ride_max_wait,33
+8,Animal Kingdom,2025,111,DINOSAUR,1,ride_max_wait,25
+8,Animal Kingdom,2025,14943,Zootopia: Better Zoogether!,0,ride_max_wait,22
+8,Animal Kingdom,2025,115,TriceraTop Spin,1,ride_max_wait,13
+8,Animal Kingdom,2025,249,It's Tough to be a Bug!,1,ride_max_wait,12
+8,Animal Kingdom,2025,655,Wildlife Express Train,0,ride_max_wait,10
+8,Animal Kingdom,2025,651,Gorilla Falls Exploration Trail,0,ride_max_wait,5
+8,Animal Kingdom,2026,4439,Avatar Flight of Passage,0,ride_avg_wait,56
+8,Animal Kingdom,2026,113,Kilimanjaro Safaris,0,ride_avg_wait,30
+8,Animal Kingdom,2026,112,Kali River Rapids,0,ride_avg_wait,29
+8,Animal Kingdom,2026,116,Meet Favorite Disney Pals at Adventurers Outpost,0,ride_avg_wait,28
+8,Animal Kingdom,2026,4438,Na'vi River Journey,0,ride_avg_wait,26
+8,Animal Kingdom,2026,16545,Bluey's Wild World at Conservation Station,0,ride_avg_wait,19
+8,Animal Kingdom,2026,110,Expedition Everest - Legend of the Forbidden Mountain,0,ride_avg_wait,18
+8,Animal Kingdom,2026,111,DINOSAUR,1,ride_avg_wait,16
+8,Animal Kingdom,2026,14943,Zootopia: Better Zoogether!,0,ride_avg_wait,12
+8,Animal Kingdom,2026,655,Wildlife Express Train,0,ride_avg_wait,8
+8,Animal Kingdom,2026,651,Gorilla Falls Exploration Trail,0,ride_avg_wait,5
+8,Animal Kingdom,2026,4439,Avatar Flight of Passage,0,ride_max_wait,82
+8,Animal Kingdom,2026,113,Kilimanjaro Safaris,0,ride_max_wait,64
+8,Animal Kingdom,2026,112,Kali River Rapids,0,ride_max_wait,57
+8,Animal Kingdom,2026,116,Meet Favorite Disney Pals at Adventurers Outpost,0,ride_max_wait,56
+8,Animal Kingdom,2026,4438,Na'vi River Journey,0,ride_max_wait,39
+8,Animal Kingdom,2026,16545,Bluey's Wild World at Conservation Station,0,ride_max_wait,36
+8,Animal Kingdom,2026,110,Expedition Everest - Legend of the Forbidden Mountain,0,ride_max_wait,33
+8,Animal Kingdom,2026,111,DINOSAUR,1,ride_max_wait,30
+8,Animal Kingdom,2026,14943,Zootopia: Better Zoogether!,0,ride_max_wait,19
+8,Animal Kingdom,2026,655,Wildlife Express Train,0,ride_max_wait,14
+8,Animal Kingdom,2026,651,Gorilla Falls Exploration Trail,0,ride_max_wait,5

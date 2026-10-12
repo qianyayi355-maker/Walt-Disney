@@ -1,0 +1,53 @@
+park_id,park_name,year,tracked_attractions
+5,Epcot,2015,16
+5,Epcot,2016,16
+5,Epcot,2017,13
+5,Epcot,2018,11
+5,Epcot,2019,13
+5,Epcot,2020,13
+5,Epcot,2021,11
+5,Epcot,2022,15
+5,Epcot,2023,15
+5,Epcot,2024,17
+5,Epcot,2025,17
+5,Epcot,2026,17
+5,Epcot,all_time,23
+6,Magic Kingdom,2015,35
+6,Magic Kingdom,2016,38
+6,Magic Kingdom,2017,29
+6,Magic Kingdom,2018,29
+6,Magic Kingdom,2019,38
+6,Magic Kingdom,2020,32
+6,Magic Kingdom,2021,26
+6,Magic Kingdom,2022,32
+6,Magic Kingdom,2023,40
+6,Magic Kingdom,2024,40
+6,Magic Kingdom,2025,43
+6,Magic Kingdom,2026,40
+6,Magic Kingdom,all_time,49
+7,Hollywood Studios,2015,10
+7,Hollywood Studios,2016,14
+7,Hollywood Studios,2017,8
+7,Hollywood Studios,2018,8
+7,Hollywood Studios,2019,18
+7,Hollywood Studios,2020,20
+7,Hollywood Studios,2021,13
+7,Hollywood Studios,2022,16
+7,Hollywood Studios,2023,17
+7,Hollywood Studios,2024,17
+7,Hollywood Studios,2025,20
+7,Hollywood Studios,2026,14
+7,Hollywood Studios,all_time,28
+8,Animal Kingdom,2015,8
+8,Animal Kingdom,2016,10
+8,Animal Kingdom,2017,10
+8,Animal Kingdom,2018,10
+8,Animal Kingdom,2019,10
+8,Animal Kingdom,2020,11
+8,Animal Kingdom,2021,10
+8,Animal Kingdom,2022,11
+8,Animal Kingdom,2023,11
+8,Animal Kingdom,2024,11
+8,Animal Kingdom,2025,12
+8,Animal Kingdom,2026,11
+8,Animal Kingdom,all_time,15

@@ -1,0 +1,2167 @@
+park_id,park_name,year,dimension,key,crowd_level_pct
+5,Epcot,all_time,crowd_by_month,Jan,46
+5,Epcot,all_time,crowd_by_month,Feb,58
+5,Epcot,all_time,crowd_by_month,Mar,67
+5,Epcot,all_time,crowd_by_month,Apr,59
+5,Epcot,all_time,crowd_by_month,May,50
+5,Epcot,all_time,crowd_by_month,Jun,58
+5,Epcot,all_time,crowd_by_month,Jul,44
+5,Epcot,all_time,crowd_by_month,Aug,36
+5,Epcot,all_time,crowd_by_month,Sep,29
+5,Epcot,all_time,crowd_by_month,Oct,48
+5,Epcot,all_time,crowd_by_month,Nov,53
+5,Epcot,all_time,crowd_by_month,Dec,63
+5,Epcot,all_time,crowd_by_day,Sun,51
+5,Epcot,all_time,crowd_by_day,Mon,58
+5,Epcot,all_time,crowd_by_day,Tue,51
+5,Epcot,all_time,crowd_by_day,Wed,43
+5,Epcot,all_time,crowd_by_day,Thu,49
+5,Epcot,all_time,crowd_by_day,Fri,48
+5,Epcot,all_time,crowd_by_day,Sat,56
+5,Epcot,all_time,crowd_by_year,2014,21
+5,Epcot,all_time,crowd_by_year,2015,56
+5,Epcot,all_time,crowd_by_year,2016,48
+5,Epcot,all_time,crowd_by_year,2017,64
+5,Epcot,all_time,crowd_by_year,2018,61
+5,Epcot,all_time,crowd_by_year,2019,53
+5,Epcot,all_time,crowd_by_year,2020,45
+5,Epcot,all_time,crowd_by_year,2021,42
+5,Epcot,all_time,crowd_by_year,2022,50
+5,Epcot,all_time,crowd_by_year,2023,46
+5,Epcot,all_time,crowd_by_year,2024,52
+5,Epcot,all_time,crowd_by_year,2025,48
+5,Epcot,all_time,crowd_by_year,2026,51
+5,Epcot,all_time,crowd_by_event,🎨 Festival of the Arts,67
+5,Epcot,all_time,crowd_by_event,🌙 Extended Evening,64
+5,Epcot,all_time,crowd_by_event,🌸 Flower and Garden Festival,60
+5,Epcot,all_time,crowd_by_event,🎄 Festival of the Holidays,57
+5,Epcot,all_time,crowd_by_event,🎟️ Special Ticketed Event,51
+5,Epcot,all_time,crowd_by_event,⏰ Early Entry,49
+5,Epcot,all_time,crowd_by_event,🍷 Food and Wine Festival,45
+5,Epcot,all_time,crowd_by_date,"December 29, 2023",100
+5,Epcot,all_time,crowd_by_date,"December 30, 2024",99
+5,Epcot,all_time,crowd_by_date,"December 28, 2023",99
+5,Epcot,all_time,crowd_by_date,"December 30, 2023",99
+5,Epcot,all_time,crowd_by_date,"December 31, 2024",99
+5,Epcot,all_time,crowd_by_date,"December 31, 2017",99
+5,Epcot,all_time,crowd_by_date,"December 31, 2018",99
+5,Epcot,all_time,crowd_by_date,"December 31, 2025",99
+5,Epcot,all_time,crowd_by_date,"December 27, 2022",99
+5,Epcot,all_time,crowd_by_date,"April 03, 2023",99
+5,Epcot,all_time,crowd_by_date,"October 09, 2024",0
+5,Epcot,all_time,crowd_by_date,"August 31, 2021",0
+5,Epcot,all_time,crowd_by_date,"September 11, 2014",0
+5,Epcot,all_time,crowd_by_date,"September 12, 2014",0
+5,Epcot,all_time,crowd_by_date,"September 01, 2022",0
+5,Epcot,all_time,crowd_by_date,"September 30, 2021",0
+5,Epcot,all_time,crowd_by_date,"September 05, 2019",0
+5,Epcot,all_time,crowd_by_date,"August 26, 2021",0
+5,Epcot,all_time,crowd_by_date,"September 03, 2021",0
+5,Epcot,all_time,crowd_by_date,"August 27, 2021",0
+5,Epcot,2015,crowd_by_month,Jan,22
+5,Epcot,2015,crowd_by_month,Feb,49
+5,Epcot,2015,crowd_by_month,Mar,70
+5,Epcot,2015,crowd_by_month,Apr,60
+5,Epcot,2015,crowd_by_month,May,66
+5,Epcot,2015,crowd_by_month,Jun,70
+5,Epcot,2015,crowd_by_month,Jul,66
+5,Epcot,2015,crowd_by_month,Aug,53
+5,Epcot,2015,crowd_by_month,Sep,33
+5,Epcot,2015,crowd_by_month,Oct,55
+5,Epcot,2015,crowd_by_month,Nov,11
+5,Epcot,2015,crowd_by_month,Dec,77
+5,Epcot,2015,crowd_by_day,Sun,54
+5,Epcot,2015,crowd_by_day,Mon,52
+5,Epcot,2015,crowd_by_day,Tue,61
+5,Epcot,2015,crowd_by_day,Wed,52
+5,Epcot,2015,crowd_by_day,Thu,55
+5,Epcot,2015,crowd_by_day,Fri,60
+5,Epcot,2015,crowd_by_day,Sat,58
+5,Epcot,2015,crowd_by_date,"December 29, 2015",99
+5,Epcot,2015,crowd_by_date,"May 24, 2015",98
+5,Epcot,2015,crowd_by_date,"April 07, 2015",98
+5,Epcot,2015,crowd_by_date,"April 08, 2015",98
+5,Epcot,2015,crowd_by_date,"March 31, 2015",97
+5,Epcot,2015,crowd_by_date,"December 22, 2015",97
+5,Epcot,2015,crowd_by_date,"April 09, 2015",97
+5,Epcot,2015,crowd_by_date,"December 28, 2015",96
+5,Epcot,2015,crowd_by_date,"June 09, 2015",95
+5,Epcot,2015,crowd_by_date,"December 21, 2015",95
+5,Epcot,2015,crowd_by_date,"September 09, 2015",0
+5,Epcot,2015,crowd_by_date,"January 11, 2015",1
+5,Epcot,2015,crowd_by_date,"January 15, 2015",1
+5,Epcot,2015,crowd_by_date,"January 14, 2015",1
+5,Epcot,2015,crowd_by_date,"November 02, 2015",1
+5,Epcot,2015,crowd_by_date,"January 12, 2015",2
+5,Epcot,2015,crowd_by_date,"January 13, 2015",2
+5,Epcot,2015,crowd_by_date,"January 22, 2015",3
+5,Epcot,2015,crowd_by_date,"January 09, 2015",3
+5,Epcot,2015,crowd_by_date,"January 07, 2015",3
+5,Epcot,2016,crowd_by_month,Jan,25
+5,Epcot,2016,crowd_by_month,Feb,43
+5,Epcot,2016,crowd_by_month,Mar,53
+5,Epcot,2016,crowd_by_month,Apr,48
+5,Epcot,2016,crowd_by_month,May,37
+5,Epcot,2016,crowd_by_month,Jun,53
+5,Epcot,2016,crowd_by_month,Jul,46
+5,Epcot,2016,crowd_by_month,Aug,44
+5,Epcot,2016,crowd_by_month,Sep,35
+5,Epcot,2016,crowd_by_month,Oct,66
+5,Epcot,2016,crowd_by_month,Nov,54
+5,Epcot,2016,crowd_by_month,Dec,65
+5,Epcot,2016,crowd_by_day,Sun,48
+5,Epcot,2016,crowd_by_day,Mon,47
+5,Epcot,2016,crowd_by_day,Tue,60
+5,Epcot,2016,crowd_by_day,Wed,45
+5,Epcot,2016,crowd_by_day,Thu,45
+5,Epcot,2016,crowd_by_day,Fri,36
+5,Epcot,2016,crowd_by_day,Sat,53
+5,Epcot,2016,crowd_by_date,"November 22, 2016",99
+5,Epcot,2016,crowd_by_date,"December 20, 2016",99
+5,Epcot,2016,crowd_by_date,"March 22, 2016",99
+5,Epcot,2016,crowd_by_date,"December 28, 2016",98
+5,Epcot,2016,crowd_by_date,"October 11, 2016",98
+5,Epcot,2016,crowd_by_date,"December 30, 2016",98
+5,Epcot,2016,crowd_by_date,"March 29, 2016",98
+5,Epcot,2016,crowd_by_date,"December 27, 2016",97
+5,Epcot,2016,crowd_by_date,"December 29, 2016",97
+5,Epcot,2016,crowd_by_date,"April 06, 2016",96
+5,Epcot,2016,crowd_by_date,"January 27, 2016",3
+5,Epcot,2016,crowd_by_date,"May 04, 2016",3
+5,Epcot,2016,crowd_by_date,"March 04, 2016",3
+5,Epcot,2016,crowd_by_date,"January 15, 2016",4
+5,Epcot,2016,crowd_by_date,"September 01, 2016",4
+5,Epcot,2016,crowd_by_date,"January 11, 2016",5
+5,Epcot,2016,crowd_by_date,"January 07, 2016",5
+5,Epcot,2016,crowd_by_date,"September 07, 2016",6
+5,Epcot,2016,crowd_by_date,"September 09, 2016",7
+5,Epcot,2016,crowd_by_date,"May 11, 2016",7
+5,Epcot,2017,crowd_by_month,Jan,44
+5,Epcot,2017,crowd_by_month,Feb,51
+5,Epcot,2017,crowd_by_month,Mar,81
+5,Epcot,2017,crowd_by_month,Apr,76
+5,Epcot,2017,crowd_by_month,May,67
+5,Epcot,2017,crowd_by_month,Jun,68
+5,Epcot,2017,crowd_by_month,Jul,56
+5,Epcot,2017,crowd_by_month,Aug,67
+5,Epcot,2017,crowd_by_month,Sep,41
+5,Epcot,2017,crowd_by_month,Oct,73
+5,Epcot,2017,crowd_by_month,Nov,71
+5,Epcot,2017,crowd_by_month,Dec,74
+5,Epcot,2017,crowd_by_day,Sun,70
+5,Epcot,2017,crowd_by_day,Mon,70
+5,Epcot,2017,crowd_by_day,Tue,71
+5,Epcot,2017,crowd_by_day,Wed,56
+5,Epcot,2017,crowd_by_day,Thu,62
+5,Epcot,2017,crowd_by_day,Fri,55
+5,Epcot,2017,crowd_by_day,Sat,68
+5,Epcot,2017,crowd_by_event,🌸 Flower and Garden Festival,80
+5,Epcot,2017,crowd_by_event,🎄 Festival of the Holidays,80
+5,Epcot,2017,crowd_by_event,🍷 Food and Wine Festival,68
+5,Epcot,2017,crowd_by_event,🎨 Festival of the Arts,49
+5,Epcot,2017,crowd_by_date,"December 31, 2017",99
+5,Epcot,2017,crowd_by_date,"November 21, 2017",99
+5,Epcot,2017,crowd_by_date,"December 28, 2017",99
+5,Epcot,2017,crowd_by_date,"March 14, 2017",99
+5,Epcot,2017,crowd_by_date,"March 16, 2017",99
+5,Epcot,2017,crowd_by_date,"February 19, 2017",99
+5,Epcot,2017,crowd_by_date,"April 11, 2017",99
+5,Epcot,2017,crowd_by_date,"November 20, 2017",98
+5,Epcot,2017,crowd_by_date,"January 03, 2017",98
+5,Epcot,2017,crowd_by_date,"December 26, 2017",98
+5,Epcot,2017,crowd_by_date,"September 09, 2017",2
+5,Epcot,2017,crowd_by_date,"September 13, 2017",3
+5,Epcot,2017,crowd_by_date,"September 14, 2017",5
+5,Epcot,2017,crowd_by_date,"September 08, 2017",5
+5,Epcot,2017,crowd_by_date,"February 01, 2017",6
+5,Epcot,2017,crowd_by_date,"January 18, 2017",7
+5,Epcot,2017,crowd_by_date,"February 09, 2017",7
+5,Epcot,2017,crowd_by_date,"September 12, 2017",7
+5,Epcot,2017,crowd_by_date,"September 06, 2017",8
+5,Epcot,2017,crowd_by_date,"September 07, 2017",8
+5,Epcot,2018,crowd_by_month,Jan,55
+5,Epcot,2018,crowd_by_month,Feb,66
+5,Epcot,2018,crowd_by_month,Mar,79
+5,Epcot,2018,crowd_by_month,Apr,61
+5,Epcot,2018,crowd_by_month,May,61
+5,Epcot,2018,crowd_by_month,Jun,82
+5,Epcot,2018,crowd_by_month,Jul,49
+5,Epcot,2018,crowd_by_month,Aug,43
+5,Epcot,2018,crowd_by_month,Sep,33
+5,Epcot,2018,crowd_by_month,Oct,58
+5,Epcot,2018,crowd_by_month,Nov,66
+5,Epcot,2018,crowd_by_month,Dec,73
+5,Epcot,2018,crowd_by_day,Sun,65
+5,Epcot,2018,crowd_by_day,Mon,64
+5,Epcot,2018,crowd_by_day,Tue,63
+5,Epcot,2018,crowd_by_day,Wed,49
+5,Epcot,2018,crowd_by_day,Thu,54
+5,Epcot,2018,crowd_by_day,Fri,56
+5,Epcot,2018,crowd_by_day,Sat,73
+5,Epcot,2018,crowd_by_event,🎄 Festival of the Holidays,79
+5,Epcot,2018,crowd_by_event,🌸 Flower and Garden Festival,74
+5,Epcot,2018,crowd_by_event,🎨 Festival of the Arts,69
+5,Epcot,2018,crowd_by_event,🍷 Food and Wine Festival,59
+5,Epcot,2018,crowd_by_date,"December 31, 2018",99
+5,Epcot,2018,crowd_by_date,"December 29, 2018",99
+5,Epcot,2018,crowd_by_date,"December 28, 2018",99
+5,Epcot,2018,crowd_by_date,"December 30, 2018",99
+5,Epcot,2018,crowd_by_date,"March 27, 2018",99
+5,Epcot,2018,crowd_by_date,"April 04, 2018",99
+5,Epcot,2018,crowd_by_date,"December 27, 2018",99
+5,Epcot,2018,crowd_by_date,"April 05, 2018",99
+5,Epcot,2018,crowd_by_date,"November 20, 2018",99
+5,Epcot,2018,crowd_by_date,"March 13, 2018",99
+5,Epcot,2018,crowd_by_date,"September 13, 2018",4
+5,Epcot,2018,crowd_by_date,"August 29, 2018",5
+5,Epcot,2018,crowd_by_date,"September 05, 2018",7
+5,Epcot,2018,crowd_by_date,"September 06, 2018",9
+5,Epcot,2018,crowd_by_date,"October 31, 2018",10
+5,Epcot,2018,crowd_by_date,"September 07, 2018",11
+5,Epcot,2018,crowd_by_date,"October 03, 2018",11
+5,Epcot,2018,crowd_by_date,"December 20, 2018",11
+5,Epcot,2018,crowd_by_date,"August 26, 2018",12
+5,Epcot,2018,crowd_by_date,"September 12, 2018",14
+5,Epcot,2019,crowd_by_month,Jan,52
+5,Epcot,2019,crowd_by_month,Feb,59
+5,Epcot,2019,crowd_by_month,Mar,85
+5,Epcot,2019,crowd_by_month,Apr,59
+5,Epcot,2019,crowd_by_month,May,56
+5,Epcot,2019,crowd_by_month,Jun,48
+5,Epcot,2019,crowd_by_month,Jul,38
+5,Epcot,2019,crowd_by_month,Aug,41
+5,Epcot,2019,crowd_by_month,Sep,25
+5,Epcot,2019,crowd_by_month,Oct,47
+5,Epcot,2019,crowd_by_month,Nov,59
+5,Epcot,2019,crowd_by_month,Dec,62
+5,Epcot,2019,crowd_by_day,Sun,57
+5,Epcot,2019,crowd_by_day,Mon,54
+5,Epcot,2019,crowd_by_day,Tue,60
+5,Epcot,2019,crowd_by_day,Wed,40
+5,Epcot,2019,crowd_by_day,Thu,50
+5,Epcot,2019,crowd_by_day,Fri,41
+5,Epcot,2019,crowd_by_day,Sat,65
+5,Epcot,2019,crowd_by_event,🌸 Flower and Garden Festival,74
+5,Epcot,2019,crowd_by_event,🎄 Festival of the Holidays,72
+5,Epcot,2019,crowd_by_event,🎨 Festival of the Arts,68
+5,Epcot,2019,crowd_by_event,🍷 Food and Wine Festival,50
+5,Epcot,2019,crowd_by_date,"February 18, 2019",99
+5,Epcot,2019,crowd_by_date,"February 17, 2019",99
+5,Epcot,2019,crowd_by_date,"January 02, 2019",98
+5,Epcot,2019,crowd_by_date,"March 26, 2019",98
+5,Epcot,2019,crowd_by_date,"May 26, 2019",98
+5,Epcot,2019,crowd_by_date,"February 16, 2019",98
+5,Epcot,2019,crowd_by_date,"December 28, 2019",97
+5,Epcot,2019,crowd_by_date,"December 30, 2019",97
+5,Epcot,2019,crowd_by_date,"March 12, 2019",97
+5,Epcot,2019,crowd_by_date,"January 03, 2019",97
+5,Epcot,2019,crowd_by_date,"September 05, 2019",0
+5,Epcot,2019,crowd_by_date,"September 04, 2019",0
+5,Epcot,2019,crowd_by_date,"September 03, 2019",0
+5,Epcot,2019,crowd_by_date,"September 06, 2019",1
+5,Epcot,2019,crowd_by_date,"September 02, 2019",1
+5,Epcot,2019,crowd_by_date,"August 28, 2019",1
+5,Epcot,2019,crowd_by_date,"August 30, 2019",2
+5,Epcot,2019,crowd_by_date,"September 01, 2019",3
+5,Epcot,2019,crowd_by_date,"August 29, 2019",4
+5,Epcot,2019,crowd_by_date,"August 31, 2019",5
+5,Epcot,2020,crowd_by_month,Jan,63
+5,Epcot,2020,crowd_by_month,Feb,75
+5,Epcot,2020,crowd_by_month,Mar,41
+5,Epcot,2020,crowd_by_month,Jul,9
+5,Epcot,2020,crowd_by_month,Aug,10
+5,Epcot,2020,crowd_by_month,Sep,27
+5,Epcot,2020,crowd_by_month,Oct,50
+5,Epcot,2020,crowd_by_month,Nov,49
+5,Epcot,2020,crowd_by_month,Dec,61
+5,Epcot,2020,crowd_by_day,Sun,63
+5,Epcot,2020,crowd_by_day,Mon,41
+5,Epcot,2020,crowd_by_day,Tue,36
+5,Epcot,2020,crowd_by_day,Wed,34
+5,Epcot,2020,crowd_by_day,Thu,37
+5,Epcot,2020,crowd_by_day,Fri,37
+5,Epcot,2020,crowd_by_day,Sat,67
+5,Epcot,2020,crowd_by_event,🎨 Festival of the Arts,80
+5,Epcot,2020,crowd_by_event,🎄 Festival of the Holidays,67
+5,Epcot,2020,crowd_by_event,🌸 Flower and Garden Festival,53
+5,Epcot,2020,crowd_by_event,🍷 Food and Wine Festival,35
+5,Epcot,2020,crowd_by_date,"February 16, 2020",99
+5,Epcot,2020,crowd_by_date,"February 15, 2020",98
+5,Epcot,2020,crowd_by_date,"January 03, 2020",98
+5,Epcot,2020,crowd_by_date,"February 17, 2020",97
+5,Epcot,2020,crowd_by_date,"January 02, 2020",97
+5,Epcot,2020,crowd_by_date,"January 19, 2020",96
+5,Epcot,2020,crowd_by_date,"December 29, 2020",96
+5,Epcot,2020,crowd_by_date,"December 30, 2020",96
+5,Epcot,2020,crowd_by_date,"October 10, 2020",96
+5,Epcot,2020,crowd_by_date,"January 20, 2020",96
+5,Epcot,2020,crowd_by_date,"August 27, 2020",0
+5,Epcot,2020,crowd_by_date,"September 03, 2020",0
+5,Epcot,2020,crowd_by_date,"August 31, 2020",0
+5,Epcot,2020,crowd_by_date,"August 03, 2020",0
+5,Epcot,2020,crowd_by_date,"August 25, 2020",0
+5,Epcot,2020,crowd_by_date,"September 02, 2020",0
+5,Epcot,2020,crowd_by_date,"August 26, 2020",0
+5,Epcot,2020,crowd_by_date,"August 05, 2020",0
+5,Epcot,2020,crowd_by_date,"August 11, 2020",0
+5,Epcot,2020,crowd_by_date,"September 01, 2020",1
+5,Epcot,2021,crowd_by_month,Jan,27
+5,Epcot,2021,crowd_by_month,Feb,38
+5,Epcot,2021,crowd_by_month,Mar,63
+5,Epcot,2021,crowd_by_month,Apr,66
+5,Epcot,2021,crowd_by_month,May,50
+5,Epcot,2021,crowd_by_month,Jun,64
+5,Epcot,2021,crowd_by_month,Jul,60
+5,Epcot,2021,crowd_by_month,Aug,14
+5,Epcot,2021,crowd_by_month,Sep,5
+5,Epcot,2021,crowd_by_month,Oct,14
+5,Epcot,2021,crowd_by_month,Nov,43
+5,Epcot,2021,crowd_by_month,Dec,63
+5,Epcot,2021,crowd_by_day,Sun,42
+5,Epcot,2021,crowd_by_day,Mon,46
+5,Epcot,2021,crowd_by_day,Tue,43
+5,Epcot,2021,crowd_by_day,Wed,42
+5,Epcot,2021,crowd_by_day,Thu,42
+5,Epcot,2021,crowd_by_day,Fri,35
+5,Epcot,2021,crowd_by_day,Sat,46
+5,Epcot,2021,crowd_by_event,🎄 Festival of the Holidays,69
+5,Epcot,2021,crowd_by_event,🌸 Flower and Garden Festival,68
+5,Epcot,2021,crowd_by_event,🎨 Festival of the Arts,35
+5,Epcot,2021,crowd_by_event,🍷 Food and Wine Festival,29
+5,Epcot,2021,crowd_by_date,"November 22, 2021",98
+5,Epcot,2021,crowd_by_date,"January 01, 2021",98
+5,Epcot,2021,crowd_by_date,"December 28, 2021",98
+5,Epcot,2021,crowd_by_date,"December 20, 2021",97
+5,Epcot,2021,crowd_by_date,"February 15, 2021",97
+5,Epcot,2021,crowd_by_date,"December 29, 2021",96
+5,Epcot,2021,crowd_by_date,"March 15, 2021",96
+5,Epcot,2021,crowd_by_date,"February 16, 2021",95
+5,Epcot,2021,crowd_by_date,"December 30, 2021",95
+5,Epcot,2021,crowd_by_date,"February 14, 2021",94
+5,Epcot,2021,crowd_by_date,"August 31, 2021",0
+5,Epcot,2021,crowd_by_date,"September 30, 2021",0
+5,Epcot,2021,crowd_by_date,"August 26, 2021",0
+5,Epcot,2021,crowd_by_date,"September 03, 2021",0
+5,Epcot,2021,crowd_by_date,"August 27, 2021",0
+5,Epcot,2021,crowd_by_date,"August 29, 2021",0
+5,Epcot,2021,crowd_by_date,"September 02, 2021",0
+5,Epcot,2021,crowd_by_date,"September 29, 2021",0
+5,Epcot,2021,crowd_by_date,"September 07, 2021",0
+5,Epcot,2021,crowd_by_date,"February 01, 2021",0
+5,Epcot,2022,crowd_by_month,Jan,35
+5,Epcot,2022,crowd_by_month,Feb,57
+5,Epcot,2022,crowd_by_month,Mar,64
+5,Epcot,2022,crowd_by_month,Apr,60
+5,Epcot,2022,crowd_by_month,May,27
+5,Epcot,2022,crowd_by_month,Jun,71
+5,Epcot,2022,crowd_by_month,Jul,61
+5,Epcot,2022,crowd_by_month,Aug,25
+5,Epcot,2022,crowd_by_month,Sep,17
+5,Epcot,2022,crowd_by_month,Oct,63
+5,Epcot,2022,crowd_by_month,Nov,56
+5,Epcot,2022,crowd_by_month,Dec,65
+5,Epcot,2022,crowd_by_day,Sun,41
+5,Epcot,2022,crowd_by_day,Mon,68
+5,Epcot,2022,crowd_by_day,Tue,50
+5,Epcot,2022,crowd_by_day,Wed,49
+5,Epcot,2022,crowd_by_day,Thu,54
+5,Epcot,2022,crowd_by_day,Fri,50
+5,Epcot,2022,crowd_by_day,Sat,40
+5,Epcot,2022,crowd_by_event,🌙 Extended Evening,68
+5,Epcot,2022,crowd_by_event,🎄 Festival of the Holidays,59
+5,Epcot,2022,crowd_by_event,🌸 Flower and Garden Festival,54
+5,Epcot,2022,crowd_by_event,⏰ Early Entry,50
+5,Epcot,2022,crowd_by_event,🍷 Food and Wine Festival,42
+5,Epcot,2022,crowd_by_event,🎨 Festival of the Arts,40
+5,Epcot,2022,crowd_by_date,"December 27, 2022",99
+5,Epcot,2022,crowd_by_date,"December 29, 2022",99
+5,Epcot,2022,crowd_by_date,"December 30, 2022",99
+5,Epcot,2022,crowd_by_date,"December 19, 2022",99
+5,Epcot,2022,crowd_by_date,"February 21, 2022",98
+5,Epcot,2022,crowd_by_date,"November 14, 2022",98
+5,Epcot,2022,crowd_by_date,"June 13, 2022",98
+5,Epcot,2022,crowd_by_date,"October 07, 2022",98
+5,Epcot,2022,crowd_by_date,"October 13, 2022",97
+5,Epcot,2022,crowd_by_date,"October 10, 2022",97
+5,Epcot,2022,crowd_by_date,"September 01, 2022",0
+5,Epcot,2022,crowd_by_date,"August 31, 2022",0
+5,Epcot,2022,crowd_by_date,"September 06, 2022",0
+5,Epcot,2022,crowd_by_date,"August 30, 2022",1
+5,Epcot,2022,crowd_by_date,"September 07, 2022",1
+5,Epcot,2022,crowd_by_date,"September 08, 2022",1
+5,Epcot,2022,crowd_by_date,"September 11, 2022",1
+5,Epcot,2022,crowd_by_date,"August 28, 2022",2
+5,Epcot,2022,crowd_by_date,"May 07, 2022",2
+5,Epcot,2022,crowd_by_date,"September 14, 2022",2
+5,Epcot,2023,crowd_by_month,Jan,52
+5,Epcot,2023,crowd_by_month,Feb,47
+5,Epcot,2023,crowd_by_month,Mar,53
+5,Epcot,2023,crowd_by_month,Apr,49
+5,Epcot,2023,crowd_by_month,May,25
+5,Epcot,2023,crowd_by_month,Jun,51
+5,Epcot,2023,crowd_by_month,Jul,31
+5,Epcot,2023,crowd_by_month,Aug,34
+5,Epcot,2023,crowd_by_month,Sep,41
+5,Epcot,2023,crowd_by_month,Oct,53
+5,Epcot,2023,crowd_by_month,Nov,52
+5,Epcot,2023,crowd_by_month,Dec,66
+5,Epcot,2023,crowd_by_day,Sun,40
+5,Epcot,2023,crowd_by_day,Mon,64
+5,Epcot,2023,crowd_by_day,Tue,38
+5,Epcot,2023,crowd_by_day,Wed,33
+5,Epcot,2023,crowd_by_day,Thu,49
+5,Epcot,2023,crowd_by_day,Fri,55
+5,Epcot,2023,crowd_by_day,Sat,45
+5,Epcot,2023,crowd_by_event,🌙 Extended Evening,62
+5,Epcot,2023,crowd_by_event,🎄 Festival of the Holidays,57
+5,Epcot,2023,crowd_by_event,🎟️ Special Ticketed Event,51
+5,Epcot,2023,crowd_by_event,⏰ Early Entry,46
+5,Epcot,2023,crowd_by_event,🍷 Food and Wine Festival,45
+5,Epcot,2023,crowd_by_event,🎨 Festival of the Arts,44
+5,Epcot,2023,crowd_by_event,🌸 Flower and Garden Festival,43
+5,Epcot,2023,crowd_by_date,"December 29, 2023",100
+5,Epcot,2023,crowd_by_date,"December 28, 2023",99
+5,Epcot,2023,crowd_by_date,"December 30, 2023",99
+5,Epcot,2023,crowd_by_date,"April 03, 2023",99
+5,Epcot,2023,crowd_by_date,"March 14, 2023",99
+5,Epcot,2023,crowd_by_date,"December 27, 2023",99
+5,Epcot,2023,crowd_by_date,"January 02, 2023",99
+5,Epcot,2023,crowd_by_date,"April 04, 2023",99
+5,Epcot,2023,crowd_by_date,"March 15, 2023",99
+5,Epcot,2023,crowd_by_date,"April 05, 2023",99
+5,Epcot,2023,crowd_by_date,"August 30, 2023",0
+5,Epcot,2023,crowd_by_date,"October 31, 2023",1
+5,Epcot,2023,crowd_by_date,"August 29, 2023",1
+5,Epcot,2023,crowd_by_date,"August 31, 2023",2
+5,Epcot,2023,crowd_by_date,"September 06, 2023",2
+5,Epcot,2023,crowd_by_date,"February 28, 2023",2
+5,Epcot,2023,crowd_by_date,"September 05, 2023",3
+5,Epcot,2023,crowd_by_date,"May 16, 2023",3
+5,Epcot,2023,crowd_by_date,"September 01, 2023",3
+5,Epcot,2023,crowd_by_date,"May 09, 2023",3
+5,Epcot,2024,crowd_by_month,Jan,60
+5,Epcot,2024,crowd_by_month,Feb,69
+5,Epcot,2024,crowd_by_month,Mar,62
+5,Epcot,2024,crowd_by_month,Apr,57
+5,Epcot,2024,crowd_by_month,May,62
+5,Epcot,2024,crowd_by_month,Jun,53
+5,Epcot,2024,crowd_by_month,Jul,30
+5,Epcot,2024,crowd_by_month,Aug,30
+5,Epcot,2024,crowd_by_month,Sep,43
+5,Epcot,2024,crowd_by_month,Oct,39
+5,Epcot,2024,crowd_by_month,Nov,57
+5,Epcot,2024,crowd_by_month,Dec,64
+5,Epcot,2024,crowd_by_day,Sun,47
+5,Epcot,2024,crowd_by_day,Mon,70
+5,Epcot,2024,crowd_by_day,Tue,47
+5,Epcot,2024,crowd_by_day,Wed,37
+5,Epcot,2024,crowd_by_day,Thu,51
+5,Epcot,2024,crowd_by_day,Fri,57
+5,Epcot,2024,crowd_by_day,Sat,56
+5,Epcot,2024,crowd_by_event,🌙 Extended Evening,69
+5,Epcot,2024,crowd_by_event,🎨 Festival of the Arts,67
+5,Epcot,2024,crowd_by_event,🎟️ Special Ticketed Event,66
+5,Epcot,2024,crowd_by_event,🎄 Festival of the Holidays,61
+5,Epcot,2024,crowd_by_event,🌸 Flower and Garden Festival,60
+5,Epcot,2024,crowd_by_event,⏰ Early Entry,52
+5,Epcot,2024,crowd_by_event,🍷 Food and Wine Festival,45
+5,Epcot,2024,crowd_by_date,"December 30, 2024",99
+5,Epcot,2024,crowd_by_date,"December 31, 2024",99
+5,Epcot,2024,crowd_by_date,"December 28, 2024",99
+5,Epcot,2024,crowd_by_date,"February 19, 2024",99
+5,Epcot,2024,crowd_by_date,"January 05, 2024",99
+5,Epcot,2024,crowd_by_date,"March 11, 2024",98
+5,Epcot,2024,crowd_by_date,"April 04, 2024",98
+5,Epcot,2024,crowd_by_date,"March 25, 2024",98
+5,Epcot,2024,crowd_by_date,"February 17, 2024",97
+5,Epcot,2024,crowd_by_date,"April 02, 2024",97
+5,Epcot,2024,crowd_by_date,"October 09, 2024",0
+5,Epcot,2024,crowd_by_date,"August 28, 2024",2
+5,Epcot,2024,crowd_by_date,"July 03, 2024",3
+5,Epcot,2024,crowd_by_date,"October 31, 2024",3
+5,Epcot,2024,crowd_by_date,"August 27, 2024",4
+5,Epcot,2024,crowd_by_date,"January 09, 2024",4
+5,Epcot,2024,crowd_by_date,"October 30, 2024",5
+5,Epcot,2024,crowd_by_date,"October 22, 2024",5
+5,Epcot,2024,crowd_by_date,"July 06, 2024",5
+5,Epcot,2024,crowd_by_date,"November 20, 2024",6
+5,Epcot,2025,crowd_by_month,Jan,66
+5,Epcot,2025,crowd_by_month,Feb,65
+5,Epcot,2025,crowd_by_month,Mar,67
+5,Epcot,2025,crowd_by_month,Apr,48
+5,Epcot,2025,crowd_by_month,May,48
+5,Epcot,2025,crowd_by_month,Jun,31
+5,Epcot,2025,crowd_by_month,Jul,28
+5,Epcot,2025,crowd_by_month,Aug,28
+5,Epcot,2025,crowd_by_month,Sep,41
+5,Epcot,2025,crowd_by_month,Oct,49
+5,Epcot,2025,crowd_by_month,Nov,53
+5,Epcot,2025,crowd_by_month,Dec,56
+5,Epcot,2025,crowd_by_day,Sun,47
+5,Epcot,2025,crowd_by_day,Mon,58
+5,Epcot,2025,crowd_by_day,Tue,41
+5,Epcot,2025,crowd_by_day,Wed,36
+5,Epcot,2025,crowd_by_day,Thu,45
+5,Epcot,2025,crowd_by_day,Fri,54
+5,Epcot,2025,crowd_by_day,Sat,57
+5,Epcot,2025,crowd_by_event,🎨 Festival of the Arts,69
+5,Epcot,2025,crowd_by_event,🌙 Extended Evening,58
+5,Epcot,2025,crowd_by_event,🌸 Flower and Garden Festival,55
+5,Epcot,2025,crowd_by_event,🎄 Festival of the Holidays,54
+5,Epcot,2025,crowd_by_event,⏰ Early Entry,48
+5,Epcot,2025,crowd_by_event,🍷 Food and Wine Festival,47
+5,Epcot,2025,crowd_by_event,🎟️ Special Ticketed Event,37
+5,Epcot,2025,crowd_by_date,"December 31, 2025",99
+5,Epcot,2025,crowd_by_date,"January 03, 2025",99
+5,Epcot,2025,crowd_by_date,"January 04, 2025",98
+5,Epcot,2025,crowd_by_date,"January 02, 2025",98
+5,Epcot,2025,crowd_by_date,"December 30, 2025",97
+5,Epcot,2025,crowd_by_date,"October 10, 2025",95
+5,Epcot,2025,crowd_by_date,"December 28, 2025",95
+5,Epcot,2025,crowd_by_date,"January 06, 2025",95
+5,Epcot,2025,crowd_by_date,"October 12, 2025",95
+5,Epcot,2025,crowd_by_date,"December 29, 2025",94
+5,Epcot,2025,crowd_by_date,"July 06, 2025",2
+5,Epcot,2025,crowd_by_date,"October 29, 2025",2
+5,Epcot,2025,crowd_by_date,"August 27, 2025",3
+5,Epcot,2025,crowd_by_date,"June 15, 2025",3
+5,Epcot,2025,crowd_by_date,"October 22, 2025",3
+5,Epcot,2025,crowd_by_date,"July 02, 2025",3
+5,Epcot,2025,crowd_by_date,"June 14, 2025",4
+5,Epcot,2025,crowd_by_date,"July 05, 2025",4
+5,Epcot,2025,crowd_by_date,"October 01, 2025",4
+5,Epcot,2025,crowd_by_date,"September 03, 2025",5
+5,Epcot,2026,crowd_by_month,Jan,47
+5,Epcot,2026,crowd_by_month,Feb,66
+5,Epcot,2026,crowd_by_month,Mar,74
+5,Epcot,2026,crowd_by_month,Apr,61
+5,Epcot,2026,crowd_by_month,May,54
+5,Epcot,2026,crowd_by_month,Jun,45
+5,Epcot,2026,crowd_by_month,Jul,35
+5,Epcot,2026,crowd_by_month,Aug,35
+5,Epcot,2026,crowd_by_month,Sep,21
+5,Epcot,2026,crowd_by_day,Sun,47
+5,Epcot,2026,crowd_by_day,Mon,62
+5,Epcot,2026,crowd_by_day,Tue,48
+5,Epcot,2026,crowd_by_day,Wed,44
+5,Epcot,2026,crowd_by_day,Thu,51
+5,Epcot,2026,crowd_by_day,Fri,53
+5,Epcot,2026,crowd_by_day,Sat,56
+5,Epcot,2026,crowd_by_event,🎨 Festival of the Arts,65
+5,Epcot,2026,crowd_by_event,🌸 Flower and Garden Festival,64
+5,Epcot,2026,crowd_by_event,🌙 Extended Evening,61
+5,Epcot,2026,crowd_by_event,🎟️ Special Ticketed Event,55
+5,Epcot,2026,crowd_by_event,⏰ Early Entry,51
+5,Epcot,2026,crowd_by_event,🍷 Food and Wine Festival,21
+5,Epcot,2026,crowd_by_date,"March 18, 2026",97
+5,Epcot,2026,crowd_by_date,"March 17, 2026",95
+5,Epcot,2026,crowd_by_date,"April 07, 2026",94
+5,Epcot,2026,crowd_by_date,"March 19, 2026",94
+5,Epcot,2026,crowd_by_date,"April 08, 2026",94
+5,Epcot,2026,crowd_by_date,"February 15, 2026",93
+5,Epcot,2026,crowd_by_date,"February 16, 2026",93
+5,Epcot,2026,crowd_by_date,"April 06, 2026",93
+5,Epcot,2026,crowd_by_date,"February 23, 2026",93
+5,Epcot,2026,crowd_by_date,"March 23, 2026",91
+5,Epcot,2026,crowd_by_date,"September 06, 2026",2
+5,Epcot,2026,crowd_by_date,"September 02, 2026",3
+5,Epcot,2026,crowd_by_date,"September 01, 2026",5
+5,Epcot,2026,crowd_by_date,"August 26, 2026",6
+5,Epcot,2026,crowd_by_date,"July 19, 2026",7
+5,Epcot,2026,crowd_by_date,"August 30, 2026",7
+5,Epcot,2026,crowd_by_date,"July 05, 2026",8
+5,Epcot,2026,crowd_by_date,"September 03, 2026",9
+5,Epcot,2026,crowd_by_date,"July 06, 2026",10
+5,Epcot,2026,crowd_by_date,"January 13, 2026",10
+6,Magic Kingdom,all_time,crowd_by_month,Jan,56
+6,Magic Kingdom,all_time,crowd_by_month,Feb,65
+6,Magic Kingdom,all_time,crowd_by_month,Mar,69
+6,Magic Kingdom,all_time,crowd_by_month,Apr,59
+6,Magic Kingdom,all_time,crowd_by_month,May,47
+6,Magic Kingdom,all_time,crowd_by_month,Jun,54
+6,Magic Kingdom,all_time,crowd_by_month,Jul,54
+6,Magic Kingdom,all_time,crowd_by_month,Aug,43
+6,Magic Kingdom,all_time,crowd_by_month,Sep,28
+6,Magic Kingdom,all_time,crowd_by_month,Oct,46
+6,Magic Kingdom,all_time,crowd_by_month,Nov,53
+6,Magic Kingdom,all_time,crowd_by_month,Dec,59
+6,Magic Kingdom,all_time,crowd_by_day,Sun,44
+6,Magic Kingdom,all_time,crowd_by_day,Mon,60
+6,Magic Kingdom,all_time,crowd_by_day,Tue,52
+6,Magic Kingdom,all_time,crowd_by_day,Wed,57
+6,Magic Kingdom,all_time,crowd_by_day,Thu,49
+6,Magic Kingdom,all_time,crowd_by_day,Fri,49
+6,Magic Kingdom,all_time,crowd_by_day,Sat,58
+6,Magic Kingdom,all_time,crowd_by_year,2014,7
+6,Magic Kingdom,all_time,crowd_by_year,2015,41
+6,Magic Kingdom,all_time,crowd_by_year,2016,51
+6,Magic Kingdom,all_time,crowd_by_year,2017,66
+6,Magic Kingdom,all_time,crowd_by_year,2018,66
+6,Magic Kingdom,all_time,crowd_by_year,2019,67
+6,Magic Kingdom,all_time,crowd_by_year,2020,51
+6,Magic Kingdom,all_time,crowd_by_year,2021,55
+6,Magic Kingdom,all_time,crowd_by_year,2022,70
+6,Magic Kingdom,all_time,crowd_by_year,2023,58
+6,Magic Kingdom,all_time,crowd_by_year,2024,46
+6,Magic Kingdom,all_time,crowd_by_year,2025,35
+6,Magic Kingdom,all_time,crowd_by_year,2026,33
+6,Magic Kingdom,all_time,crowd_by_event,🌙 Extended Evening,59
+6,Magic Kingdom,all_time,crowd_by_event,⏰ Early Entry,49
+6,Magic Kingdom,all_time,crowd_by_event,🎟️ Special Ticketed Event,25
+6,Magic Kingdom,all_time,crowd_by_date,"January 02, 2019",100
+6,Magic Kingdom,all_time,crowd_by_date,"January 03, 2019",99
+6,Magic Kingdom,all_time,crowd_by_date,"December 20, 2017",99
+6,Magic Kingdom,all_time,crowd_by_date,"December 27, 2018",99
+6,Magic Kingdom,all_time,crowd_by_date,"April 04, 2018",99
+6,Magic Kingdom,all_time,crowd_by_date,"December 18, 2017",99
+6,Magic Kingdom,all_time,crowd_by_date,"March 13, 2019",99
+6,Magic Kingdom,all_time,crowd_by_date,"December 27, 2017",99
+6,Magic Kingdom,all_time,crowd_by_date,"March 13, 2018",99
+6,Magic Kingdom,all_time,crowd_by_date,"November 25, 2019",99
+6,Magic Kingdom,all_time,crowd_by_date,"September 14, 2014",0
+6,Magic Kingdom,all_time,crowd_by_date,"September 12, 2014",0
+6,Magic Kingdom,all_time,crowd_by_date,"September 10, 2017",0
+6,Magic Kingdom,all_time,crowd_by_date,"September 16, 2014",0
+6,Magic Kingdom,all_time,crowd_by_date,"November 25, 2014",0
+6,Magic Kingdom,all_time,crowd_by_date,"January 12, 2015",0
+6,Magic Kingdom,all_time,crowd_by_date,"September 21, 2014",0
+6,Magic Kingdom,all_time,crowd_by_date,"September 19, 2014",0
+6,Magic Kingdom,all_time,crowd_by_date,"September 23, 2014",0
+6,Magic Kingdom,all_time,crowd_by_date,"December 11, 2014",0
+6,Magic Kingdom,2015,crowd_by_month,Jan,10
+6,Magic Kingdom,2015,crowd_by_month,Feb,36
+6,Magic Kingdom,2015,crowd_by_month,Mar,48
+6,Magic Kingdom,2015,crowd_by_month,Apr,46
+6,Magic Kingdom,2015,crowd_by_month,May,38
+6,Magic Kingdom,2015,crowd_by_month,Jun,44
+6,Magic Kingdom,2015,crowd_by_month,Jul,52
+6,Magic Kingdom,2015,crowd_by_month,Aug,47
+6,Magic Kingdom,2015,crowd_by_month,Sep,29
+6,Magic Kingdom,2015,crowd_by_month,Oct,93
+6,Magic Kingdom,2015,crowd_by_month,Nov,22
+6,Magic Kingdom,2015,crowd_by_month,Dec,62
+6,Magic Kingdom,2015,crowd_by_day,Sun,29
+6,Magic Kingdom,2015,crowd_by_day,Mon,43
+6,Magic Kingdom,2015,crowd_by_day,Tue,45
+6,Magic Kingdom,2015,crowd_by_day,Wed,41
+6,Magic Kingdom,2015,crowd_by_day,Thu,43
+6,Magic Kingdom,2015,crowd_by_day,Fri,38
+6,Magic Kingdom,2015,crowd_by_day,Sat,46
+6,Magic Kingdom,2015,crowd_by_date,"December 29, 2015",98
+6,Magic Kingdom,2015,crowd_by_date,"December 30, 2015",98
+6,Magic Kingdom,2015,crowd_by_date,"April 07, 2015",96
+6,Magic Kingdom,2015,crowd_by_date,"December 28, 2015",95
+6,Magic Kingdom,2015,crowd_by_date,"March 30, 2015",93
+6,Magic Kingdom,2015,crowd_by_date,"October 10, 2015",93
+6,Magic Kingdom,2015,crowd_by_date,"April 08, 2015",91
+6,Magic Kingdom,2015,crowd_by_date,"December 25, 2015",88
+6,Magic Kingdom,2015,crowd_by_date,"March 24, 2015",88
+6,Magic Kingdom,2015,crowd_by_date,"March 31, 2015",87
+6,Magic Kingdom,2015,crowd_by_date,"January 12, 2015",0
+6,Magic Kingdom,2015,crowd_by_date,"January 11, 2015",0
+6,Magic Kingdom,2015,crowd_by_date,"January 21, 2015",0
+6,Magic Kingdom,2015,crowd_by_date,"January 23, 2015",0
+6,Magic Kingdom,2015,crowd_by_date,"January 15, 2015",0
+6,Magic Kingdom,2015,crowd_by_date,"January 13, 2015",0
+6,Magic Kingdom,2015,crowd_by_date,"January 09, 2015",0
+6,Magic Kingdom,2015,crowd_by_date,"January 14, 2015",1
+6,Magic Kingdom,2015,crowd_by_date,"January 26, 2015",1
+6,Magic Kingdom,2015,crowd_by_date,"January 08, 2015",2
+6,Magic Kingdom,2016,crowd_by_month,Jan,34
+6,Magic Kingdom,2016,crowd_by_month,Feb,50
+6,Magic Kingdom,2016,crowd_by_month,Mar,63
+6,Magic Kingdom,2016,crowd_by_month,Apr,53
+6,Magic Kingdom,2016,crowd_by_month,May,45
+6,Magic Kingdom,2016,crowd_by_month,Jun,56
+6,Magic Kingdom,2016,crowd_by_month,Jul,52
+6,Magic Kingdom,2016,crowd_by_month,Aug,45
+6,Magic Kingdom,2016,crowd_by_month,Sep,27
+6,Magic Kingdom,2016,crowd_by_month,Oct,53
+6,Magic Kingdom,2016,crowd_by_month,Nov,64
+6,Magic Kingdom,2016,crowd_by_month,Dec,66
+6,Magic Kingdom,2016,crowd_by_day,Sun,45
+6,Magic Kingdom,2016,crowd_by_day,Mon,61
+6,Magic Kingdom,2016,crowd_by_day,Tue,50
+6,Magic Kingdom,2016,crowd_by_day,Wed,54
+6,Magic Kingdom,2016,crowd_by_day,Thu,42
+6,Magic Kingdom,2016,crowd_by_day,Fri,43
+6,Magic Kingdom,2016,crowd_by_day,Sat,60
+6,Magic Kingdom,2016,crowd_by_date,"March 30, 2016",99
+6,Magic Kingdom,2016,crowd_by_date,"December 28, 2016",99
+6,Magic Kingdom,2016,crowd_by_date,"December 31, 2016",98
+6,Magic Kingdom,2016,crowd_by_date,"March 29, 2016",97
+6,Magic Kingdom,2016,crowd_by_date,"December 27, 2016",97
+6,Magic Kingdom,2016,crowd_by_date,"November 12, 2016",96
+6,Magic Kingdom,2016,crowd_by_date,"March 21, 2016",96
+6,Magic Kingdom,2016,crowd_by_date,"December 30, 2016",96
+6,Magic Kingdom,2016,crowd_by_date,"December 25, 2016",96
+6,Magic Kingdom,2016,crowd_by_date,"March 23, 2016",95
+6,Magic Kingdom,2016,crowd_by_date,"May 04, 2016",1
+6,Magic Kingdom,2016,crowd_by_date,"January 27, 2016",2
+6,Magic Kingdom,2016,crowd_by_date,"September 08, 2016",4
+6,Magic Kingdom,2016,crowd_by_date,"September 16, 2016",4
+6,Magic Kingdom,2016,crowd_by_date,"September 13, 2016",5
+6,Magic Kingdom,2016,crowd_by_date,"January 15, 2016",5
+6,Magic Kingdom,2016,crowd_by_date,"October 06, 2016",5
+6,Magic Kingdom,2016,crowd_by_date,"January 28, 2016",6
+6,Magic Kingdom,2016,crowd_by_date,"January 03, 2016",7
+6,Magic Kingdom,2016,crowd_by_date,"February 24, 2016",7
+6,Magic Kingdom,2017,crowd_by_month,Jan,54
+6,Magic Kingdom,2017,crowd_by_month,Feb,61
+6,Magic Kingdom,2017,crowd_by_month,Mar,83
+6,Magic Kingdom,2017,crowd_by_month,Apr,73
+6,Magic Kingdom,2017,crowd_by_month,May,64
+6,Magic Kingdom,2017,crowd_by_month,Jun,71
+6,Magic Kingdom,2017,crowd_by_month,Jul,73
+6,Magic Kingdom,2017,crowd_by_month,Aug,70
+6,Magic Kingdom,2017,crowd_by_month,Sep,40
+6,Magic Kingdom,2017,crowd_by_month,Oct,60
+6,Magic Kingdom,2017,crowd_by_month,Nov,66
+6,Magic Kingdom,2017,crowd_by_month,Dec,74
+6,Magic Kingdom,2017,crowd_by_day,Sun,58
+6,Magic Kingdom,2017,crowd_by_day,Mon,75
+6,Magic Kingdom,2017,crowd_by_day,Tue,62
+6,Magic Kingdom,2017,crowd_by_day,Wed,70
+6,Magic Kingdom,2017,crowd_by_day,Thu,58
+6,Magic Kingdom,2017,crowd_by_day,Fri,62
+6,Magic Kingdom,2017,crowd_by_day,Sat,77
+6,Magic Kingdom,2017,crowd_by_date,"December 20, 2017",99
+6,Magic Kingdom,2017,crowd_by_date,"December 18, 2017",99
+6,Magic Kingdom,2017,crowd_by_date,"December 27, 2017",99
+6,Magic Kingdom,2017,crowd_by_date,"December 31, 2017",99
+6,Magic Kingdom,2017,crowd_by_date,"December 25, 2017",99
+6,Magic Kingdom,2017,crowd_by_date,"December 28, 2017",99
+6,Magic Kingdom,2017,crowd_by_date,"November 20, 2017",99
+6,Magic Kingdom,2017,crowd_by_date,"October 11, 2017",99
+6,Magic Kingdom,2017,crowd_by_date,"November 22, 2017",99
+6,Magic Kingdom,2017,crowd_by_date,"May 06, 2017",98
+6,Magic Kingdom,2017,crowd_by_date,"September 10, 2017",0
+6,Magic Kingdom,2017,crowd_by_date,"September 09, 2017",2
+6,Magic Kingdom,2017,crowd_by_date,"September 12, 2017",4
+6,Magic Kingdom,2017,crowd_by_date,"September 07, 2017",7
+6,Magic Kingdom,2017,crowd_by_date,"September 08, 2017",8
+6,Magic Kingdom,2017,crowd_by_date,"November 30, 2017",8
+6,Magic Kingdom,2017,crowd_by_date,"September 13, 2017",8
+6,Magic Kingdom,2017,crowd_by_date,"January 29, 2017",12
+6,Magic Kingdom,2017,crowd_by_date,"September 15, 2017",12
+6,Magic Kingdom,2017,crowd_by_date,"September 14, 2017",13
+6,Magic Kingdom,2018,crowd_by_month,Jan,76
+6,Magic Kingdom,2018,crowd_by_month,Feb,80
+6,Magic Kingdom,2018,crowd_by_month,Mar,87
+6,Magic Kingdom,2018,crowd_by_month,Apr,63
+6,Magic Kingdom,2018,crowd_by_month,May,59
+6,Magic Kingdom,2018,crowd_by_month,Jun,81
+6,Magic Kingdom,2018,crowd_by_month,Jul,69
+6,Magic Kingdom,2018,crowd_by_month,Aug,53
+6,Magic Kingdom,2018,crowd_by_month,Sep,28
+6,Magic Kingdom,2018,crowd_by_month,Oct,55
+6,Magic Kingdom,2018,crowd_by_month,Nov,70
+6,Magic Kingdom,2018,crowd_by_month,Dec,72
+6,Magic Kingdom,2018,crowd_by_day,Sun,57
+6,Magic Kingdom,2018,crowd_by_day,Mon,70
+6,Magic Kingdom,2018,crowd_by_day,Tue,62
+6,Magic Kingdom,2018,crowd_by_day,Wed,73
+6,Magic Kingdom,2018,crowd_by_day,Thu,59
+6,Magic Kingdom,2018,crowd_by_day,Fri,63
+6,Magic Kingdom,2018,crowd_by_day,Sat,78
+6,Magic Kingdom,2018,crowd_by_date,"December 27, 2018",99
+6,Magic Kingdom,2018,crowd_by_date,"April 04, 2018",99
+6,Magic Kingdom,2018,crowd_by_date,"March 13, 2018",99
+6,Magic Kingdom,2018,crowd_by_date,"April 03, 2018",99
+6,Magic Kingdom,2018,crowd_by_date,"March 27, 2018",99
+6,Magic Kingdom,2018,crowd_by_date,"April 05, 2018",99
+6,Magic Kingdom,2018,crowd_by_date,"December 25, 2018",99
+6,Magic Kingdom,2018,crowd_by_date,"March 28, 2018",99
+6,Magic Kingdom,2018,crowd_by_date,"March 14, 2018",99
+6,Magic Kingdom,2018,crowd_by_date,"March 03, 2018",99
+6,Magic Kingdom,2018,crowd_by_date,"December 20, 2018",2
+6,Magic Kingdom,2018,crowd_by_date,"September 07, 2018",4
+6,Magic Kingdom,2018,crowd_by_date,"September 11, 2018",5
+6,Magic Kingdom,2018,crowd_by_date,"September 09, 2018",7
+6,Magic Kingdom,2018,crowd_by_date,"September 25, 2018",8
+6,Magic Kingdom,2018,crowd_by_date,"April 10, 2018",8
+6,Magic Kingdom,2018,crowd_by_date,"September 06, 2018",9
+6,Magic Kingdom,2018,crowd_by_date,"August 31, 2018",9
+6,Magic Kingdom,2018,crowd_by_date,"October 02, 2018",9
+6,Magic Kingdom,2018,crowd_by_date,"September 18, 2018",10
+6,Magic Kingdom,2019,crowd_by_month,Jan,71
+6,Magic Kingdom,2019,crowd_by_month,Feb,79
+6,Magic Kingdom,2019,crowd_by_month,Mar,92
+6,Magic Kingdom,2019,crowd_by_month,Apr,74
+6,Magic Kingdom,2019,crowd_by_month,May,66
+6,Magic Kingdom,2019,crowd_by_month,Jun,73
+6,Magic Kingdom,2019,crowd_by_month,Jul,78
+6,Magic Kingdom,2019,crowd_by_month,Aug,64
+6,Magic Kingdom,2019,crowd_by_month,Sep,26
+6,Magic Kingdom,2019,crowd_by_month,Oct,46
+6,Magic Kingdom,2019,crowd_by_month,Nov,67
+6,Magic Kingdom,2019,crowd_by_month,Dec,65
+6,Magic Kingdom,2019,crowd_by_day,Sun,60
+6,Magic Kingdom,2019,crowd_by_day,Mon,75
+6,Magic Kingdom,2019,crowd_by_day,Tue,61
+6,Magic Kingdom,2019,crowd_by_day,Wed,75
+6,Magic Kingdom,2019,crowd_by_day,Thu,61
+6,Magic Kingdom,2019,crowd_by_day,Fri,59
+6,Magic Kingdom,2019,crowd_by_day,Sat,75
+6,Magic Kingdom,2019,crowd_by_date,"January 02, 2019",100
+6,Magic Kingdom,2019,crowd_by_date,"January 03, 2019",99
+6,Magic Kingdom,2019,crowd_by_date,"March 13, 2019",99
+6,Magic Kingdom,2019,crowd_by_date,"November 25, 2019",99
+6,Magic Kingdom,2019,crowd_by_date,"January 04, 2019",99
+6,Magic Kingdom,2019,crowd_by_date,"March 28, 2019",99
+6,Magic Kingdom,2019,crowd_by_date,"December 31, 2019",99
+6,Magic Kingdom,2019,crowd_by_date,"March 12, 2019",99
+6,Magic Kingdom,2019,crowd_by_date,"March 25, 2019",99
+6,Magic Kingdom,2019,crowd_by_date,"March 21, 2019",99
+6,Magic Kingdom,2019,crowd_by_date,"September 04, 2019",1
+6,Magic Kingdom,2019,crowd_by_date,"September 06, 2019",1
+6,Magic Kingdom,2019,crowd_by_date,"September 03, 2019",1
+6,Magic Kingdom,2019,crowd_by_date,"September 05, 2019",2
+6,Magic Kingdom,2019,crowd_by_date,"September 02, 2019",2
+6,Magic Kingdom,2019,crowd_by_date,"September 10, 2019",3
+6,Magic Kingdom,2019,crowd_by_date,"October 29, 2019",3
+6,Magic Kingdom,2019,crowd_by_date,"January 27, 2019",4
+6,Magic Kingdom,2019,crowd_by_date,"August 30, 2019",4
+6,Magic Kingdom,2019,crowd_by_date,"September 13, 2019",5
+6,Magic Kingdom,2020,crowd_by_month,Jan,80
+6,Magic Kingdom,2020,crowd_by_month,Feb,89
+6,Magic Kingdom,2020,crowd_by_month,Mar,70
+6,Magic Kingdom,2020,crowd_by_month,Jul,5
+6,Magic Kingdom,2020,crowd_by_month,Aug,10
+6,Magic Kingdom,2020,crowd_by_month,Sep,36
+6,Magic Kingdom,2020,crowd_by_month,Oct,56
+6,Magic Kingdom,2020,crowd_by_month,Nov,47
+6,Magic Kingdom,2020,crowd_by_month,Dec,59
+6,Magic Kingdom,2020,crowd_by_day,Sun,55
+6,Magic Kingdom,2020,crowd_by_day,Mon,54
+6,Magic Kingdom,2020,crowd_by_day,Tue,49
+6,Magic Kingdom,2020,crowd_by_day,Wed,42
+6,Magic Kingdom,2020,crowd_by_day,Thu,44
+6,Magic Kingdom,2020,crowd_by_day,Fri,55
+6,Magic Kingdom,2020,crowd_by_day,Sat,60
+6,Magic Kingdom,2020,crowd_by_date,"January 02, 2020",99
+6,Magic Kingdom,2020,crowd_by_date,"February 15, 2020",98
+6,Magic Kingdom,2020,crowd_by_date,"January 05, 2020",98
+6,Magic Kingdom,2020,crowd_by_date,"February 18, 2020",98
+6,Magic Kingdom,2020,crowd_by_date,"February 24, 2020",98
+6,Magic Kingdom,2020,crowd_by_date,"January 03, 2020",98
+6,Magic Kingdom,2020,crowd_by_date,"February 19, 2020",97
+6,Magic Kingdom,2020,crowd_by_date,"January 25, 2020",97
+6,Magic Kingdom,2020,crowd_by_date,"February 17, 2020",97
+6,Magic Kingdom,2020,crowd_by_date,"February 27, 2020",97
+6,Magic Kingdom,2020,crowd_by_date,"July 15, 2020",0
+6,Magic Kingdom,2020,crowd_by_date,"July 16, 2020",0
+6,Magic Kingdom,2020,crowd_by_date,"July 21, 2020",1
+6,Magic Kingdom,2020,crowd_by_date,"August 31, 2020",1
+6,Magic Kingdom,2020,crowd_by_date,"August 02, 2020",1
+6,Magic Kingdom,2020,crowd_by_date,"July 17, 2020",1
+6,Magic Kingdom,2020,crowd_by_date,"July 12, 2020",1
+6,Magic Kingdom,2020,crowd_by_date,"July 13, 2020",1
+6,Magic Kingdom,2020,crowd_by_date,"July 14, 2020",1
+6,Magic Kingdom,2020,crowd_by_date,"July 19, 2020",2
+6,Magic Kingdom,2021,crowd_by_month,Jan,44
+6,Magic Kingdom,2021,crowd_by_month,Feb,61
+6,Magic Kingdom,2021,crowd_by_month,Mar,66
+6,Magic Kingdom,2021,crowd_by_month,Apr,59
+6,Magic Kingdom,2021,crowd_by_month,May,42
+6,Magic Kingdom,2021,crowd_by_month,Jun,39
+6,Magic Kingdom,2021,crowd_by_month,Jul,76
+6,Magic Kingdom,2021,crowd_by_month,Aug,41
+6,Magic Kingdom,2021,crowd_by_month,Sep,19
+6,Magic Kingdom,2021,crowd_by_month,Oct,56
+6,Magic Kingdom,2021,crowd_by_month,Nov,73
+6,Magic Kingdom,2021,crowd_by_month,Dec,79
+6,Magic Kingdom,2021,crowd_by_day,Sun,52
+6,Magic Kingdom,2021,crowd_by_day,Mon,62
+6,Magic Kingdom,2021,crowd_by_day,Tue,57
+6,Magic Kingdom,2021,crowd_by_day,Wed,51
+6,Magic Kingdom,2021,crowd_by_day,Thu,51
+6,Magic Kingdom,2021,crowd_by_day,Fri,52
+6,Magic Kingdom,2021,crowd_by_day,Sat,57
+6,Magic Kingdom,2021,crowd_by_date,"July 27, 2021",98
+6,Magic Kingdom,2021,crowd_by_date,"July 19, 2021",98
+6,Magic Kingdom,2021,crowd_by_date,"July 29, 2021",98
+6,Magic Kingdom,2021,crowd_by_date,"November 22, 2021",97
+6,Magic Kingdom,2021,crowd_by_date,"July 28, 2021",97
+6,Magic Kingdom,2021,crowd_by_date,"July 21, 2021",97
+6,Magic Kingdom,2021,crowd_by_date,"August 02, 2021",96
+6,Magic Kingdom,2021,crowd_by_date,"October 11, 2021",96
+6,Magic Kingdom,2021,crowd_by_date,"July 22, 2021",95
+6,Magic Kingdom,2021,crowd_by_date,"July 26, 2021",95
+6,Magic Kingdom,2021,crowd_by_date,"September 01, 2021",0
+6,Magic Kingdom,2021,crowd_by_date,"August 31, 2021",1
+6,Magic Kingdom,2021,crowd_by_date,"September 30, 2021",2
+6,Magic Kingdom,2021,crowd_by_date,"September 02, 2021",2
+6,Magic Kingdom,2021,crowd_by_date,"August 29, 2021",3
+6,Magic Kingdom,2021,crowd_by_date,"September 08, 2021",4
+6,Magic Kingdom,2021,crowd_by_date,"September 29, 2021",4
+6,Magic Kingdom,2021,crowd_by_date,"August 14, 2021",4
+6,Magic Kingdom,2021,crowd_by_date,"August 26, 2021",4
+6,Magic Kingdom,2021,crowd_by_date,"September 15, 2021",5
+6,Magic Kingdom,2022,crowd_by_month,Jan,81
+6,Magic Kingdom,2022,crowd_by_month,Feb,89
+6,Magic Kingdom,2022,crowd_by_month,Mar,90
+6,Magic Kingdom,2022,crowd_by_month,Apr,81
+6,Magic Kingdom,2022,crowd_by_month,May,61
+6,Magic Kingdom,2022,crowd_by_month,Jun,76
+6,Magic Kingdom,2022,crowd_by_month,Jul,72
+6,Magic Kingdom,2022,crowd_by_month,Aug,55
+6,Magic Kingdom,2022,crowd_by_month,Sep,41
+6,Magic Kingdom,2022,crowd_by_month,Oct,65
+6,Magic Kingdom,2022,crowd_by_month,Nov,64
+6,Magic Kingdom,2022,crowd_by_month,Dec,62
+6,Magic Kingdom,2022,crowd_by_day,Sun,64
+6,Magic Kingdom,2022,crowd_by_day,Mon,82
+6,Magic Kingdom,2022,crowd_by_day,Tue,65
+6,Magic Kingdom,2022,crowd_by_day,Wed,78
+6,Magic Kingdom,2022,crowd_by_day,Thu,66
+6,Magic Kingdom,2022,crowd_by_day,Fri,60
+6,Magic Kingdom,2022,crowd_by_day,Sat,72
+6,Magic Kingdom,2022,crowd_by_event,🌙 Extended Evening,79
+6,Magic Kingdom,2022,crowd_by_event,⏰ Early Entry,70
+6,Magic Kingdom,2022,crowd_by_event,🎟️ Special Ticketed Event,34
+6,Magic Kingdom,2022,crowd_by_date,"February 09, 2022",99
+6,Magic Kingdom,2022,crowd_by_date,"January 24, 2022",99
+6,Magic Kingdom,2022,crowd_by_date,"February 07, 2022",99
+6,Magic Kingdom,2022,crowd_by_date,"February 22, 2022",99
+6,Magic Kingdom,2022,crowd_by_date,"February 18, 2022",99
+6,Magic Kingdom,2022,crowd_by_date,"February 28, 2022",99
+6,Magic Kingdom,2022,crowd_by_date,"February 17, 2022",98
+6,Magic Kingdom,2022,crowd_by_date,"March 02, 2022",98
+6,Magic Kingdom,2022,crowd_by_date,"January 04, 2022",98
+6,Magic Kingdom,2022,crowd_by_date,"February 20, 2022",98
+6,Magic Kingdom,2022,crowd_by_date,"August 30, 2022",3
+6,Magic Kingdom,2022,crowd_by_date,"September 11, 2022",4
+6,Magic Kingdom,2022,crowd_by_date,"September 05, 2022",5
+6,Magic Kingdom,2022,crowd_by_date,"August 12, 2022",7
+6,Magic Kingdom,2022,crowd_by_date,"September 18, 2022",8
+6,Magic Kingdom,2022,crowd_by_date,"September 09, 2022",8
+6,Magic Kingdom,2022,crowd_by_date,"January 25, 2022",8
+6,Magic Kingdom,2022,crowd_by_date,"December 15, 2022",9
+6,Magic Kingdom,2022,crowd_by_date,"September 20, 2022",10
+6,Magic Kingdom,2022,crowd_by_date,"September 16, 2022",11
+6,Magic Kingdom,2023,crowd_by_month,Jan,63
+6,Magic Kingdom,2023,crowd_by_month,Feb,64
+6,Magic Kingdom,2023,crowd_by_month,Mar,69
+6,Magic Kingdom,2023,crowd_by_month,Apr,68
+6,Magic Kingdom,2023,crowd_by_month,May,45
+6,Magic Kingdom,2023,crowd_by_month,Jun,59
+6,Magic Kingdom,2023,crowd_by_month,Jul,63
+6,Magic Kingdom,2023,crowd_by_month,Aug,50
+6,Magic Kingdom,2023,crowd_by_month,Sep,38
+6,Magic Kingdom,2023,crowd_by_month,Oct,51
+6,Magic Kingdom,2023,crowd_by_month,Nov,58
+6,Magic Kingdom,2023,crowd_by_month,Dec,65
+6,Magic Kingdom,2023,crowd_by_day,Sun,42
+6,Magic Kingdom,2023,crowd_by_day,Mon,71
+6,Magic Kingdom,2023,crowd_by_day,Tue,59
+6,Magic Kingdom,2023,crowd_by_day,Wed,66
+6,Magic Kingdom,2023,crowd_by_day,Thu,54
+6,Magic Kingdom,2023,crowd_by_day,Fri,52
+6,Magic Kingdom,2023,crowd_by_day,Sat,59
+6,Magic Kingdom,2023,crowd_by_event,🌙 Extended Evening,64
+6,Magic Kingdom,2023,crowd_by_event,⏰ Early Entry,58
+6,Magic Kingdom,2023,crowd_by_event,🎟️ Special Ticketed Event,33
+6,Magic Kingdom,2023,crowd_by_date,"December 20, 2023",98
+6,Magic Kingdom,2023,crowd_by_date,"November 20, 2023",98
+6,Magic Kingdom,2023,crowd_by_date,"October 11, 2023",97
+6,Magic Kingdom,2023,crowd_by_date,"March 13, 2023",97
+6,Magic Kingdom,2023,crowd_by_date,"February 21, 2023",97
+6,Magic Kingdom,2023,crowd_by_date,"December 18, 2023",96
+6,Magic Kingdom,2023,crowd_by_date,"January 03, 2023",96
+6,Magic Kingdom,2023,crowd_by_date,"October 16, 2023",96
+6,Magic Kingdom,2023,crowd_by_date,"March 15, 2023",95
+6,Magic Kingdom,2023,crowd_by_date,"January 04, 2023",95
+6,Magic Kingdom,2023,crowd_by_date,"January 31, 2023",2
+6,Magic Kingdom,2023,crowd_by_date,"November 01, 2023",5
+6,Magic Kingdom,2023,crowd_by_date,"September 10, 2023",5
+6,Magic Kingdom,2023,crowd_by_date,"November 16, 2023",5
+6,Magic Kingdom,2023,crowd_by_date,"September 04, 2023",6
+6,Magic Kingdom,2023,crowd_by_date,"September 17, 2023",7
+6,Magic Kingdom,2023,crowd_by_date,"September 12, 2023",8
+6,Magic Kingdom,2023,crowd_by_date,"August 29, 2023",9
+6,Magic Kingdom,2023,crowd_by_date,"September 15, 2023",9
+6,Magic Kingdom,2023,crowd_by_date,"September 26, 2023",10
+6,Magic Kingdom,2024,crowd_by_month,Jan,64
+6,Magic Kingdom,2024,crowd_by_month,Feb,65
+6,Magic Kingdom,2024,crowd_by_month,Mar,64
+6,Magic Kingdom,2024,crowd_by_month,Apr,49
+6,Magic Kingdom,2024,crowd_by_month,May,44
+6,Magic Kingdom,2024,crowd_by_month,Jun,45
+6,Magic Kingdom,2024,crowd_by_month,Jul,39
+6,Magic Kingdom,2024,crowd_by_month,Aug,37
+6,Magic Kingdom,2024,crowd_by_month,Sep,29
+6,Magic Kingdom,2024,crowd_by_month,Oct,30
+6,Magic Kingdom,2024,crowd_by_month,Nov,36
+6,Magic Kingdom,2024,crowd_by_month,Dec,46
+6,Magic Kingdom,2024,crowd_by_day,Sun,30
+6,Magic Kingdom,2024,crowd_by_day,Mon,51
+6,Magic Kingdom,2024,crowd_by_day,Tue,48
+6,Magic Kingdom,2024,crowd_by_day,Wed,57
+6,Magic Kingdom,2024,crowd_by_day,Thu,46
+6,Magic Kingdom,2024,crowd_by_day,Fri,39
+6,Magic Kingdom,2024,crowd_by_day,Sat,48
+6,Magic Kingdom,2024,crowd_by_event,🌙 Extended Evening,61
+6,Magic Kingdom,2024,crowd_by_event,⏰ Early Entry,46
+6,Magic Kingdom,2024,crowd_by_event,🎟️ Special Ticketed Event,21
+6,Magic Kingdom,2024,crowd_by_date,"February 20, 2024",99
+6,Magic Kingdom,2024,crowd_by_date,"April 04, 2024",98
+6,Magic Kingdom,2024,crowd_by_date,"January 02, 2024",98
+6,Magic Kingdom,2024,crowd_by_date,"January 03, 2024",98
+6,Magic Kingdom,2024,crowd_by_date,"March 25, 2024",97
+6,Magic Kingdom,2024,crowd_by_date,"March 27, 2024",97
+6,Magic Kingdom,2024,crowd_by_date,"April 02, 2024",97
+6,Magic Kingdom,2024,crowd_by_date,"March 12, 2024",96
+6,Magic Kingdom,2024,crowd_by_date,"March 29, 2024",96
+6,Magic Kingdom,2024,crowd_by_date,"February 21, 2024",95
+6,Magic Kingdom,2024,crowd_by_date,"October 09, 2024",1
+6,Magic Kingdom,2024,crowd_by_date,"October 29, 2024",3
+6,Magic Kingdom,2024,crowd_by_date,"November 22, 2024",4
+6,Magic Kingdom,2024,crowd_by_date,"October 08, 2024",4
+6,Magic Kingdom,2024,crowd_by_date,"September 26, 2024",4
+6,Magic Kingdom,2024,crowd_by_date,"September 29, 2024",5
+6,Magic Kingdom,2024,crowd_by_date,"December 19, 2024",6
+6,Magic Kingdom,2024,crowd_by_date,"October 01, 2024",6
+6,Magic Kingdom,2024,crowd_by_date,"October 25, 2024",7
+6,Magic Kingdom,2024,crowd_by_date,"October 31, 2024",7
+6,Magic Kingdom,2025,crowd_by_month,Jan,49
+6,Magic Kingdom,2025,crowd_by_month,Feb,51
+6,Magic Kingdom,2025,crowd_by_month,Mar,48
+6,Magic Kingdom,2025,crowd_by_month,Apr,43
+6,Magic Kingdom,2025,crowd_by_month,May,28
+6,Magic Kingdom,2025,crowd_by_month,Jun,28
+6,Magic Kingdom,2025,crowd_by_month,Jul,24
+6,Magic Kingdom,2025,crowd_by_month,Aug,23
+6,Magic Kingdom,2025,crowd_by_month,Sep,20
+6,Magic Kingdom,2025,crowd_by_month,Oct,31
+6,Magic Kingdom,2025,crowd_by_month,Nov,32
+6,Magic Kingdom,2025,crowd_by_month,Dec,44
+6,Magic Kingdom,2025,crowd_by_day,Sun,24
+6,Magic Kingdom,2025,crowd_by_day,Mon,39
+6,Magic Kingdom,2025,crowd_by_day,Tue,36
+6,Magic Kingdom,2025,crowd_by_day,Wed,41
+6,Magic Kingdom,2025,crowd_by_day,Thu,33
+6,Magic Kingdom,2025,crowd_by_day,Fri,32
+6,Magic Kingdom,2025,crowd_by_day,Sat,41
+6,Magic Kingdom,2025,crowd_by_event,🌙 Extended Evening,38
+6,Magic Kingdom,2025,crowd_by_event,⏰ Early Entry,35
+6,Magic Kingdom,2025,crowd_by_event,🎟️ Special Ticketed Event,17
+6,Magic Kingdom,2025,crowd_by_date,"October 15, 2025",95
+6,Magic Kingdom,2025,crowd_by_date,"January 02, 2025",94
+6,Magic Kingdom,2025,crowd_by_date,"December 29, 2025",94
+6,Magic Kingdom,2025,crowd_by_date,"February 18, 2025",89
+6,Magic Kingdom,2025,crowd_by_date,"October 08, 2025",88
+6,Magic Kingdom,2025,crowd_by_date,"January 04, 2025",87
+6,Magic Kingdom,2025,crowd_by_date,"January 24, 2025",86
+6,Magic Kingdom,2025,crowd_by_date,"January 03, 2025",86
+6,Magic Kingdom,2025,crowd_by_date,"November 12, 2025",86
+6,Magic Kingdom,2025,crowd_by_date,"December 30, 2025",86
+6,Magic Kingdom,2025,crowd_by_date,"August 29, 2025",2
+6,Magic Kingdom,2025,crowd_by_date,"August 26, 2025",3
+6,Magic Kingdom,2025,crowd_by_date,"August 24, 2025",3
+6,Magic Kingdom,2025,crowd_by_date,"September 02, 2025",3
+6,Magic Kingdom,2025,crowd_by_date,"September 05, 2025",3
+6,Magic Kingdom,2025,crowd_by_date,"September 30, 2025",4
+6,Magic Kingdom,2025,crowd_by_date,"November 21, 2025",4
+6,Magic Kingdom,2025,crowd_by_date,"September 09, 2025",5
+6,Magic Kingdom,2025,crowd_by_date,"December 07, 2025",5
+6,Magic Kingdom,2025,crowd_by_date,"October 28, 2025",5
+6,Magic Kingdom,2026,crowd_by_month,Jan,38
+6,Magic Kingdom,2026,crowd_by_month,Feb,47
+6,Magic Kingdom,2026,crowd_by_month,Mar,44
+6,Magic Kingdom,2026,crowd_by_month,Apr,41
+6,Magic Kingdom,2026,crowd_by_month,May,29
+6,Magic Kingdom,2026,crowd_by_month,Jun,26
+6,Magic Kingdom,2026,crowd_by_month,Jul,25
+6,Magic Kingdom,2026,crowd_by_month,Aug,20
+6,Magic Kingdom,2026,crowd_by_month,Sep,13
+6,Magic Kingdom,2026,crowd_by_day,Sun,23
+6,Magic Kingdom,2026,crowd_by_day,Mon,32
+6,Magic Kingdom,2026,crowd_by_day,Tue,38
+6,Magic Kingdom,2026,crowd_by_day,Wed,37
+6,Magic Kingdom,2026,crowd_by_day,Thu,35
+6,Magic Kingdom,2026,crowd_by_day,Fri,35
+6,Magic Kingdom,2026,crowd_by_day,Sat,31
+6,Magic Kingdom,2026,crowd_by_event,🌙 Extended Evening,39
+6,Magic Kingdom,2026,crowd_by_event,⏰ Early Entry,33
+6,Magic Kingdom,2026,crowd_by_event,🎟️ Special Ticketed Event,21
+6,Magic Kingdom,2026,crowd_by_date,"January 02, 2026",89
+6,Magic Kingdom,2026,crowd_by_date,"February 17, 2026",86
+6,Magic Kingdom,2026,crowd_by_date,"April 10, 2026",84
+6,Magic Kingdom,2026,crowd_by_date,"March 17, 2026",83
+6,Magic Kingdom,2026,crowd_by_date,"April 08, 2026",82
+6,Magic Kingdom,2026,crowd_by_date,"April 09, 2026",81
+6,Magic Kingdom,2026,crowd_by_date,"March 18, 2026",76
+6,Magic Kingdom,2026,crowd_by_date,"March 19, 2026",75
+6,Magic Kingdom,2026,crowd_by_date,"March 31, 2026",75
+6,Magic Kingdom,2026,crowd_by_date,"April 01, 2026",72
+6,Magic Kingdom,2026,crowd_by_date,"September 01, 2026",1
+6,Magic Kingdom,2026,crowd_by_date,"August 25, 2026",3
+6,Magic Kingdom,2026,crowd_by_date,"August 28, 2026",3
+6,Magic Kingdom,2026,crowd_by_date,"August 30, 2026",3
+6,Magic Kingdom,2026,crowd_by_date,"August 11, 2026",4
+6,Magic Kingdom,2026,crowd_by_date,"July 05, 2026",4
+6,Magic Kingdom,2026,crowd_by_date,"May 13, 2026",6
+6,Magic Kingdom,2026,crowd_by_date,"August 31, 2026",6
+6,Magic Kingdom,2026,crowd_by_date,"August 18, 2026",6
+6,Magic Kingdom,2026,crowd_by_date,"September 02, 2026",6
+7,Hollywood Studios,all_time,crowd_by_month,Jan,58
+7,Hollywood Studios,all_time,crowd_by_month,Feb,65
+7,Hollywood Studios,all_time,crowd_by_month,Mar,66
+7,Hollywood Studios,all_time,crowd_by_month,Apr,55
+7,Hollywood Studios,all_time,crowd_by_month,May,48
+7,Hollywood Studios,all_time,crowd_by_month,Jun,54
+7,Hollywood Studios,all_time,crowd_by_month,Jul,52
+7,Hollywood Studios,all_time,crowd_by_month,Aug,44
+7,Hollywood Studios,all_time,crowd_by_month,Sep,28
+7,Hollywood Studios,all_time,crowd_by_month,Oct,47
+7,Hollywood Studios,all_time,crowd_by_month,Nov,53
+7,Hollywood Studios,all_time,crowd_by_month,Dec,61
+7,Hollywood Studios,all_time,crowd_by_day,Sun,52
+7,Hollywood Studios,all_time,crowd_by_day,Mon,58
+7,Hollywood Studios,all_time,crowd_by_day,Tue,53
+7,Hollywood Studios,all_time,crowd_by_day,Wed,48
+7,Hollywood Studios,all_time,crowd_by_day,Thu,51
+7,Hollywood Studios,all_time,crowd_by_day,Fri,55
+7,Hollywood Studios,all_time,crowd_by_day,Sat,51
+7,Hollywood Studios,all_time,crowd_by_year,2014,13
+7,Hollywood Studios,all_time,crowd_by_year,2015,47
+7,Hollywood Studios,all_time,crowd_by_year,2016,49
+7,Hollywood Studios,all_time,crowd_by_year,2017,62
+7,Hollywood Studios,all_time,crowd_by_year,2018,66
+7,Hollywood Studios,all_time,crowd_by_year,2019,59
+7,Hollywood Studios,all_time,crowd_by_year,2020,57
+7,Hollywood Studios,all_time,crowd_by_year,2021,53
+7,Hollywood Studios,all_time,crowd_by_year,2022,76
+7,Hollywood Studios,all_time,crowd_by_year,2023,57
+7,Hollywood Studios,all_time,crowd_by_year,2024,45
+7,Hollywood Studios,all_time,crowd_by_year,2025,31
+7,Hollywood Studios,all_time,crowd_by_year,2026,33
+7,Hollywood Studios,all_time,crowd_by_event,⏰ Early Entry,49
+7,Hollywood Studios,all_time,crowd_by_event,🌙 Extended Evening,37
+7,Hollywood Studios,all_time,crowd_by_event,🎟️ Special Ticketed Event,35
+7,Hollywood Studios,all_time,crowd_by_date,"December 27, 2018",100
+7,Hollywood Studios,all_time,crowd_by_date,"December 28, 2018",99
+7,Hollywood Studios,all_time,crowd_by_date,"December 29, 2018",99
+7,Hollywood Studios,all_time,crowd_by_date,"December 30, 2018",99
+7,Hollywood Studios,all_time,crowd_by_date,"December 26, 2018",99
+7,Hollywood Studios,all_time,crowd_by_date,"November 20, 2018",99
+7,Hollywood Studios,all_time,crowd_by_date,"December 27, 2017",99
+7,Hollywood Studios,all_time,crowd_by_date,"November 19, 2018",99
+7,Hollywood Studios,all_time,crowd_by_date,"December 29, 2017",99
+7,Hollywood Studios,all_time,crowd_by_date,"November 21, 2018",99
+7,Hollywood Studios,all_time,crowd_by_date,"October 09, 2024",0
+7,Hollywood Studios,all_time,crowd_by_date,"October 07, 2014",0
+7,Hollywood Studios,all_time,crowd_by_date,"September 29, 2014",0
+7,Hollywood Studios,all_time,crowd_by_date,"September 22, 2014",0
+7,Hollywood Studios,all_time,crowd_by_date,"October 01, 2014",0
+7,Hollywood Studios,all_time,crowd_by_date,"September 11, 2014",0
+7,Hollywood Studios,all_time,crowd_by_date,"September 18, 2014",0
+7,Hollywood Studios,all_time,crowd_by_date,"November 20, 2014",0
+7,Hollywood Studios,all_time,crowd_by_date,"September 13, 2014",0
+7,Hollywood Studios,all_time,crowd_by_date,"September 15, 2014",0
+7,Hollywood Studios,2015,crowd_by_month,Jan,14
+7,Hollywood Studios,2015,crowd_by_month,Feb,42
+7,Hollywood Studios,2015,crowd_by_month,Mar,52
+7,Hollywood Studios,2015,crowd_by_month,Apr,34
+7,Hollywood Studios,2015,crowd_by_month,May,43
+7,Hollywood Studios,2015,crowd_by_month,Jun,65
+7,Hollywood Studios,2015,crowd_by_month,Jul,61
+7,Hollywood Studios,2015,crowd_by_month,Aug,55
+7,Hollywood Studios,2015,crowd_by_month,Sep,35
+7,Hollywood Studios,2015,crowd_by_month,Oct,79
+7,Hollywood Studios,2015,crowd_by_month,Nov,20
+7,Hollywood Studios,2015,crowd_by_month,Dec,79
+7,Hollywood Studios,2015,crowd_by_day,Sun,44
+7,Hollywood Studios,2015,crowd_by_day,Mon,61
+7,Hollywood Studios,2015,crowd_by_day,Tue,44
+7,Hollywood Studios,2015,crowd_by_day,Wed,43
+7,Hollywood Studios,2015,crowd_by_day,Thu,43
+7,Hollywood Studios,2015,crowd_by_day,Fri,43
+7,Hollywood Studios,2015,crowd_by_day,Sat,49
+7,Hollywood Studios,2015,crowd_by_date,"December 29, 2015",99
+7,Hollywood Studios,2015,crowd_by_date,"May 24, 2015",99
+7,Hollywood Studios,2015,crowd_by_date,"December 28, 2015",98
+7,Hollywood Studios,2015,crowd_by_date,"May 31, 2015",98
+7,Hollywood Studios,2015,crowd_by_date,"May 30, 2015",98
+7,Hollywood Studios,2015,crowd_by_date,"December 30, 2015",97
+7,Hollywood Studios,2015,crowd_by_date,"May 23, 2015",96
+7,Hollywood Studios,2015,crowd_by_date,"February 16, 2015",95
+7,Hollywood Studios,2015,crowd_by_date,"December 23, 2015",94
+7,Hollywood Studios,2015,crowd_by_date,"February 15, 2015",93
+7,Hollywood Studios,2015,crowd_by_date,"January 11, 2015",0
+7,Hollywood Studios,2015,crowd_by_date,"September 09, 2015",0
+7,Hollywood Studios,2015,crowd_by_date,"January 15, 2015",0
+7,Hollywood Studios,2015,crowd_by_date,"January 14, 2015",0
+7,Hollywood Studios,2015,crowd_by_date,"January 13, 2015",0
+7,Hollywood Studios,2015,crowd_by_date,"January 26, 2015",1
+7,Hollywood Studios,2015,crowd_by_date,"January 23, 2015",1
+7,Hollywood Studios,2015,crowd_by_date,"January 22, 2015",2
+7,Hollywood Studios,2015,crowd_by_date,"January 12, 2015",2
+7,Hollywood Studios,2015,crowd_by_date,"January 10, 2015",3
+7,Hollywood Studios,2016,crowd_by_month,Jan,49
+7,Hollywood Studios,2016,crowd_by_month,Feb,67
+7,Hollywood Studios,2016,crowd_by_month,Mar,68
+7,Hollywood Studios,2016,crowd_by_month,Apr,60
+7,Hollywood Studios,2016,crowd_by_month,May,43
+7,Hollywood Studios,2016,crowd_by_month,Jun,52
+7,Hollywood Studios,2016,crowd_by_month,Jul,45
+7,Hollywood Studios,2016,crowd_by_month,Aug,49
+7,Hollywood Studios,2016,crowd_by_month,Sep,15
+7,Hollywood Studios,2016,crowd_by_month,Oct,44
+7,Hollywood Studios,2016,crowd_by_month,Nov,47
+7,Hollywood Studios,2016,crowd_by_month,Dec,64
+7,Hollywood Studios,2016,crowd_by_day,Sun,55
+7,Hollywood Studios,2016,crowd_by_day,Mon,57
+7,Hollywood Studios,2016,crowd_by_day,Tue,44
+7,Hollywood Studios,2016,crowd_by_day,Wed,47
+7,Hollywood Studios,2016,crowd_by_day,Thu,41
+7,Hollywood Studios,2016,crowd_by_day,Fri,55
+7,Hollywood Studios,2016,crowd_by_day,Sat,48
+7,Hollywood Studios,2016,crowd_by_date,"December 28, 2016",99
+7,Hollywood Studios,2016,crowd_by_date,"December 30, 2016",99
+7,Hollywood Studios,2016,crowd_by_date,"December 27, 2016",99
+7,Hollywood Studios,2016,crowd_by_date,"December 29, 2016",99
+7,Hollywood Studios,2016,crowd_by_date,"April 06, 2016",99
+7,Hollywood Studios,2016,crowd_by_date,"March 22, 2016",98
+7,Hollywood Studios,2016,crowd_by_date,"March 30, 2016",98
+7,Hollywood Studios,2016,crowd_by_date,"March 29, 2016",97
+7,Hollywood Studios,2016,crowd_by_date,"March 15, 2016",97
+7,Hollywood Studios,2016,crowd_by_date,"March 21, 2016",97
+7,Hollywood Studios,2016,crowd_by_date,"September 07, 2016",0
+7,Hollywood Studios,2016,crowd_by_date,"September 08, 2016",2
+7,Hollywood Studios,2016,crowd_by_date,"November 01, 2016",2
+7,Hollywood Studios,2016,crowd_by_date,"September 06, 2016",2
+7,Hollywood Studios,2016,crowd_by_date,"October 06, 2016",3
+7,Hollywood Studios,2016,crowd_by_date,"September 14, 2016",3
+7,Hollywood Studios,2016,crowd_by_date,"November 03, 2016",3
+7,Hollywood Studios,2016,crowd_by_date,"January 27, 2016",3
+7,Hollywood Studios,2016,crowd_by_date,"September 21, 2016",3
+7,Hollywood Studios,2016,crowd_by_date,"September 15, 2016",3
+7,Hollywood Studios,2017,crowd_by_month,Jan,52
+7,Hollywood Studios,2017,crowd_by_month,Feb,51
+7,Hollywood Studios,2017,crowd_by_month,Mar,56
+7,Hollywood Studios,2017,crowd_by_month,Apr,50
+7,Hollywood Studios,2017,crowd_by_month,May,53
+7,Hollywood Studios,2017,crowd_by_month,Jun,70
+7,Hollywood Studios,2017,crowd_by_month,Jul,72
+7,Hollywood Studios,2017,crowd_by_month,Aug,71
+7,Hollywood Studios,2017,crowd_by_month,Sep,39
+7,Hollywood Studios,2017,crowd_by_month,Oct,71
+7,Hollywood Studios,2017,crowd_by_month,Nov,70
+7,Hollywood Studios,2017,crowd_by_month,Dec,82
+7,Hollywood Studios,2017,crowd_by_day,Sun,73
+7,Hollywood Studios,2017,crowd_by_day,Mon,69
+7,Hollywood Studios,2017,crowd_by_day,Tue,57
+7,Hollywood Studios,2017,crowd_by_day,Wed,50
+7,Hollywood Studios,2017,crowd_by_day,Thu,59
+7,Hollywood Studios,2017,crowd_by_day,Fri,60
+7,Hollywood Studios,2017,crowd_by_day,Sat,65
+7,Hollywood Studios,2017,crowd_by_date,"December 27, 2017",99
+7,Hollywood Studios,2017,crowd_by_date,"December 29, 2017",99
+7,Hollywood Studios,2017,crowd_by_date,"December 28, 2017",99
+7,Hollywood Studios,2017,crowd_by_date,"February 19, 2017",99
+7,Hollywood Studios,2017,crowd_by_date,"November 21, 2017",99
+7,Hollywood Studios,2017,crowd_by_date,"December 26, 2017",99
+7,Hollywood Studios,2017,crowd_by_date,"February 20, 2017",99
+7,Hollywood Studios,2017,crowd_by_date,"November 22, 2017",98
+7,Hollywood Studios,2017,crowd_by_date,"January 03, 2017",98
+7,Hollywood Studios,2017,crowd_by_date,"May 27, 2017",98
+7,Hollywood Studios,2017,crowd_by_date,"May 02, 2017",3
+7,Hollywood Studios,2017,crowd_by_date,"May 10, 2017",4
+7,Hollywood Studios,2017,crowd_by_date,"May 03, 2017",4
+7,Hollywood Studios,2017,crowd_by_date,"April 26, 2017",4
+7,Hollywood Studios,2017,crowd_by_date,"April 27, 2017",6
+7,Hollywood Studios,2017,crowd_by_date,"September 13, 2017",7
+7,Hollywood Studios,2017,crowd_by_date,"February 01, 2017",7
+7,Hollywood Studios,2017,crowd_by_date,"September 09, 2017",8
+7,Hollywood Studios,2017,crowd_by_date,"September 08, 2017",8
+7,Hollywood Studios,2017,crowd_by_date,"May 11, 2017",8
+7,Hollywood Studios,2018,crowd_by_month,Jan,84
+7,Hollywood Studios,2018,crowd_by_month,Feb,80
+7,Hollywood Studios,2018,crowd_by_month,Mar,84
+7,Hollywood Studios,2018,crowd_by_month,Apr,66
+7,Hollywood Studios,2018,crowd_by_month,May,62
+7,Hollywood Studios,2018,crowd_by_month,Jun,61
+7,Hollywood Studios,2018,crowd_by_month,Jul,59
+7,Hollywood Studios,2018,crowd_by_month,Aug,46
+7,Hollywood Studios,2018,crowd_by_month,Sep,34
+7,Hollywood Studios,2018,crowd_by_month,Oct,65
+7,Hollywood Studios,2018,crowd_by_month,Nov,72
+7,Hollywood Studios,2018,crowd_by_month,Dec,80
+7,Hollywood Studios,2018,crowd_by_day,Sun,73
+7,Hollywood Studios,2018,crowd_by_day,Mon,70
+7,Hollywood Studios,2018,crowd_by_day,Tue,61
+7,Hollywood Studios,2018,crowd_by_day,Wed,55
+7,Hollywood Studios,2018,crowd_by_day,Thu,59
+7,Hollywood Studios,2018,crowd_by_day,Fri,71
+7,Hollywood Studios,2018,crowd_by_day,Sat,72
+7,Hollywood Studios,2018,crowd_by_date,"December 27, 2018",100
+7,Hollywood Studios,2018,crowd_by_date,"December 28, 2018",99
+7,Hollywood Studios,2018,crowd_by_date,"December 29, 2018",99
+7,Hollywood Studios,2018,crowd_by_date,"December 30, 2018",99
+7,Hollywood Studios,2018,crowd_by_date,"December 26, 2018",99
+7,Hollywood Studios,2018,crowd_by_date,"November 20, 2018",99
+7,Hollywood Studios,2018,crowd_by_date,"November 19, 2018",99
+7,Hollywood Studios,2018,crowd_by_date,"November 21, 2018",99
+7,Hollywood Studios,2018,crowd_by_date,"December 24, 2018",99
+7,Hollywood Studios,2018,crowd_by_date,"November 23, 2018",99
+7,Hollywood Studios,2018,crowd_by_date,"December 20, 2018",2
+7,Hollywood Studios,2018,crowd_by_date,"September 05, 2018",8
+7,Hollywood Studios,2018,crowd_by_date,"September 26, 2018",9
+7,Hollywood Studios,2018,crowd_by_date,"September 12, 2018",12
+7,Hollywood Studios,2018,crowd_by_date,"September 06, 2018",15
+7,Hollywood Studios,2018,crowd_by_date,"September 04, 2018",17
+7,Hollywood Studios,2018,crowd_by_date,"April 10, 2018",18
+7,Hollywood Studios,2018,crowd_by_date,"May 22, 2018",22
+7,Hollywood Studios,2018,crowd_by_date,"October 03, 2018",23
+7,Hollywood Studios,2018,crowd_by_date,"September 25, 2018",23
+7,Hollywood Studios,2019,crowd_by_month,Jan,71
+7,Hollywood Studios,2019,crowd_by_month,Feb,70
+7,Hollywood Studios,2019,crowd_by_month,Mar,93
+7,Hollywood Studios,2019,crowd_by_month,Apr,68
+7,Hollywood Studios,2019,crowd_by_month,May,75
+7,Hollywood Studios,2019,crowd_by_month,Jun,71
+7,Hollywood Studios,2019,crowd_by_month,Jul,61
+7,Hollywood Studios,2019,crowd_by_month,Aug,55
+7,Hollywood Studios,2019,crowd_by_month,Sep,10
+7,Hollywood Studios,2019,crowd_by_month,Oct,33
+7,Hollywood Studios,2019,crowd_by_month,Nov,58
+7,Hollywood Studios,2019,crowd_by_month,Dec,52
+7,Hollywood Studios,2019,crowd_by_day,Sun,63
+7,Hollywood Studios,2019,crowd_by_day,Mon,68
+7,Hollywood Studios,2019,crowd_by_day,Tue,60
+7,Hollywood Studios,2019,crowd_by_day,Wed,52
+7,Hollywood Studios,2019,crowd_by_day,Thu,58
+7,Hollywood Studios,2019,crowd_by_day,Fri,58
+7,Hollywood Studios,2019,crowd_by_day,Sat,58
+7,Hollywood Studios,2019,crowd_by_date,"January 02, 2019",99
+7,Hollywood Studios,2019,crowd_by_date,"February 17, 2019",99
+7,Hollywood Studios,2019,crowd_by_date,"January 03, 2019",99
+7,Hollywood Studios,2019,crowd_by_date,"January 04, 2019",99
+7,Hollywood Studios,2019,crowd_by_date,"January 05, 2019",99
+7,Hollywood Studios,2019,crowd_by_date,"February 16, 2019",99
+7,Hollywood Studios,2019,crowd_by_date,"February 18, 2019",99
+7,Hollywood Studios,2019,crowd_by_date,"March 12, 2019",99
+7,Hollywood Studios,2019,crowd_by_date,"March 20, 2019",99
+7,Hollywood Studios,2019,crowd_by_date,"January 06, 2019",98
+7,Hollywood Studios,2019,crowd_by_date,"September 05, 2019",0
+7,Hollywood Studios,2019,crowd_by_date,"September 07, 2019",0
+7,Hollywood Studios,2019,crowd_by_date,"September 04, 2019",0
+7,Hollywood Studios,2019,crowd_by_date,"September 06, 2019",0
+7,Hollywood Studios,2019,crowd_by_date,"October 02, 2019",1
+7,Hollywood Studios,2019,crowd_by_date,"September 08, 2019",1
+7,Hollywood Studios,2019,crowd_by_date,"September 02, 2019",1
+7,Hollywood Studios,2019,crowd_by_date,"August 31, 2019",2
+7,Hollywood Studios,2019,crowd_by_date,"September 03, 2019",2
+7,Hollywood Studios,2019,crowd_by_date,"August 30, 2019",3
+7,Hollywood Studios,2020,crowd_by_month,Jan,71
+7,Hollywood Studios,2020,crowd_by_month,Feb,89
+7,Hollywood Studios,2020,crowd_by_month,Mar,63
+7,Hollywood Studios,2020,crowd_by_month,Jul,8
+7,Hollywood Studios,2020,crowd_by_month,Aug,11
+7,Hollywood Studios,2020,crowd_by_month,Sep,48
+7,Hollywood Studios,2020,crowd_by_month,Oct,72
+7,Hollywood Studios,2020,crowd_by_month,Nov,64
+7,Hollywood Studios,2020,crowd_by_month,Dec,63
+7,Hollywood Studios,2020,crowd_by_day,Sun,59
+7,Hollywood Studios,2020,crowd_by_day,Mon,60
+7,Hollywood Studios,2020,crowd_by_day,Tue,59
+7,Hollywood Studios,2020,crowd_by_day,Wed,52
+7,Hollywood Studios,2020,crowd_by_day,Thu,54
+7,Hollywood Studios,2020,crowd_by_day,Fri,55
+7,Hollywood Studios,2020,crowd_by_day,Sat,57
+7,Hollywood Studios,2020,crowd_by_date,"February 24, 2020",99
+7,Hollywood Studios,2020,crowd_by_date,"February 19, 2020",99
+7,Hollywood Studios,2020,crowd_by_date,"February 27, 2020",99
+7,Hollywood Studios,2020,crowd_by_date,"February 18, 2020",99
+7,Hollywood Studios,2020,crowd_by_date,"February 16, 2020",99
+7,Hollywood Studios,2020,crowd_by_date,"February 20, 2020",98
+7,Hollywood Studios,2020,crowd_by_date,"February 25, 2020",98
+7,Hollywood Studios,2020,crowd_by_date,"January 02, 2020",98
+7,Hollywood Studios,2020,crowd_by_date,"February 28, 2020",97
+7,Hollywood Studios,2020,crowd_by_date,"January 03, 2020",97
+7,Hollywood Studios,2020,crowd_by_date,"July 25, 2020",0
+7,Hollywood Studios,2020,crowd_by_date,"July 17, 2020",0
+7,Hollywood Studios,2020,crowd_by_date,"July 21, 2020",1
+7,Hollywood Studios,2020,crowd_by_date,"July 24, 2020",1
+7,Hollywood Studios,2020,crowd_by_date,"July 20, 2020",2
+7,Hollywood Studios,2020,crowd_by_date,"August 02, 2020",2
+7,Hollywood Studios,2020,crowd_by_date,"July 23, 2020",3
+7,Hollywood Studios,2020,crowd_by_date,"August 19, 2020",3
+7,Hollywood Studios,2020,crowd_by_date,"September 01, 2020",3
+7,Hollywood Studios,2020,crowd_by_date,"September 05, 2020",3
+7,Hollywood Studios,2021,crowd_by_month,Jan,60
+7,Hollywood Studios,2021,crowd_by_month,Feb,64
+7,Hollywood Studios,2021,crowd_by_month,Mar,69
+7,Hollywood Studios,2021,crowd_by_month,Apr,60
+7,Hollywood Studios,2021,crowd_by_month,May,52
+7,Hollywood Studios,2021,crowd_by_month,Jun,41
+7,Hollywood Studios,2021,crowd_by_month,Jul,74
+7,Hollywood Studios,2021,crowd_by_month,Aug,34
+7,Hollywood Studios,2021,crowd_by_month,Sep,17
+7,Hollywood Studios,2021,crowd_by_month,Oct,39
+7,Hollywood Studios,2021,crowd_by_month,Nov,62
+7,Hollywood Studios,2021,crowd_by_month,Dec,70
+7,Hollywood Studios,2021,crowd_by_day,Sun,52
+7,Hollywood Studios,2021,crowd_by_day,Mon,59
+7,Hollywood Studios,2021,crowd_by_day,Tue,57
+7,Hollywood Studios,2021,crowd_by_day,Wed,53
+7,Hollywood Studios,2021,crowd_by_day,Thu,51
+7,Hollywood Studios,2021,crowd_by_day,Fri,49
+7,Hollywood Studios,2021,crowd_by_day,Sat,53
+7,Hollywood Studios,2021,crowd_by_date,"November 21, 2021",93
+7,Hollywood Studios,2021,crowd_by_date,"July 19, 2021",93
+7,Hollywood Studios,2021,crowd_by_date,"November 24, 2021",92
+7,Hollywood Studios,2021,crowd_by_date,"January 02, 2021",92
+7,Hollywood Studios,2021,crowd_by_date,"January 05, 2021",91
+7,Hollywood Studios,2021,crowd_by_date,"July 28, 2021",91
+7,Hollywood Studios,2021,crowd_by_date,"March 10, 2021",91
+7,Hollywood Studios,2021,crowd_by_date,"January 03, 2021",91
+7,Hollywood Studios,2021,crowd_by_date,"July 29, 2021",91
+7,Hollywood Studios,2021,crowd_by_date,"July 27, 2021",90
+7,Hollywood Studios,2021,crowd_by_date,"September 02, 2021",1
+7,Hollywood Studios,2021,crowd_by_date,"October 01, 2021",2
+7,Hollywood Studios,2021,crowd_by_date,"September 01, 2021",3
+7,Hollywood Studios,2021,crowd_by_date,"August 31, 2021",3
+7,Hollywood Studios,2021,crowd_by_date,"September 03, 2021",4
+7,Hollywood Studios,2021,crowd_by_date,"August 27, 2021",4
+7,Hollywood Studios,2021,crowd_by_date,"September 09, 2021",5
+7,Hollywood Studios,2021,crowd_by_date,"October 03, 2021",5
+7,Hollywood Studios,2021,crowd_by_date,"August 30, 2021",6
+7,Hollywood Studios,2021,crowd_by_date,"September 19, 2021",7
+7,Hollywood Studios,2022,crowd_by_month,Jan,69
+7,Hollywood Studios,2022,crowd_by_month,Feb,85
+7,Hollywood Studios,2022,crowd_by_month,Mar,90
+7,Hollywood Studios,2022,crowd_by_month,Apr,81
+7,Hollywood Studios,2022,crowd_by_month,May,72
+7,Hollywood Studios,2022,crowd_by_month,Jun,80
+7,Hollywood Studios,2022,crowd_by_month,Jul,75
+7,Hollywood Studios,2022,crowd_by_month,Aug,62
+7,Hollywood Studios,2022,crowd_by_month,Sep,52
+7,Hollywood Studios,2022,crowd_by_month,Oct,79
+7,Hollywood Studios,2022,crowd_by_month,Nov,77
+7,Hollywood Studios,2022,crowd_by_month,Dec,84
+7,Hollywood Studios,2022,crowd_by_day,Sun,72
+7,Hollywood Studios,2022,crowd_by_day,Mon,81
+7,Hollywood Studios,2022,crowd_by_day,Tue,82
+7,Hollywood Studios,2022,crowd_by_day,Wed,74
+7,Hollywood Studios,2022,crowd_by_day,Thu,76
+7,Hollywood Studios,2022,crowd_by_day,Fri,74
+7,Hollywood Studios,2022,crowd_by_day,Sat,70
+7,Hollywood Studios,2022,crowd_by_event,⏰ Early Entry,76
+7,Hollywood Studios,2022,crowd_by_event,🌙 Extended Evening,74
+7,Hollywood Studios,2022,crowd_by_date,"February 22, 2022",99
+7,Hollywood Studios,2022,crowd_by_date,"December 21, 2022",98
+7,Hollywood Studios,2022,crowd_by_date,"December 20, 2022",98
+7,Hollywood Studios,2022,crowd_by_date,"November 22, 2022",98
+7,Hollywood Studios,2022,crowd_by_date,"February 20, 2022",98
+7,Hollywood Studios,2022,crowd_by_date,"December 30, 2022",98
+7,Hollywood Studios,2022,crowd_by_date,"December 29, 2022",98
+7,Hollywood Studios,2022,crowd_by_date,"November 21, 2022",98
+7,Hollywood Studios,2022,crowd_by_date,"February 28, 2022",97
+7,Hollywood Studios,2022,crowd_by_date,"February 23, 2022",97
+7,Hollywood Studios,2022,crowd_by_date,"August 31, 2022",13
+7,Hollywood Studios,2022,crowd_by_date,"September 01, 2022",13
+7,Hollywood Studios,2022,crowd_by_date,"September 10, 2022",18
+7,Hollywood Studios,2022,crowd_by_date,"September 11, 2022",21
+7,Hollywood Studios,2022,crowd_by_date,"January 09, 2022",27
+7,Hollywood Studios,2022,crowd_by_date,"September 03, 2022",29
+7,Hollywood Studios,2022,crowd_by_date,"September 07, 2022",29
+7,Hollywood Studios,2022,crowd_by_date,"September 17, 2022",31
+7,Hollywood Studios,2022,crowd_by_date,"January 30, 2022",36
+7,Hollywood Studios,2022,crowd_by_date,"September 18, 2022",36
+7,Hollywood Studios,2023,crowd_by_month,Jan,76
+7,Hollywood Studios,2023,crowd_by_month,Feb,66
+7,Hollywood Studios,2023,crowd_by_month,Mar,64
+7,Hollywood Studios,2023,crowd_by_month,Apr,59
+7,Hollywood Studios,2023,crowd_by_month,May,35
+7,Hollywood Studios,2023,crowd_by_month,Jun,58
+7,Hollywood Studios,2023,crowd_by_month,Jul,61
+7,Hollywood Studios,2023,crowd_by_month,Aug,53
+7,Hollywood Studios,2023,crowd_by_month,Sep,38
+7,Hollywood Studios,2023,crowd_by_month,Oct,54
+7,Hollywood Studios,2023,crowd_by_month,Nov,52
+7,Hollywood Studios,2023,crowd_by_month,Dec,64
+7,Hollywood Studios,2023,crowd_by_day,Sun,45
+7,Hollywood Studios,2023,crowd_by_day,Mon,62
+7,Hollywood Studios,2023,crowd_by_day,Tue,63
+7,Hollywood Studios,2023,crowd_by_day,Wed,53
+7,Hollywood Studios,2023,crowd_by_day,Thu,60
+7,Hollywood Studios,2023,crowd_by_day,Fri,66
+7,Hollywood Studios,2023,crowd_by_day,Sat,49
+7,Hollywood Studios,2023,crowd_by_event,⏰ Early Entry,57
+7,Hollywood Studios,2023,crowd_by_event,🎟️ Special Ticketed Event,56
+7,Hollywood Studios,2023,crowd_by_event,🌙 Extended Evening,51
+7,Hollywood Studios,2023,crowd_by_date,"December 19, 2023",99
+7,Hollywood Studios,2023,crowd_by_date,"January 03, 2023",99
+7,Hollywood Studios,2023,crowd_by_date,"December 27, 2023",99
+7,Hollywood Studios,2023,crowd_by_date,"November 21, 2023",99
+7,Hollywood Studios,2023,crowd_by_date,"March 16, 2023",98
+7,Hollywood Studios,2023,crowd_by_date,"January 04, 2023",98
+7,Hollywood Studios,2023,crowd_by_date,"December 30, 2023",98
+7,Hollywood Studios,2023,crowd_by_date,"February 21, 2023",98
+7,Hollywood Studios,2023,crowd_by_date,"January 02, 2023",97
+7,Hollywood Studios,2023,crowd_by_date,"April 12, 2023",97
+7,Hollywood Studios,2023,crowd_by_date,"July 04, 2023",1
+7,Hollywood Studios,2023,crowd_by_date,"December 16, 2023",2
+7,Hollywood Studios,2023,crowd_by_date,"August 30, 2023",3
+7,Hollywood Studios,2023,crowd_by_date,"April 16, 2023",5
+7,Hollywood Studios,2023,crowd_by_date,"November 16, 2023",6
+7,Hollywood Studios,2023,crowd_by_date,"September 04, 2023",7
+7,Hollywood Studios,2023,crowd_by_date,"August 31, 2023",7
+7,Hollywood Studios,2023,crowd_by_date,"November 29, 2023",8
+7,Hollywood Studios,2023,crowd_by_date,"October 01, 2023",9
+7,Hollywood Studios,2023,crowd_by_date,"November 26, 2023",10
+7,Hollywood Studios,2024,crowd_by_month,Jan,66
+7,Hollywood Studios,2024,crowd_by_month,Feb,69
+7,Hollywood Studios,2024,crowd_by_month,Mar,61
+7,Hollywood Studios,2024,crowd_by_month,Apr,52
+7,Hollywood Studios,2024,crowd_by_month,May,48
+7,Hollywood Studios,2024,crowd_by_month,Jun,44
+7,Hollywood Studios,2024,crowd_by_month,Jul,34
+7,Hollywood Studios,2024,crowd_by_month,Aug,33
+7,Hollywood Studios,2024,crowd_by_month,Sep,24
+7,Hollywood Studios,2024,crowd_by_month,Oct,26
+7,Hollywood Studios,2024,crowd_by_month,Nov,38
+7,Hollywood Studios,2024,crowd_by_month,Dec,42
+7,Hollywood Studios,2024,crowd_by_day,Sun,39
+7,Hollywood Studios,2024,crowd_by_day,Mon,45
+7,Hollywood Studios,2024,crowd_by_day,Tue,48
+7,Hollywood Studios,2024,crowd_by_day,Wed,38
+7,Hollywood Studios,2024,crowd_by_day,Thu,49
+7,Hollywood Studios,2024,crowd_by_day,Fri,54
+7,Hollywood Studios,2024,crowd_by_day,Sat,41
+7,Hollywood Studios,2024,crowd_by_event,⏰ Early Entry,45
+7,Hollywood Studios,2024,crowd_by_event,🎟️ Special Ticketed Event,37
+7,Hollywood Studios,2024,crowd_by_event,🌙 Extended Evening,18
+7,Hollywood Studios,2024,crowd_by_date,"December 28, 2024",99
+7,Hollywood Studios,2024,crowd_by_date,"December 30, 2024",98
+7,Hollywood Studios,2024,crowd_by_date,"January 02, 2024",98
+7,Hollywood Studios,2024,crowd_by_date,"March 27, 2024",98
+7,Hollywood Studios,2024,crowd_by_date,"March 28, 2024",97
+7,Hollywood Studios,2024,crowd_by_date,"April 04, 2024",97
+7,Hollywood Studios,2024,crowd_by_date,"January 04, 2024",97
+7,Hollywood Studios,2024,crowd_by_date,"March 25, 2024",96
+7,Hollywood Studios,2024,crowd_by_date,"January 03, 2024",96
+7,Hollywood Studios,2024,crowd_by_date,"February 16, 2024",96
+7,Hollywood Studios,2024,crowd_by_date,"October 09, 2024",0
+7,Hollywood Studios,2024,crowd_by_date,"November 20, 2024",1
+7,Hollywood Studios,2024,crowd_by_date,"August 29, 2024",1
+7,Hollywood Studios,2024,crowd_by_date,"December 11, 2024",2
+7,Hollywood Studios,2024,crowd_by_date,"September 30, 2024",2
+7,Hollywood Studios,2024,crowd_by_date,"October 01, 2024",3
+7,Hollywood Studios,2024,crowd_by_date,"June 05, 2024",4
+7,Hollywood Studios,2024,crowd_by_date,"December 18, 2024",4
+7,Hollywood Studios,2024,crowd_by_date,"November 13, 2024",4
+7,Hollywood Studios,2024,crowd_by_date,"August 28, 2024",5
+7,Hollywood Studios,2025,crowd_by_month,Jan,44
+7,Hollywood Studios,2025,crowd_by_month,Feb,38
+7,Hollywood Studios,2025,crowd_by_month,Mar,43
+7,Hollywood Studios,2025,crowd_by_month,Apr,31
+7,Hollywood Studios,2025,crowd_by_month,May,28
+7,Hollywood Studios,2025,crowd_by_month,Jun,30
+7,Hollywood Studios,2025,crowd_by_month,Jul,28
+7,Hollywood Studios,2025,crowd_by_month,Aug,27
+7,Hollywood Studios,2025,crowd_by_month,Sep,15
+7,Hollywood Studios,2025,crowd_by_month,Oct,27
+7,Hollywood Studios,2025,crowd_by_month,Nov,28
+7,Hollywood Studios,2025,crowd_by_month,Dec,34
+7,Hollywood Studios,2025,crowd_by_day,Sun,25
+7,Hollywood Studios,2025,crowd_by_day,Mon,28
+7,Hollywood Studios,2025,crowd_by_day,Tue,34
+7,Hollywood Studios,2025,crowd_by_day,Wed,29
+7,Hollywood Studios,2025,crowd_by_day,Thu,33
+7,Hollywood Studios,2025,crowd_by_day,Fri,39
+7,Hollywood Studios,2025,crowd_by_day,Sat,30
+7,Hollywood Studios,2025,crowd_by_event,⏰ Early Entry,31
+7,Hollywood Studios,2025,crowd_by_event,🌙 Extended Evening,28
+7,Hollywood Studios,2025,crowd_by_event,🎟️ Special Ticketed Event,23
+7,Hollywood Studios,2025,crowd_by_date,"January 03, 2025",98
+7,Hollywood Studios,2025,crowd_by_date,"December 29, 2025",98
+7,Hollywood Studios,2025,crowd_by_date,"January 02, 2025",97
+7,Hollywood Studios,2025,crowd_by_date,"December 30, 2025",97
+7,Hollywood Studios,2025,crowd_by_date,"January 04, 2025",93
+7,Hollywood Studios,2025,crowd_by_date,"December 28, 2025",91
+7,Hollywood Studios,2025,crowd_by_date,"November 25, 2025",88
+7,Hollywood Studios,2025,crowd_by_date,"January 06, 2025",87
+7,Hollywood Studios,2025,crowd_by_date,"February 14, 2025",82
+7,Hollywood Studios,2025,crowd_by_date,"December 31, 2025",81
+7,Hollywood Studios,2025,crowd_by_date,"September 30, 2025",0
+7,Hollywood Studios,2025,crowd_by_date,"July 06, 2025",0
+7,Hollywood Studios,2025,crowd_by_date,"September 03, 2025",0
+7,Hollywood Studios,2025,crowd_by_date,"December 17, 2025",0
+7,Hollywood Studios,2025,crowd_by_date,"August 16, 2025",0
+7,Hollywood Studios,2025,crowd_by_date,"July 04, 2025",1
+7,Hollywood Studios,2025,crowd_by_date,"June 15, 2025",1
+7,Hollywood Studios,2025,crowd_by_date,"October 28, 2025",2
+7,Hollywood Studios,2025,crowd_by_date,"October 01, 2025",2
+7,Hollywood Studios,2025,crowd_by_date,"September 01, 2025",2
+7,Hollywood Studios,2026,crowd_by_month,Jan,37
+7,Hollywood Studios,2026,crowd_by_month,Feb,52
+7,Hollywood Studios,2026,crowd_by_month,Mar,44
+7,Hollywood Studios,2026,crowd_by_month,Apr,40
+7,Hollywood Studios,2026,crowd_by_month,May,24
+7,Hollywood Studios,2026,crowd_by_month,Jun,23
+7,Hollywood Studios,2026,crowd_by_month,Jul,27
+7,Hollywood Studios,2026,crowd_by_month,Aug,26
+7,Hollywood Studios,2026,crowd_by_month,Sep,11
+7,Hollywood Studios,2026,crowd_by_day,Sun,24
+7,Hollywood Studios,2026,crowd_by_day,Mon,36
+7,Hollywood Studios,2026,crowd_by_day,Tue,35
+7,Hollywood Studios,2026,crowd_by_day,Wed,33
+7,Hollywood Studios,2026,crowd_by_day,Thu,32
+7,Hollywood Studios,2026,crowd_by_day,Fri,40
+7,Hollywood Studios,2026,crowd_by_day,Sat,34
+7,Hollywood Studios,2026,crowd_by_event,🌙 Extended Evening,34
+7,Hollywood Studios,2026,crowd_by_event,⏰ Early Entry,33
+7,Hollywood Studios,2026,crowd_by_event,🎟️ Special Ticketed Event,27
+7,Hollywood Studios,2026,crowd_by_date,"January 02, 2026",95
+7,Hollywood Studios,2026,crowd_by_date,"April 08, 2026",91
+7,Hollywood Studios,2026,crowd_by_date,"February 17, 2026",91
+7,Hollywood Studios,2026,crowd_by_date,"February 16, 2026",90
+7,Hollywood Studios,2026,crowd_by_date,"April 07, 2026",89
+7,Hollywood Studios,2026,crowd_by_date,"April 09, 2026",88
+7,Hollywood Studios,2026,crowd_by_date,"February 02, 2026",85
+7,Hollywood Studios,2026,crowd_by_date,"March 31, 2026",84
+7,Hollywood Studios,2026,crowd_by_date,"March 17, 2026",84
+7,Hollywood Studios,2026,crowd_by_date,"April 01, 2026",83
+7,Hollywood Studios,2026,crowd_by_date,"August 31, 2026",0
+7,Hollywood Studios,2026,crowd_by_date,"September 02, 2026",0
+7,Hollywood Studios,2026,crowd_by_date,"July 05, 2026",0
+7,Hollywood Studios,2026,crowd_by_date,"September 01, 2026",1
+7,Hollywood Studios,2026,crowd_by_date,"July 04, 2026",1
+7,Hollywood Studios,2026,crowd_by_date,"September 06, 2026",1
+7,Hollywood Studios,2026,crowd_by_date,"January 11, 2026",2
+7,Hollywood Studios,2026,crowd_by_date,"September 03, 2026",3
+7,Hollywood Studios,2026,crowd_by_date,"August 26, 2026",4
+7,Hollywood Studios,2026,crowd_by_date,"August 30, 2026",4
+8,Animal Kingdom,all_time,crowd_by_month,Jan,56
+8,Animal Kingdom,all_time,crowd_by_month,Feb,65
+8,Animal Kingdom,all_time,crowd_by_month,Mar,65
+8,Animal Kingdom,all_time,crowd_by_month,Apr,61
+8,Animal Kingdom,all_time,crowd_by_month,May,54
+8,Animal Kingdom,all_time,crowd_by_month,Jun,56
+8,Animal Kingdom,all_time,crowd_by_month,Jul,54
+8,Animal Kingdom,all_time,crowd_by_month,Aug,42
+8,Animal Kingdom,all_time,crowd_by_month,Sep,27
+8,Animal Kingdom,all_time,crowd_by_month,Oct,45
+8,Animal Kingdom,all_time,crowd_by_month,Nov,53
+8,Animal Kingdom,all_time,crowd_by_month,Dec,59
+8,Animal Kingdom,all_time,crowd_by_day,Sun,56
+8,Animal Kingdom,all_time,crowd_by_day,Mon,57
+8,Animal Kingdom,all_time,crowd_by_day,Tue,50
+8,Animal Kingdom,all_time,crowd_by_day,Wed,45
+8,Animal Kingdom,all_time,crowd_by_day,Thu,49
+8,Animal Kingdom,all_time,crowd_by_day,Fri,54
+8,Animal Kingdom,all_time,crowd_by_day,Sat,59
+8,Animal Kingdom,all_time,crowd_by_year,2014,7
+8,Animal Kingdom,all_time,crowd_by_year,2015,33
+8,Animal Kingdom,all_time,crowd_by_year,2016,43
+8,Animal Kingdom,all_time,crowd_by_year,2017,68
+8,Animal Kingdom,all_time,crowd_by_year,2018,74
+8,Animal Kingdom,all_time,crowd_by_year,2019,73
+8,Animal Kingdom,all_time,crowd_by_year,2020,46
+8,Animal Kingdom,all_time,crowd_by_year,2021,46
+8,Animal Kingdom,all_time,crowd_by_year,2022,66
+8,Animal Kingdom,all_time,crowd_by_year,2023,53
+8,Animal Kingdom,all_time,crowd_by_year,2024,51
+8,Animal Kingdom,all_time,crowd_by_year,2025,44
+8,Animal Kingdom,all_time,crowd_by_year,2026,41
+8,Animal Kingdom,all_time,crowd_by_event,⏰ Early Entry,52
+8,Animal Kingdom,all_time,crowd_by_event,🌙 Extended Evening,43
+8,Animal Kingdom,all_time,crowd_by_event,🎟️ Special Ticketed Event,33
+8,Animal Kingdom,all_time,crowd_by_date,"December 29, 2018",100
+8,Animal Kingdom,all_time,crowd_by_date,"January 04, 2018",99
+8,Animal Kingdom,all_time,crowd_by_date,"March 20, 2019",99
+8,Animal Kingdom,all_time,crowd_by_date,"March 29, 2016",99
+8,Animal Kingdom,all_time,crowd_by_date,"January 02, 2019",99
+8,Animal Kingdom,all_time,crowd_by_date,"December 29, 2022",99
+8,Animal Kingdom,all_time,crowd_by_date,"December 28, 2024",99
+8,Animal Kingdom,all_time,crowd_by_date,"April 04, 2023",99
+8,Animal Kingdom,all_time,crowd_by_date,"December 27, 2023",99
+8,Animal Kingdom,all_time,crowd_by_date,"April 03, 2023",99
+8,Animal Kingdom,all_time,crowd_by_date,"January 13, 2015",0
+8,Animal Kingdom,all_time,crowd_by_date,"October 01, 2014",0
+8,Animal Kingdom,all_time,crowd_by_date,"October 09, 2024",0
+8,Animal Kingdom,all_time,crowd_by_date,"December 02, 2014",0
+8,Animal Kingdom,all_time,crowd_by_date,"December 08, 2014",0
+8,Animal Kingdom,all_time,crowd_by_date,"December 01, 2014",0
+8,Animal Kingdom,all_time,crowd_by_date,"September 10, 2014",0
+8,Animal Kingdom,all_time,crowd_by_date,"January 12, 2015",0
+8,Animal Kingdom,all_time,crowd_by_date,"September 30, 2014",0
+8,Animal Kingdom,all_time,crowd_by_date,"September 20, 2014",0
+8,Animal Kingdom,2015,crowd_by_month,Jan,8
+8,Animal Kingdom,2015,crowd_by_month,Feb,26
+8,Animal Kingdom,2015,crowd_by_month,Mar,34
+8,Animal Kingdom,2015,crowd_by_month,Apr,34
+8,Animal Kingdom,2015,crowd_by_month,May,41
+8,Animal Kingdom,2015,crowd_by_month,Jun,40
+8,Animal Kingdom,2015,crowd_by_month,Jul,39
+8,Animal Kingdom,2015,crowd_by_month,Aug,33
+8,Animal Kingdom,2015,crowd_by_month,Sep,21
+8,Animal Kingdom,2015,crowd_by_month,Oct,87
+8,Animal Kingdom,2015,crowd_by_month,Dec,57
+8,Animal Kingdom,2015,crowd_by_day,Sun,42
+8,Animal Kingdom,2015,crowd_by_day,Mon,29
+8,Animal Kingdom,2015,crowd_by_day,Tue,31
+8,Animal Kingdom,2015,crowd_by_day,Wed,44
+8,Animal Kingdom,2015,crowd_by_day,Thu,28
+8,Animal Kingdom,2015,crowd_by_day,Fri,22
+8,Animal Kingdom,2015,crowd_by_day,Sat,33
+8,Animal Kingdom,2015,crowd_by_date,"December 29, 2015",96
+8,Animal Kingdom,2015,crowd_by_date,"December 28, 2015",94
+8,Animal Kingdom,2015,crowd_by_date,"May 25, 2015",90
+8,Animal Kingdom,2015,crowd_by_date,"December 30, 2015",88
+8,Animal Kingdom,2015,crowd_by_date,"June 24, 2015",88
+8,Animal Kingdom,2015,crowd_by_date,"August 19, 2015",87
+8,Animal Kingdom,2015,crowd_by_date,"October 10, 2015",87
+8,Animal Kingdom,2015,crowd_by_date,"May 24, 2015",87
+8,Animal Kingdom,2015,crowd_by_date,"February 15, 2015",86
+8,Animal Kingdom,2015,crowd_by_date,"December 22, 2015",85
+8,Animal Kingdom,2015,crowd_by_date,"January 13, 2015",0
+8,Animal Kingdom,2015,crowd_by_date,"January 12, 2015",0
+8,Animal Kingdom,2015,crowd_by_date,"January 09, 2015",0
+8,Animal Kingdom,2015,crowd_by_date,"January 15, 2015",0
+8,Animal Kingdom,2015,crowd_by_date,"January 11, 2015",0
+8,Animal Kingdom,2015,crowd_by_date,"December 31, 2015",0
+8,Animal Kingdom,2015,crowd_by_date,"January 23, 2015",1
+8,Animal Kingdom,2015,crowd_by_date,"January 27, 2015",1
+8,Animal Kingdom,2015,crowd_by_date,"January 04, 2015",1
+8,Animal Kingdom,2015,crowd_by_date,"January 14, 2015",1
+8,Animal Kingdom,2016,crowd_by_month,Jan,25
+8,Animal Kingdom,2016,crowd_by_month,Feb,52
+8,Animal Kingdom,2016,crowd_by_month,Mar,60
+8,Animal Kingdom,2016,crowd_by_month,Apr,64
+8,Animal Kingdom,2016,crowd_by_month,May,52
+8,Animal Kingdom,2016,crowd_by_month,Jun,40
+8,Animal Kingdom,2016,crowd_by_month,Jul,33
+8,Animal Kingdom,2016,crowd_by_month,Aug,28
+8,Animal Kingdom,2016,crowd_by_month,Sep,19
+8,Animal Kingdom,2016,crowd_by_month,Oct,38
+8,Animal Kingdom,2016,crowd_by_month,Nov,53
+8,Animal Kingdom,2016,crowd_by_month,Dec,57
+8,Animal Kingdom,2016,crowd_by_day,Sun,48
+8,Animal Kingdom,2016,crowd_by_day,Mon,52
+8,Animal Kingdom,2016,crowd_by_day,Tue,39
+8,Animal Kingdom,2016,crowd_by_day,Wed,32
+8,Animal Kingdom,2016,crowd_by_day,Thu,38
+8,Animal Kingdom,2016,crowd_by_day,Fri,41
+8,Animal Kingdom,2016,crowd_by_day,Sat,52
+8,Animal Kingdom,2016,crowd_by_date,"March 29, 2016",99
+8,Animal Kingdom,2016,crowd_by_date,"March 30, 2016",99
+8,Animal Kingdom,2016,crowd_by_date,"December 28, 2016",99
+8,Animal Kingdom,2016,crowd_by_date,"November 22, 2016",98
+8,Animal Kingdom,2016,crowd_by_date,"March 22, 2016",98
+8,Animal Kingdom,2016,crowd_by_date,"March 23, 2016",98
+8,Animal Kingdom,2016,crowd_by_date,"November 21, 2016",97
+8,Animal Kingdom,2016,crowd_by_date,"December 29, 2016",97
+8,Animal Kingdom,2016,crowd_by_date,"March 21, 2016",97
+8,Animal Kingdom,2016,crowd_by_date,"December 27, 2016",97
+8,Animal Kingdom,2016,crowd_by_date,"January 27, 2016",1
+8,Animal Kingdom,2016,crowd_by_date,"January 22, 2016",2
+8,Animal Kingdom,2016,crowd_by_date,"January 28, 2016",2
+8,Animal Kingdom,2016,crowd_by_date,"September 06, 2016",2
+8,Animal Kingdom,2016,crowd_by_date,"September 07, 2016",3
+8,Animal Kingdom,2016,crowd_by_date,"January 03, 2016",3
+8,Animal Kingdom,2016,crowd_by_date,"May 04, 2016",3
+8,Animal Kingdom,2016,crowd_by_date,"January 13, 2016",4
+8,Animal Kingdom,2016,crowd_by_date,"January 15, 2016",4
+8,Animal Kingdom,2016,crowd_by_date,"January 20, 2016",5
+8,Animal Kingdom,2017,crowd_by_month,Jan,55
+8,Animal Kingdom,2017,crowd_by_month,Feb,62
+8,Animal Kingdom,2017,crowd_by_month,Mar,77
+8,Animal Kingdom,2017,crowd_by_month,Apr,72
+8,Animal Kingdom,2017,crowd_by_month,May,65
+8,Animal Kingdom,2017,crowd_by_month,Jun,62
+8,Animal Kingdom,2017,crowd_by_month,Jul,76
+8,Animal Kingdom,2017,crowd_by_month,Aug,70
+8,Animal Kingdom,2017,crowd_by_month,Sep,45
+8,Animal Kingdom,2017,crowd_by_month,Oct,74
+8,Animal Kingdom,2017,crowd_by_month,Nov,76
+8,Animal Kingdom,2017,crowd_by_month,Dec,83
+8,Animal Kingdom,2017,crowd_by_day,Sun,72
+8,Animal Kingdom,2017,crowd_by_day,Mon,78
+8,Animal Kingdom,2017,crowd_by_day,Tue,66
+8,Animal Kingdom,2017,crowd_by_day,Wed,54
+8,Animal Kingdom,2017,crowd_by_day,Thu,64
+8,Animal Kingdom,2017,crowd_by_day,Fri,67
+8,Animal Kingdom,2017,crowd_by_day,Sat,77
+8,Animal Kingdom,2017,crowd_by_date,"December 27, 2017",99
+8,Animal Kingdom,2017,crowd_by_date,"April 11, 2017",99
+8,Animal Kingdom,2017,crowd_by_date,"November 20, 2017",99
+8,Animal Kingdom,2017,crowd_by_date,"December 28, 2017",99
+8,Animal Kingdom,2017,crowd_by_date,"March 14, 2017",98
+8,Animal Kingdom,2017,crowd_by_date,"December 26, 2017",98
+8,Animal Kingdom,2017,crowd_by_date,"January 15, 2017",98
+8,Animal Kingdom,2017,crowd_by_date,"February 19, 2017",98
+8,Animal Kingdom,2017,crowd_by_date,"November 22, 2017",98
+8,Animal Kingdom,2017,crowd_by_date,"December 25, 2017",98
+8,Animal Kingdom,2017,crowd_by_date,"September 13, 2017",13
+8,Animal Kingdom,2017,crowd_by_date,"September 09, 2017",14
+8,Animal Kingdom,2017,crowd_by_date,"September 08, 2017",14
+8,Animal Kingdom,2017,crowd_by_date,"September 14, 2017",15
+8,Animal Kingdom,2017,crowd_by_date,"January 29, 2017",15
+8,Animal Kingdom,2017,crowd_by_date,"February 15, 2017",15
+8,Animal Kingdom,2017,crowd_by_date,"September 12, 2017",17
+8,Animal Kingdom,2017,crowd_by_date,"April 26, 2017",17
+8,Animal Kingdom,2017,crowd_by_date,"January 19, 2017",17
+8,Animal Kingdom,2017,crowd_by_date,"January 18, 2017",17
+8,Animal Kingdom,2018,crowd_by_month,Jan,84
+8,Animal Kingdom,2018,crowd_by_month,Feb,87
+8,Animal Kingdom,2018,crowd_by_month,Mar,83
+8,Animal Kingdom,2018,crowd_by_month,Apr,75
+8,Animal Kingdom,2018,crowd_by_month,May,71
+8,Animal Kingdom,2018,crowd_by_month,Jun,88
+8,Animal Kingdom,2018,crowd_by_month,Jul,75
+8,Animal Kingdom,2018,crowd_by_month,Aug,63
+8,Animal Kingdom,2018,crowd_by_month,Sep,38
+8,Animal Kingdom,2018,crowd_by_month,Oct,68
+8,Animal Kingdom,2018,crowd_by_month,Nov,79
+8,Animal Kingdom,2018,crowd_by_month,Dec,82
+8,Animal Kingdom,2018,crowd_by_day,Sun,73
+8,Animal Kingdom,2018,crowd_by_day,Mon,78
+8,Animal Kingdom,2018,crowd_by_day,Tue,69
+8,Animal Kingdom,2018,crowd_by_day,Wed,65
+8,Animal Kingdom,2018,crowd_by_day,Thu,74
+8,Animal Kingdom,2018,crowd_by_day,Fri,79
+8,Animal Kingdom,2018,crowd_by_day,Sat,80
+8,Animal Kingdom,2018,crowd_by_date,"December 29, 2018",100
+8,Animal Kingdom,2018,crowd_by_date,"January 04, 2018",99
+8,Animal Kingdom,2018,crowd_by_date,"April 03, 2018",99
+8,Animal Kingdom,2018,crowd_by_date,"December 28, 2018",99
+8,Animal Kingdom,2018,crowd_by_date,"December 30, 2018",99
+8,Animal Kingdom,2018,crowd_by_date,"January 05, 2018",99
+8,Animal Kingdom,2018,crowd_by_date,"February 12, 2018",99
+8,Animal Kingdom,2018,crowd_by_date,"March 13, 2018",99
+8,Animal Kingdom,2018,crowd_by_date,"April 04, 2018",99
+8,Animal Kingdom,2018,crowd_by_date,"November 20, 2018",99
+8,Animal Kingdom,2018,crowd_by_date,"December 20, 2018",13
+8,Animal Kingdom,2018,crowd_by_date,"September 05, 2018",14
+8,Animal Kingdom,2018,crowd_by_date,"September 04, 2018",16
+8,Animal Kingdom,2018,crowd_by_date,"April 10, 2018",17
+8,Animal Kingdom,2018,crowd_by_date,"September 26, 2018",19
+8,Animal Kingdom,2018,crowd_by_date,"September 06, 2018",19
+8,Animal Kingdom,2018,crowd_by_date,"September 11, 2018",21
+8,Animal Kingdom,2018,crowd_by_date,"August 29, 2018",22
+8,Animal Kingdom,2018,crowd_by_date,"August 30, 2018",23
+8,Animal Kingdom,2018,crowd_by_date,"May 20, 2018",25
+8,Animal Kingdom,2019,crowd_by_month,Jan,83
+8,Animal Kingdom,2019,crowd_by_month,Feb,85
+8,Animal Kingdom,2019,crowd_by_month,Mar,94
+8,Animal Kingdom,2019,crowd_by_month,Apr,83
+8,Animal Kingdom,2019,crowd_by_month,May,79
+8,Animal Kingdom,2019,crowd_by_month,Jun,81
+8,Animal Kingdom,2019,crowd_by_month,Jul,79
+8,Animal Kingdom,2019,crowd_by_month,Aug,66
+8,Animal Kingdom,2019,crowd_by_month,Sep,31
+8,Animal Kingdom,2019,crowd_by_month,Oct,56
+8,Animal Kingdom,2019,crowd_by_month,Nov,71
+8,Animal Kingdom,2019,crowd_by_month,Dec,72
+8,Animal Kingdom,2019,crowd_by_day,Sun,72
+8,Animal Kingdom,2019,crowd_by_day,Mon,80
+8,Animal Kingdom,2019,crowd_by_day,Tue,72
+8,Animal Kingdom,2019,crowd_by_day,Wed,64
+8,Animal Kingdom,2019,crowd_by_day,Thu,70
+8,Animal Kingdom,2019,crowd_by_day,Fri,73
+8,Animal Kingdom,2019,crowd_by_day,Sat,81
+8,Animal Kingdom,2019,crowd_by_date,"March 20, 2019",99
+8,Animal Kingdom,2019,crowd_by_date,"January 02, 2019",99
+8,Animal Kingdom,2019,crowd_by_date,"March 25, 2019",99
+8,Animal Kingdom,2019,crowd_by_date,"March 11, 2019",99
+8,Animal Kingdom,2019,crowd_by_date,"March 07, 2019",99
+8,Animal Kingdom,2019,crowd_by_date,"April 15, 2019",99
+8,Animal Kingdom,2019,crowd_by_date,"March 21, 2019",99
+8,Animal Kingdom,2019,crowd_by_date,"March 26, 2019",99
+8,Animal Kingdom,2019,crowd_by_date,"April 20, 2019",99
+8,Animal Kingdom,2019,crowd_by_date,"March 18, 2019",99
+8,Animal Kingdom,2019,crowd_by_date,"September 05, 2019",2
+8,Animal Kingdom,2019,crowd_by_date,"September 04, 2019",4
+8,Animal Kingdom,2019,crowd_by_date,"September 03, 2019",6
+8,Animal Kingdom,2019,crowd_by_date,"September 02, 2019",8
+8,Animal Kingdom,2019,crowd_by_date,"September 06, 2019",9
+8,Animal Kingdom,2019,crowd_by_date,"January 27, 2019",12
+8,Animal Kingdom,2019,crowd_by_date,"September 11, 2019",13
+8,Animal Kingdom,2019,crowd_by_date,"October 02, 2019",15
+8,Animal Kingdom,2019,crowd_by_date,"September 01, 2019",15
+8,Animal Kingdom,2019,crowd_by_date,"October 31, 2019",16
+8,Animal Kingdom,2020,crowd_by_month,Jan,85
+8,Animal Kingdom,2020,crowd_by_month,Feb,91
+8,Animal Kingdom,2020,crowd_by_month,Mar,75
+8,Animal Kingdom,2020,crowd_by_month,Jul,2
+8,Animal Kingdom,2020,crowd_by_month,Aug,6
+8,Animal Kingdom,2020,crowd_by_month,Sep,20
+8,Animal Kingdom,2020,crowd_by_month,Oct,39
+8,Animal Kingdom,2020,crowd_by_month,Nov,44
+8,Animal Kingdom,2020,crowd_by_month,Dec,49
+8,Animal Kingdom,2020,crowd_by_day,Sun,56
+8,Animal Kingdom,2020,crowd_by_day,Mon,45
+8,Animal Kingdom,2020,crowd_by_day,Tue,40
+8,Animal Kingdom,2020,crowd_by_day,Wed,39
+8,Animal Kingdom,2020,crowd_by_day,Thu,41
+8,Animal Kingdom,2020,crowd_by_day,Fri,43
+8,Animal Kingdom,2020,crowd_by_day,Sat,56
+8,Animal Kingdom,2020,crowd_by_date,"February 15, 2020",99
+8,Animal Kingdom,2020,crowd_by_date,"January 02, 2020",99
+8,Animal Kingdom,2020,crowd_by_date,"January 20, 2020",99
+8,Animal Kingdom,2020,crowd_by_date,"January 03, 2020",99
+8,Animal Kingdom,2020,crowd_by_date,"February 16, 2020",99
+8,Animal Kingdom,2020,crowd_by_date,"February 24, 2020",99
+8,Animal Kingdom,2020,crowd_by_date,"February 27, 2020",98
+8,Animal Kingdom,2020,crowd_by_date,"January 18, 2020",97
+8,Animal Kingdom,2020,crowd_by_date,"February 17, 2020",97
+8,Animal Kingdom,2020,crowd_by_date,"February 25, 2020",97
+8,Animal Kingdom,2020,crowd_by_date,"July 15, 2020",0
+8,Animal Kingdom,2020,crowd_by_date,"July 11, 2020",0
+8,Animal Kingdom,2020,crowd_by_date,"July 16, 2020",0
+8,Animal Kingdom,2020,crowd_by_date,"July 17, 2020",1
+8,Animal Kingdom,2020,crowd_by_date,"July 20, 2020",1
+8,Animal Kingdom,2020,crowd_by_date,"July 13, 2020",1
+8,Animal Kingdom,2020,crowd_by_date,"July 14, 2020",1
+8,Animal Kingdom,2020,crowd_by_date,"August 03, 2020",1
+8,Animal Kingdom,2020,crowd_by_date,"August 24, 2020",1
+8,Animal Kingdom,2020,crowd_by_date,"July 21, 2020",1
+8,Animal Kingdom,2021,crowd_by_month,Jan,35
+8,Animal Kingdom,2021,crowd_by_month,Feb,45
+8,Animal Kingdom,2021,crowd_by_month,Mar,58
+8,Animal Kingdom,2021,crowd_by_month,Apr,48
+8,Animal Kingdom,2021,crowd_by_month,May,42
+8,Animal Kingdom,2021,crowd_by_month,Jun,40
+8,Animal Kingdom,2021,crowd_by_month,Jul,74
+8,Animal Kingdom,2021,crowd_by_month,Aug,24
+8,Animal Kingdom,2021,crowd_by_month,Sep,12
+8,Animal Kingdom,2021,crowd_by_month,Oct,33
+8,Animal Kingdom,2021,crowd_by_month,Nov,62
+8,Animal Kingdom,2021,crowd_by_month,Dec,75
+8,Animal Kingdom,2021,crowd_by_day,Sun,51
+8,Animal Kingdom,2021,crowd_by_day,Mon,44
+8,Animal Kingdom,2021,crowd_by_day,Tue,44
+8,Animal Kingdom,2021,crowd_by_day,Wed,41
+8,Animal Kingdom,2021,crowd_by_day,Thu,45
+8,Animal Kingdom,2021,crowd_by_day,Fri,44
+8,Animal Kingdom,2021,crowd_by_day,Sat,52
+8,Animal Kingdom,2021,crowd_by_date,"November 22, 2021",96
+8,Animal Kingdom,2021,crowd_by_date,"November 24, 2021",96
+8,Animal Kingdom,2021,crowd_by_date,"November 21, 2021",96
+8,Animal Kingdom,2021,crowd_by_date,"November 25, 2021",96
+8,Animal Kingdom,2021,crowd_by_date,"November 23, 2021",95
+8,Animal Kingdom,2021,crowd_by_date,"December 20, 2021",93
+8,Animal Kingdom,2021,crowd_by_date,"December 19, 2021",93
+8,Animal Kingdom,2021,crowd_by_date,"July 14, 2021",93
+8,Animal Kingdom,2021,crowd_by_date,"December 28, 2021",92
+8,Animal Kingdom,2021,crowd_by_date,"November 13, 2021",92
+8,Animal Kingdom,2021,crowd_by_date,"September 01, 2021",1
+8,Animal Kingdom,2021,crowd_by_date,"September 02, 2021",2
+8,Animal Kingdom,2021,crowd_by_date,"August 30, 2021",2
+8,Animal Kingdom,2021,crowd_by_date,"September 07, 2021",3
+8,Animal Kingdom,2021,crowd_by_date,"August 31, 2021",3
+8,Animal Kingdom,2021,crowd_by_date,"October 28, 2021",4
+8,Animal Kingdom,2021,crowd_by_date,"September 08, 2021",4
+8,Animal Kingdom,2021,crowd_by_date,"August 27, 2021",4
+8,Animal Kingdom,2021,crowd_by_date,"September 03, 2021",4
+8,Animal Kingdom,2021,crowd_by_date,"October 01, 2021",4
+8,Animal Kingdom,2022,crowd_by_month,Jan,61
+8,Animal Kingdom,2022,crowd_by_month,Feb,74
+8,Animal Kingdom,2022,crowd_by_month,Mar,76
+8,Animal Kingdom,2022,crowd_by_month,Apr,73
+8,Animal Kingdom,2022,crowd_by_month,May,60
+8,Animal Kingdom,2022,crowd_by_month,Jun,78
+8,Animal Kingdom,2022,crowd_by_month,Jul,72
+8,Animal Kingdom,2022,crowd_by_month,Aug,55
+8,Animal Kingdom,2022,crowd_by_month,Sep,36
+8,Animal Kingdom,2022,crowd_by_month,Oct,73
+8,Animal Kingdom,2022,crowd_by_month,Nov,60
+8,Animal Kingdom,2022,crowd_by_month,Dec,70
+8,Animal Kingdom,2022,crowd_by_day,Sun,65
+8,Animal Kingdom,2022,crowd_by_day,Mon,70
+8,Animal Kingdom,2022,crowd_by_day,Tue,67
+8,Animal Kingdom,2022,crowd_by_day,Wed,61
+8,Animal Kingdom,2022,crowd_by_day,Thu,66
+8,Animal Kingdom,2022,crowd_by_day,Fri,69
+8,Animal Kingdom,2022,crowd_by_day,Sat,61
+8,Animal Kingdom,2022,crowd_by_event,⏰ Early Entry,66
+8,Animal Kingdom,2022,crowd_by_date,"December 29, 2022",99
+8,Animal Kingdom,2022,crowd_by_date,"December 30, 2022",99
+8,Animal Kingdom,2022,crowd_by_date,"December 28, 2022",99
+8,Animal Kingdom,2022,crowd_by_date,"November 21, 2022",98
+8,Animal Kingdom,2022,crowd_by_date,"December 27, 2022",98
+8,Animal Kingdom,2022,crowd_by_date,"November 22, 2022",97
+8,Animal Kingdom,2022,crowd_by_date,"October 10, 2022",97
+8,Animal Kingdom,2022,crowd_by_date,"December 19, 2022",97
+8,Animal Kingdom,2022,crowd_by_date,"October 14, 2022",97
+8,Animal Kingdom,2022,crowd_by_date,"December 26, 2022",97
+8,Animal Kingdom,2022,crowd_by_date,"September 01, 2022",8
+8,Animal Kingdom,2022,crowd_by_date,"August 31, 2022",11
+8,Animal Kingdom,2022,crowd_by_date,"September 07, 2022",11
+8,Animal Kingdom,2022,crowd_by_date,"September 06, 2022",12
+8,Animal Kingdom,2022,crowd_by_date,"September 08, 2022",12
+8,Animal Kingdom,2022,crowd_by_date,"August 29, 2022",14
+8,Animal Kingdom,2022,crowd_by_date,"November 30, 2022",15
+8,Animal Kingdom,2022,crowd_by_date,"September 21, 2022",16
+8,Animal Kingdom,2022,crowd_by_date,"August 30, 2022",17
+8,Animal Kingdom,2022,crowd_by_date,"November 09, 2022",18
+8,Animal Kingdom,2023,crowd_by_month,Jan,67
+8,Animal Kingdom,2023,crowd_by_month,Feb,68
+8,Animal Kingdom,2023,crowd_by_month,Mar,57
+8,Animal Kingdom,2023,crowd_by_month,Apr,60
+8,Animal Kingdom,2023,crowd_by_month,May,41
+8,Animal Kingdom,2023,crowd_by_month,Jun,56
+8,Animal Kingdom,2023,crowd_by_month,Jul,58
+8,Animal Kingdom,2023,crowd_by_month,Aug,44
+8,Animal Kingdom,2023,crowd_by_month,Sep,37
+8,Animal Kingdom,2023,crowd_by_month,Oct,48
+8,Animal Kingdom,2023,crowd_by_month,Nov,50
+8,Animal Kingdom,2023,crowd_by_month,Dec,58
+8,Animal Kingdom,2023,crowd_by_day,Sun,54
+8,Animal Kingdom,2023,crowd_by_day,Mon,58
+8,Animal Kingdom,2023,crowd_by_day,Tue,54
+8,Animal Kingdom,2023,crowd_by_day,Wed,43
+8,Animal Kingdom,2023,crowd_by_day,Thu,51
+8,Animal Kingdom,2023,crowd_by_day,Fri,60
+8,Animal Kingdom,2023,crowd_by_day,Sat,54
+8,Animal Kingdom,2023,crowd_by_event,🌙 Extended Evening,71
+8,Animal Kingdom,2023,crowd_by_event,⏰ Early Entry,53
+8,Animal Kingdom,2023,crowd_by_event,🎟️ Special Ticketed Event,33
+8,Animal Kingdom,2023,crowd_by_date,"April 04, 2023",99
+8,Animal Kingdom,2023,crowd_by_date,"December 27, 2023",99
+8,Animal Kingdom,2023,crowd_by_date,"April 03, 2023",99
+8,Animal Kingdom,2023,crowd_by_date,"April 05, 2023",99
+8,Animal Kingdom,2023,crowd_by_date,"February 19, 2023",99
+8,Animal Kingdom,2023,crowd_by_date,"April 07, 2023",98
+8,Animal Kingdom,2023,crowd_by_date,"January 02, 2023",98
+8,Animal Kingdom,2023,crowd_by_date,"December 28, 2023",98
+8,Animal Kingdom,2023,crowd_by_date,"April 06, 2023",98
+8,Animal Kingdom,2023,crowd_by_date,"January 03, 2023",98
+8,Animal Kingdom,2023,crowd_by_date,"August 30, 2023",1
+8,Animal Kingdom,2023,crowd_by_date,"December 16, 2023",6
+8,Animal Kingdom,2023,crowd_by_date,"November 16, 2023",7
+8,Animal Kingdom,2023,crowd_by_date,"September 30, 2023",11
+8,Animal Kingdom,2023,crowd_by_date,"November 15, 2023",13
+8,Animal Kingdom,2023,crowd_by_date,"September 06, 2023",13
+8,Animal Kingdom,2023,crowd_by_date,"September 01, 2023",14
+8,Animal Kingdom,2023,crowd_by_date,"August 27, 2023",14
+8,Animal Kingdom,2023,crowd_by_date,"October 31, 2023",14
+8,Animal Kingdom,2023,crowd_by_date,"October 01, 2023",14
+8,Animal Kingdom,2024,crowd_by_month,Jan,66
+8,Animal Kingdom,2024,crowd_by_month,Feb,72
+8,Animal Kingdom,2024,crowd_by_month,Mar,61
+8,Animal Kingdom,2024,crowd_by_month,Apr,52
+8,Animal Kingdom,2024,crowd_by_month,May,58
+8,Animal Kingdom,2024,crowd_by_month,Jun,54
+8,Animal Kingdom,2024,crowd_by_month,Jul,51
+8,Animal Kingdom,2024,crowd_by_month,Aug,47
+8,Animal Kingdom,2024,crowd_by_month,Sep,38
+8,Animal Kingdom,2024,crowd_by_month,Oct,28
+8,Animal Kingdom,2024,crowd_by_month,Nov,39
+8,Animal Kingdom,2024,crowd_by_month,Dec,44
+8,Animal Kingdom,2024,crowd_by_day,Sun,54
+8,Animal Kingdom,2024,crowd_by_day,Mon,55
+8,Animal Kingdom,2024,crowd_by_day,Tue,47
+8,Animal Kingdom,2024,crowd_by_day,Wed,38
+8,Animal Kingdom,2024,crowd_by_day,Thu,46
+8,Animal Kingdom,2024,crowd_by_day,Fri,58
+8,Animal Kingdom,2024,crowd_by_day,Sat,58
+8,Animal Kingdom,2024,crowd_by_event,⏰ Early Entry,51
+8,Animal Kingdom,2024,crowd_by_event,🎟️ Special Ticketed Event,42
+8,Animal Kingdom,2024,crowd_by_event,🌙 Extended Evening,30
+8,Animal Kingdom,2024,crowd_by_date,"December 28, 2024",99
+8,Animal Kingdom,2024,crowd_by_date,"December 30, 2024",99
+8,Animal Kingdom,2024,crowd_by_date,"February 03, 2024",98
+8,Animal Kingdom,2024,crowd_by_date,"February 19, 2024",98
+8,Animal Kingdom,2024,crowd_by_date,"January 05, 2024",97
+8,Animal Kingdom,2024,crowd_by_date,"December 27, 2024",97
+8,Animal Kingdom,2024,crowd_by_date,"April 04, 2024",96
+8,Animal Kingdom,2024,crowd_by_date,"March 11, 2024",96
+8,Animal Kingdom,2024,crowd_by_date,"February 16, 2024",96
+8,Animal Kingdom,2024,crowd_by_date,"February 20, 2024",95
+8,Animal Kingdom,2024,crowd_by_date,"October 09, 2024",0
+8,Animal Kingdom,2024,crowd_by_date,"October 02, 2024",5
+8,Animal Kingdom,2024,crowd_by_date,"November 20, 2024",7
+8,Animal Kingdom,2024,crowd_by_date,"December 11, 2024",9
+8,Animal Kingdom,2024,crowd_by_date,"December 19, 2024",10
+8,Animal Kingdom,2024,crowd_by_date,"September 11, 2024",10
+8,Animal Kingdom,2024,crowd_by_date,"October 07, 2024",10
+8,Animal Kingdom,2024,crowd_by_date,"October 01, 2024",11
+8,Animal Kingdom,2024,crowd_by_date,"October 31, 2024",11
+8,Animal Kingdom,2024,crowd_by_date,"October 30, 2024",12
+8,Animal Kingdom,2025,crowd_by_month,Jan,57
+8,Animal Kingdom,2025,crowd_by_month,Feb,56
+8,Animal Kingdom,2025,crowd_by_month,Mar,55
+8,Animal Kingdom,2025,crowd_by_month,Apr,54
+8,Animal Kingdom,2025,crowd_by_month,May,44
+8,Animal Kingdom,2025,crowd_by_month,Jun,43
+8,Animal Kingdom,2025,crowd_by_month,Jul,41
+8,Animal Kingdom,2025,crowd_by_month,Aug,35
+8,Animal Kingdom,2025,crowd_by_month,Sep,24
+8,Animal Kingdom,2025,crowd_by_month,Oct,29
+8,Animal Kingdom,2025,crowd_by_month,Nov,41
+8,Animal Kingdom,2025,crowd_by_month,Dec,47
+8,Animal Kingdom,2025,crowd_by_day,Sun,49
+8,Animal Kingdom,2025,crowd_by_day,Mon,48
+8,Animal Kingdom,2025,crowd_by_day,Tue,38
+8,Animal Kingdom,2025,crowd_by_day,Wed,35
+8,Animal Kingdom,2025,crowd_by_day,Thu,37
+8,Animal Kingdom,2025,crowd_by_day,Fri,46
+8,Animal Kingdom,2025,crowd_by_day,Sat,54
+8,Animal Kingdom,2025,crowd_by_event,🌙 Extended Evening,46
+8,Animal Kingdom,2025,crowd_by_event,⏰ Early Entry,44
+8,Animal Kingdom,2025,crowd_by_event,🎟️ Special Ticketed Event,29
+8,Animal Kingdom,2025,crowd_by_date,"January 03, 2025",96
+8,Animal Kingdom,2025,crowd_by_date,"December 29, 2025",96
+8,Animal Kingdom,2025,crowd_by_date,"February 17, 2025",94
+8,Animal Kingdom,2025,crowd_by_date,"January 02, 2025",94
+8,Animal Kingdom,2025,crowd_by_date,"December 28, 2025",92
+8,Animal Kingdom,2025,crowd_by_date,"December 27, 2025",92
+8,Animal Kingdom,2025,crowd_by_date,"January 04, 2025",90
+8,Animal Kingdom,2025,crowd_by_date,"January 25, 2025",88
+8,Animal Kingdom,2025,crowd_by_date,"December 30, 2025",86
+8,Animal Kingdom,2025,crowd_by_date,"February 16, 2025",86
+8,Animal Kingdom,2025,crowd_by_date,"October 01, 2025",5
+8,Animal Kingdom,2025,crowd_by_date,"September 03, 2025",5
+8,Animal Kingdom,2025,crowd_by_date,"September 30, 2025",5
+8,Animal Kingdom,2025,crowd_by_date,"August 28, 2025",7
+8,Animal Kingdom,2025,crowd_by_date,"January 21, 2025",7
+8,Animal Kingdom,2025,crowd_by_date,"September 04, 2025",7
+8,Animal Kingdom,2025,crowd_by_date,"October 02, 2025",8
+8,Animal Kingdom,2025,crowd_by_date,"July 04, 2025",9
+8,Animal Kingdom,2025,crowd_by_date,"September 02, 2025",9
+8,Animal Kingdom,2025,crowd_by_date,"September 29, 2025",9
+8,Animal Kingdom,2026,crowd_by_month,Jan,41
+8,Animal Kingdom,2026,crowd_by_month,Feb,52
+8,Animal Kingdom,2026,crowd_by_month,Mar,53
+8,Animal Kingdom,2026,crowd_by_month,Apr,52
+8,Animal Kingdom,2026,crowd_by_month,May,41
+8,Animal Kingdom,2026,crowd_by_month,Jun,36
+8,Animal Kingdom,2026,crowd_by_month,Jul,32
+8,Animal Kingdom,2026,crowd_by_month,Aug,31
+8,Animal Kingdom,2026,crowd_by_month,Sep,16
+8,Animal Kingdom,2026,crowd_by_day,Sun,44
+8,Animal Kingdom,2026,crowd_by_day,Mon,48
+8,Animal Kingdom,2026,crowd_by_day,Tue,34
+8,Animal Kingdom,2026,crowd_by_day,Wed,30
+8,Animal Kingdom,2026,crowd_by_day,Thu,35
+8,Animal Kingdom,2026,crowd_by_day,Fri,48
+8,Animal Kingdom,2026,crowd_by_day,Sat,51
+8,Animal Kingdom,2026,crowd_by_event,⏰ Early Entry,41
+8,Animal Kingdom,2026,crowd_by_event,🌙 Extended Evening,38
+8,Animal Kingdom,2026,crowd_by_event,🎟️ Special Ticketed Event,29
+8,Animal Kingdom,2026,crowd_by_date,"February 15, 2026",92
+8,Animal Kingdom,2026,crowd_by_date,"April 06, 2026",88
+8,Animal Kingdom,2026,crowd_by_date,"February 16, 2026",85
+8,Animal Kingdom,2026,crowd_by_date,"January 02, 2026",84
+8,Animal Kingdom,2026,crowd_by_date,"February 14, 2026",84
+8,Animal Kingdom,2026,crowd_by_date,"March 30, 2026",83
+8,Animal Kingdom,2026,crowd_by_date,"April 03, 2026",81
+8,Animal Kingdom,2026,crowd_by_date,"February 17, 2026",79
+8,Animal Kingdom,2026,crowd_by_date,"April 04, 2026",79
+8,Animal Kingdom,2026,crowd_by_date,"February 13, 2026",78
+8,Animal Kingdom,2026,crowd_by_date,"September 01, 2026",4
+8,Animal Kingdom,2026,crowd_by_date,"September 03, 2026",6
+8,Animal Kingdom,2026,crowd_by_date,"August 31, 2026",6
+8,Animal Kingdom,2026,crowd_by_date,"July 04, 2026",6
+8,Animal Kingdom,2026,crowd_by_date,"September 02, 2026",7
+8,Animal Kingdom,2026,crowd_by_date,"July 05, 2026",9
+8,Animal Kingdom,2026,crowd_by_date,"August 30, 2026",11
+8,Animal Kingdom,2026,crowd_by_date,"January 14, 2026",13
+8,Animal Kingdom,2026,crowd_by_date,"September 06, 2026",14
+8,Animal Kingdom,2026,crowd_by_date,"July 08, 2026",15
