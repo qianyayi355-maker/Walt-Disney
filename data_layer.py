@@ -35,6 +35,11 @@ DATA_DIR = BASE_DIR / "data"
 API = "https://api.themeparks.wiki/v1"
 ET = ZoneInfo("America/New_York")
 
+# 本模块对外接口的版本号。pages/app.py 与 Home.py 会校验这个值：
+# 只要其中一个文件单独更新，版本就对不上，页面会直接给出提示，
+# 而不是抛出 "module has no attribute ..." 这种看不懂的错误。
+API_VERSION = "1.1"
+
 # 应用运行必需的历史数据文件（缺任何一个都无法工作）
 REQUIRED_DATA_FILES = (
     "calendar_enriched.csv",
