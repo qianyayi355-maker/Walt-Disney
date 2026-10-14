@@ -34,6 +34,18 @@ except ModuleNotFoundError:
     )
     st.stop()
 
+# 两个文件必须来自同一次更新，否则会出现"函数不存在"之类的怪错误
+_REQUIRED_API_VERSION = "1.1"
+_got = getattr(dl, "API_VERSION", "未知（很旧的版本）")
+if _got != _REQUIRED_API_VERSION:
+    st.error(
+        f"**代码版本不匹配：`pages/app.py` 需要 `data_layer.py` 版本 "
+        f"{_REQUIRED_API_VERSION}，当前是 {_got}。**\n\n"
+        "这两个文件必须一起更新。请把最新版的 `data_layer.py` 也一并推送到仓库"
+        "（它和 `Home.py` 同级，不在 `pages/` 里），然后重启应用。"
+    )
+    st.stop()
+
 _missing = dl.missing_data_files()
 if _missing:
     st.error(
