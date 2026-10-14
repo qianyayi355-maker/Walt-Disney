@@ -8,11 +8,48 @@ Home.py 作为主入口，展示标题、欢迎语和跳转按钮；真正的功
 """
 
 from datetime import datetime
+import pathlib
+import sys
 
 import pandas as pd
 import streamlit as st
 
-import data_layer as dl
+# 把脚本所在目录（以及它的上一级）加进模块搜索路径，
+# 这样无论从哪个工作目录启动，都能找到同目录下的 data_layer.py。
+_HERE = pathlib.Path(__file__).resolve().parent
+for _p in (_HERE, _HERE.parent):
+    if (_p / "data_layer.py").exists() and str(_p) not in sys.path:
+        sys.path.insert(0, str(_p))
+
+try:
+    import data_layer as dl
+except ModuleNotFoundError:
+    st.error(
+        "**找不到 `data_layer.py`。**\n\n"
+        "请确认 GitHub 仓库的根目录下同时有这四样东西，缺一不可：\n"
+        "- `Home.py`\n- `data_layer.py`\n- `requirements.txt`\n- `data/` 文件夹\n\n"
+        "注意 `pages/app.py` 也必须一起上传。"
+    )
+    st.stop()
+
+_REQUIRED_API_VERSION = "1.1"
+_got = getattr(dl, "API_VERSION", "未知（很旧的版本）")
+if _got != _REQUIRED_API_VERSION:
+    st.error(
+        f"**代码版本不匹配：`Home.py` 需要 `data_layer.py` 版本 {_REQUIRED_API_VERSION}，"
+        f"当前是 {_got}。**\n\n"
+        "这几个文件必须一起更新，请把最新版的 `data_layer.py` 也推送到仓库，然后重启应用。"
+    )
+    st.stop()
+
+_missing = dl.missing_data_files()
+if _missing:
+    st.error(
+        "**缺少数据文件：** " + "、".join(_missing) + "\n\n"
+        f"应用正在查找的目录是 `{dl.DATA_DIR}`。"
+        "请把本地的 `data/` 文件夹整体上传到 GitHub 仓库的根目录。"
+    )
+    st.stop()
 
 st.set_page_config(
     page_title="Disney World 实时游玩助手",
