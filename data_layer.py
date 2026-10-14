@@ -35,9 +35,8 @@ DATA_DIR = BASE_DIR / "data"
 API = "https://api.themeparks.wiki/v1"
 ET = ZoneInfo("America/New_York")
 
-# 应用正常运行所需的数据文件（部署到 Streamlit Cloud 时最容易漏传的就是 data/ 文件夹）
+# 应用运行必需的历史数据文件（缺任何一个都无法工作）
 REQUIRED_DATA_FILES = (
-    "attraction_meta.json",
     "calendar_enriched.csv",
     "ride_stats.csv",
     "park_stats.csv",
@@ -46,10 +45,39 @@ REQUIRED_DATA_FILES = (
     "ll_split_index.csv",
 )
 
+# 景点经纬度缓存：缺了实时看板照常工作，只是无法规划路线
+GEO_CACHE_FILE = "attraction_meta.json"
+
 
 def missing_data_files(required: tuple[str, ...] = REQUIRED_DATA_FILES) -> list[str]:
-    """返回缺失的数据文件名，供页面在启动时给出可读的提示。"""
+    """返回缺失的必需数据文件名，供页面在启动时给出可读的提示。"""
     return [name for name in required if not (DATA_DIR / name).exists()]
+
+
+def diagnose(park: str) -> dict:
+    """部署排错用：报告数据目录、坐标缓存与实时接口的真实状态。
+
+    这几项正好覆盖了 Streamlit Cloud 上最常见的三种失败：
+    文件没传全、坐标缓存读不出来、容器访问不了外网。
+    """
+    meta = load_meta()
+    checked = list(REQUIRED_DATA_FILES) + [GEO_CACHE_FILE]
+    exists = {name: (DATA_DIR / name).exists() for name in checked}
+    try:
+        resp = requests.get(f"{API}/entity/{PARKS[park]['api_id']}/live", timeout=8)
+        live = f"可用（HTTP {resp.status_code}）" if resp.status_code == 200 \
+            else f"不可用（HTTP {resp.status_code}）"
+    except requests.RequestException as exc:
+        live = f"不可用（{type(exc).__name__}，可能是容器无法访问外网）"
+    return {
+        "项目根目录": str(BASE_DIR),
+        "数据目录": str(DATA_DIR),
+        "数据目录存在": "是" if DATA_DIR.exists() else "否",
+        "缺失的数据文件": "、".join(k for k, v in exists.items() if not v) or "无",
+        "坐标缓存条目数": len(meta),
+        f"「{park}」的景点条目数": sum(1 for v in meta.values() if v.get("park_name") == park),
+        "实时接口": live,
+    }
 
 # ---------------------------------------------------------------- 园区定义
 PARKS: dict[str, dict] = {
@@ -155,11 +183,24 @@ def load_chained() -> pd.DataFrame:
 
 
 @st.cache_data(show_spinner=False)
+def _read_json(path_str: str, mtime: float) -> dict:
+    """mtime 参与缓存键：文件新增或修改后缓存自动失效。"""
+    return json.loads(pathlib.Path(path_str).read_text(encoding="utf-8"))
+
+
 def load_meta() -> dict:
+    """读取景点经纬度缓存。
+
+    注意这里把文件的修改时间作为缓存键的一部分：曾经用无 TTL 的缓存直接缓存
+    整个函数，结果在文件缺席时把"空字典"缓存住了，之后补上文件也读不出来。
+    """
     path = DATA_DIR / "attraction_meta.json"
     if not path.exists():
         return {}
-    return json.loads(path.read_text(encoding="utf-8"))
+    try:
+        return _read_json(str(path), path.stat().st_mtime)
+    except (json.JSONDecodeError, OSError):
+        return {}
 
 
 # ================================================================ 工具函数
@@ -388,9 +429,9 @@ def _snapshot_from_live(park: str, raw: dict, now: datetime) -> Snapshot:
         if item.get("entityType") not in ("ATTRACTION", "SHOW"):
             continue
         info = meta.get(item["id"], {})
+        # 没有经纬度缓存时也保留该项目：看板靠排队数据就能工作，
+        # 只有路线规划需要坐标（届时会把这些项目排除并提示）。
         lat, lon = info.get("latitude"), info.get("longitude")
-        if lat is None:
-            continue
         queue = item.get("queue") or {}
         standby = (queue.get("STANDBY") or {}).get("waitTime")
         return_time = queue.get("RETURN_TIME") or {}
@@ -444,6 +485,7 @@ def _snapshot_from_live(park: str, raw: dict, now: datetime) -> Snapshot:
     rides["open_now"] = rides.status.isin(["OPERATING", "DOWN"])
     rides["down"] = rides.status.eq("DOWN")
     rides["has_window"] = rides.entity_id.isin(set(wins.keys()))
+    rides["has_geo"] = rides.lat.notna() & rides.lon.notna()
     rides["duration"] = [ride_duration(n, t, a) for n, t, a in
                          zip(rides.name, rides.entity_type, rides.attraction_type)]
     rides["category"] = [category_of(n, t) for n, t in zip(rides.name, rides.entity_type)]
@@ -484,10 +526,13 @@ def _snapshot_simulated(park: str, now: datetime, message: str) -> Snapshot:
     rows = []
     for _, r in hist.iterrows():
         match = by_key.get(r.key)
-        # 历史上存在但已停运的项目（找不到地理信息）跳过
-        if not match:
-            continue
-        eid, info = match
+        if match:
+            eid, info = match
+        else:
+            # 没有坐标缓存也要保留该项目：看板可用，只是不参与路线规划
+            eid = f"csv-{r.key}"
+            info = {"name": r["name"], "entity_type": "ATTRACTION",
+                    "attraction_type": None, "latitude": None, "longitude": None}
         seed = int(hashlib.md5(f"{eid}{now:%Y%m%d%H%M}".encode()).hexdigest()[:8], 16)
         rng = np.random.default_rng(seed)
         base = float(r.hist_avg) * (crowd / 55.0) * day_factor
@@ -505,7 +550,7 @@ def _snapshot_simulated(park: str, now: datetime, message: str) -> Snapshot:
             "has_early_entry": bool(hours["early_entry"]),
             "has_special_event": False,
             "event_only": False,
-            "lat": info["latitude"], "lon": info["longitude"],
+            "lat": info.get("latitude"), "lon": info.get("longitude"),
             "hist_avg": float(r.hist_avg), "hist_max": float(r.hist_max),
         })
     rides = pd.DataFrame(rows)
@@ -519,6 +564,7 @@ def _snapshot_simulated(park: str, now: datetime, message: str) -> Snapshot:
     rides["open_now"] = rides.status.eq("OPERATING")
     rides["down"] = False
     rides["has_window"] = False
+    rides["has_geo"] = rides.lat.notna() & rides.lon.notna()
     rides["duration"] = [ride_duration(n, t, a) for n, t, a in
                          zip(rides.name, rides.entity_type, rides.attraction_type)]
     rides["category"] = [category_of(n, t) for n, t in zip(rides.name, rides.entity_type)]
@@ -528,7 +574,8 @@ def _snapshot_simulated(park: str, now: datetime, message: str) -> Snapshot:
 def filter_snapshot(snap: Snapshot, include_event_only: bool = False,
                     categories: list[str] | None = None,
                     fixed_only: bool = False,
-                    recorded_only: bool = False) -> Snapshot:
+                    recorded_only: bool = False,
+                    geo_only: bool = False) -> Snapshot:
     """按用户口径筛选可规划的项目，返回新的快照。"""
     rides = snap.rides
     if rides.empty:
@@ -538,6 +585,9 @@ def filter_snapshot(snap: Snapshot, include_event_only: bool = False,
         mask &= ~rides.event_only.fillna(False).astype(bool)
     if fixed_only and "has_window" in rides.columns:
         mask &= rides.has_window.fillna(False).astype(bool)
+    if geo_only and "has_geo" in rides.columns:
+        # 没有经纬度就没法估算步行时间，只能排除在路线之外
+        mask &= rides.has_geo.fillna(False).astype(bool)
     if recorded_only:
         # 有历史排队记录、或此刻有实时排队的项目，才算真正要排队的项目
         recorded = rides.hist_avg.notna() | rides.wait_now.notna()
@@ -739,8 +789,13 @@ def plan_route(snap: Snapshot, priorities: dict[int, float], start_dt: datetime,
         score.append(s)
     score = np.array(score, dtype=float)
 
-    usable = [i for i in rides.index
+    has_geo = (rides["has_geo"].fillna(False).astype(bool)
+               if "has_geo" in rides.columns
+               else pd.Series(True, index=rides.index))
+    wanted = [i for i in rides.index
               if priorities.get(i, 1.0) > 0 and not bool(rides.down.iloc[i])]
+    usable = [i for i in wanted if has_geo.iloc[i]]
+    no_geo = len(wanted) - len(usable)
     must = [i for i in usable if priorities.get(i, 1.0) >= 3]
     rest = [i for i in usable if i not in must]
 
@@ -853,6 +908,7 @@ def plan_route(snap: Snapshot, priorities: dict[int, float], start_dt: datetime,
         "start": start_dt, "end": res["finish"],
         "feasible": res["feasible"],
         "available": len(usable),
+        "no_geo": no_geo,
         "score": total_score(order),
     }
     return table, summary
