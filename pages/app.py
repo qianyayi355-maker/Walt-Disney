@@ -1,12 +1,14 @@
 """pages/app.py —— 主应用页：实时排队看板 / 今日最佳路线 / 客流分析 / 方法说明。
 
 由 Home.py 通过 st.switch_page("pages/app.py") 进入，也可以直接
-    streamlit run pages/app.py
-运行。
+    strreamlit run pages/app.py
+运行。r
 """
 
 from __future__ import annotations
 
+import pathlib
+import sys
 import time
 from datetime import datetime, time as dtime, timedelta
 
@@ -16,7 +18,30 @@ import plotly.express as px
 import plotly.graph_objects as go
 import streamlit as st
 
-import data_layer as dl
+# 本文件在 pages/ 下，需要把项目根目录加进模块搜索路径才能找到 data_layer.py
+_HERE = pathlib.Path(__file__).resolve().parent
+for _p in (_HERE, _HERE.parent):
+    if (_p / "data_layer.py").exists() and str(_p) not in sys.path:
+        sys.path.insert(0, str(_p))
+
+try:
+    import data_layer as dl
+except ModuleNotFoundError:
+    st.error(
+        "**找不到 `data_layer.py`。**\n\n"
+        "请确认 GitHub 仓库根目录下同时有 `Home.py`、`data_layer.py`、`requirements.txt` "
+        "和 `data/` 文件夹，注意这个模块不在 `pages/` 里。"
+    )
+    st.stop()
+
+_missing = dl.missing_data_files()
+if _missing:
+    st.error(
+        "**缺少数据文件：** " + "、".join(_missing) + "\n\n"
+        f"应用正在查找的目录是 `{dl.DATA_DIR}`。"
+        "请把本地的 `data/` 文件夹整体上传到 GitHub 仓库的根目录。"
+    )
+    st.stop()
 
 st.set_page_config(
     page_title="实时看板与今日路线 · Disney World",
@@ -135,9 +160,19 @@ if force_only_live and not snap.is_live:
     st.error("已选择“仅实时接口”，但当前无法连接 ThemeParks.wiki。请检查网络后点击“立即刷新”。")
 
 if snap.rides.empty:
-    st.error(
-        "当前拿不到任何项目数据。若为离线环境，请确认 `data/attraction_meta.json` 存在"
-        "（可运行 `python3 tools/build_attraction_meta.py` 生成）。"
+    st.error("**当前拿不到任何项目数据。** 下面是应用自检结果，请对照排查：")
+    diag = dl.diagnose(park)
+    st.dataframe(
+        pd.DataFrame({"检查项": list(diag.keys()), "结果": [str(v) for v in diag.values()]}),
+        hide_index=True, width="stretch",
+    )
+    st.markdown(
+        "- **缺少的数据文件不是「无」** → 把本地的 `data/` 文件夹整体补传到仓库根目录。\n"
+        "- **坐标缓存条目数 = 0** → `data/attraction_meta.json` 没传成功，"
+        "补传该文件，或在本地运行 `python3 tools/build_attraction_meta.py` 重新生成。\n"
+        "- **实时接口不可用** → 容器访问不了外网；此时应用会退回离线模拟，"
+        "而离线模拟依赖后面两项，所以数据和缓存仍要补齐。\n"
+        "- 补完文件后在 Streamlit Cloud 右下角 **Manage app → Reboot** 重启一次。"
     )
     st.stop()
 
@@ -151,6 +186,14 @@ filtered = dl.filter_snapshot(
 if filtered.rides.empty:
     st.warning("当前的筛选条件下没有可规划的项目，请放宽侧边栏的“项目范围”设置。")
     filtered = dl.filter_snapshot(snap, include_event_only=with_event, categories=cats or None)
+
+if "has_geo" in snap.rides.columns and int(snap.rides.has_geo.sum()) == 0:
+    st.warning(
+        "未读到景点坐标缓存 `data/attraction_meta.json`：**实时排队看板照常可用**，"
+        "但「今日最佳路线」需要坐标来算步行距离，暂时无法规划。"
+        "补传该文件后重启应用即可，或在本地运行 `python3 tools/build_attraction_meta.py` 重新生成。",
+        icon="📍",
+    )
 
 
 # ================================================================ 图表工具
@@ -445,6 +488,17 @@ with tab_route:
         st.caption(f"候选项目 {int((pd.Series(list(priorities.values())) > 0).sum())} 个"
                    f"（其中必玩 {int((pd.Series(list(priorities.values())) >= 3).sum())} 个）· "
                    f"策略：{strategy} · 峰值系数 {peak:.1f}")
+
+    n_geo = int(snap.rides.has_geo.sum()) if "has_geo" in snap.rides.columns else len(snap.rides)
+    if n_geo == 0:
+        st.error(
+            "**缺少景点坐标，无法规划路线。** 路线需要计算项目之间的步行距离，"
+            "而坐标来自 `data/attraction_meta.json`（当前读到 0 条）。\n\n"
+            "补传该文件，或在本地运行 `python3 tools/build_attraction_meta.py` 重新生成后重启应用。"
+            "实时排队看板不受影响，照常可用。"
+        )
+    elif n_geo < len(snap.rides):
+        st.caption(f"提示：{len(snap.rides) - n_geo} 个项目缺少坐标，已排除在规划之外。")
 
     if run_plan:
         with st.spinner("正在按实时排队、步行距离与开放时段求解路线…"):
